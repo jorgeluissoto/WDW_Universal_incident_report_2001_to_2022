@@ -1,0 +1,6140 @@
+[
+  {
+    "Company": "Disney World",
+    "Incident_date": "6/9/2022",
+    "Ride_name": "Alien Swirling Saucers",
+    "Theme_Park": "Hollywood Studios",
+    "age": 59,
+    "gender": "F",
+    "description": "guest with pre-existing condition sustained injury to toes"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "10/5/2014",
+    "Ride_name": "Astro Orbiter",
+    "Theme_Park": "Magic Kingdom",
+    "age": 68,
+    "gender": "M",
+    "description": "guest fell exiting vehicle, developed blood clot in leg"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "12/3/2009",
+    "Ride_name": "Astro Orbiter",
+    "Theme_Park": "Magic Kingdom",
+    "age": 40,
+    "gender": "F",
+    "description": "fractured left ankle exiting ride"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "8/7/2022",
+    "Ride_name": "Avatar Flight of Passage",
+    "Theme_Park": "Animal Kingdom",
+    "age": 83,
+    "gender": "M",
+    "description": "guest with pre-existing condition was briefly unresponsive while experiencing attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "4/19/2022",
+    "Ride_name": "Avatar Flight of Passage",
+    "Theme_Park": "Animal Kingdom",
+    "age": 42,
+    "gender": "F",
+    "description": "guest with pre-existing condition had motion sickness after experiencing the attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "7/5/2022",
+    "Ride_name": "Avatar Flight of Passage",
+    "Theme_Park": "Animal Kingdom",
+    "age": 67,
+    "gender": "F",
+    "description": "guest with pre-existing lost consciousness after exiting the attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "1/27/2022",
+    "Ride_name": "Avatar Flight of Passage",
+    "Theme_Park": "Animal Kingdom",
+    "age": 25,
+    "gender": "F",
+    "description": "guest with a pre-existing condition had a seizure after experiencing the attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "12/18/2021",
+    "Ride_name": "Avatar Flight of Passage",
+    "Theme_Park": "Animal Kingdom",
+    "age": 69,
+    "gender": "M",
+    "description": "guest felt unwell upon exiting attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "12/21/2021",
+    "Ride_name": "Avatar Flight of Passage",
+    "Theme_Park": "Animal Kingdom",
+    "age": 69,
+    "gender": "F",
+    "description": "guest felt disoriented after experiencing attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "9/16/2021",
+    "Ride_name": "Avatar Flight of Passage",
+    "Theme_Park": "Animal Kingdom",
+    "age": 68,
+    "gender": "F",
+    "description": "guest with pre-existing condition felt lightheaded after experiencing the attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "6/29/2021",
+    "Ride_name": "Avatar Flight of Passage",
+    "Theme_Park": "Animal Kingdom",
+    "age": 27,
+    "gender": "M",
+    "description": "guest with pre-existing condition had a seizure after experiencing the attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "3/24/2018",
+    "Ride_name": "Avatar Flight of Passage",
+    "Theme_Park": "Animal Kingdom",
+    "age": 41,
+    "gender": "M",
+    "description": "guest with pre-existing condition felt ill after riding attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "7/5/2019",
+    "Ride_name": "Avatar Flight of Passage",
+    "Theme_Park": "Animal Kingdom",
+    "age": 34,
+    "gender": "F",
+    "description": "guest temporarily lost consciousness while on attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "5/28/2018",
+    "Ride_name": "Avatar Flight of Passage",
+    "Theme_Park": "Animal Kingdom",
+    "age": 18,
+    "gender": "M",
+    "description": "guest with pre-existing condition felt disoriented after riding attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "10/27/2017",
+    "Ride_name": "Avatar Flight of Passage",
+    "Theme_Park": "Animal Kingdom",
+    "age": 77,
+    "gender": "F",
+    "description": "guest fell while boarding ride"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "4/11/2017",
+    "Ride_name": "Avatar Flight of Passage",
+    "Theme_Park": "Animal Kingdom",
+    "age": 56,
+    "gender": "F",
+    "description": "guest with pre-existing condition temporarily passed out on ride"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "12/6/2017",
+    "Ride_name": "Avatar Flight of Passage",
+    "Theme_Park": "Animal Kingdom",
+    "age": 79,
+    "gender": "F",
+    "description": "guest with pre-existing condition became ill after riding"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "6/24/2017",
+    "Ride_name": "Avatar Flight of Passage",
+    "Theme_Park": "Animal Kingdom",
+    "age": 31,
+    "gender": "F",
+    "description": "felt dizzy, ill and brief loss of consciousness"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "6/27/2004",
+    "Ride_name": "Back to the Future",
+    "Theme_Park": "Universal Studios",
+    "age": 67,
+    "gender": "F",
+    "description": "Hypertension"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "5/8/2012",
+    "Ride_name": "Big Thunder Mountain Railroad",
+    "Theme_Park": "Magic Kingdom",
+    "age": 62,
+    "gender": "F",
+    "description": "guest with pre-existing condition complained of pain in leg upon exiting later diagnosed with a blood clot"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "12/19/2004",
+    "Ride_name": "Big Thunder Mountain Railroad",
+    "Theme_Park": "Magic Kingdom",
+    "age": 68,
+    "gender": "M",
+    "description": "reported difficulty moving when leaving ride"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "12/24/2003",
+    "Ride_name": "Big Thunder Mountain Railroad",
+    "Theme_Park": "Magic Kingdom",
+    "age": 23,
+    "gender": "M",
+    "description": "knee"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "3/14/2008",
+    "Ride_name": "Big Thunder Mountain Railroad",
+    "Theme_Park": "Magic Kingdom",
+    "age": 39,
+    "gender": "M",
+    "description": "Seizure after exiting ride"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "4/22/2017",
+    "Ride_name": "Big Thunder Mountain Railroad",
+    "Theme_Park": "Magic Kingdom",
+    "age": 59,
+    "gender": "F",
+    "description": "guest with pre-existing conditions felt ill"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "10/5/2017",
+    "Ride_name": "Big Thunder Mountain Railroad",
+    "Theme_Park": "Magic Kingdom",
+    "age": 44,
+    "gender": "F",
+    "description": "stomach pain"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "9/2/2017",
+    "Ride_name": "Big Thunder Mountain Railroad",
+    "Theme_Park": "Magic Kingdom",
+    "age": 54,
+    "gender": "M",
+    "description": "guest with pre-existing condition collapsed; later passed away at hospital"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "12/2/2017",
+    "Ride_name": "Big Thunder Mountain Railroad",
+    "Theme_Park": "Magic Kingdom",
+    "age": 69,
+    "gender": "M",
+    "description": "guest with pre-existing condition complained of neck pain"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "6/12/2015",
+    "Ride_name": "Big Thunder Mountain Railroad",
+    "Theme_Park": "Magic Kingdom",
+    "age": 75,
+    "gender": "M",
+    "description": "guest complained of pain, tremors and numbness in right arm after exiting"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "2/12/2014",
+    "Ride_name": "Big Thunder Mountain Railroad",
+    "Theme_Park": "Magic Kingdom",
+    "age": 63,
+    "gender": "F",
+    "description": "guest with pre-existing health conditions experienced headache & loss of consciousness after riding, subsequently underwent surgery for aneurysm and released from hospital"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "7/21/2014",
+    "Ride_name": "Big Thunder Mountain Railroad",
+    "Theme_Park": "Magic Kingdom",
+    "age": 71,
+    "gender": "F",
+    "description": "chest pain"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "5/27/2014",
+    "Ride_name": "Big Thunder Mountain Railroad",
+    "Theme_Park": "Magic Kingdom",
+    "age": 72,
+    "gender": "F",
+    "description": "guest with preexisting condition exited ride with chest pain and felt dizzy, briefly lost consciousness and fell"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "1/11/2006",
+    "Ride_name": "Buzz Lightyears Space Ranger Spin",
+    "Theme_Park": "Magic Kingdom",
+    "age": 56,
+    "gender": "M",
+    "description": "Seizure."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "11/30/2004",
+    "Ride_name": "Buzz Lightyears Space Ranger Spin",
+    "Theme_Park": "Magic Kingdom",
+    "age": 58,
+    "gender": "F",
+    "description": "got sick on ride due to lights."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "11/5/2003",
+    "Ride_name": "Buzz Lightyears Space Ranger Spin",
+    "Theme_Park": "Magic Kingdom",
+    "age": 75,
+    "gender": "F",
+    "description": "knee injury"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "5/14/2003",
+    "Ride_name": "Buzz Lightyears Space Ranger Spin",
+    "Theme_Park": "Magic Kingdom",
+    "age": 12,
+    "gender": "F",
+    "description": "lacerated ankle"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "9/8/2008",
+    "Ride_name": "Buzz Lightyears Space Ranger Spin",
+    "Theme_Park": "Magic Kingdom",
+    "age": 54,
+    "gender": "M",
+    "description": "fell after getting off ride, fractured hip"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "3/18/2019",
+    "Ride_name": "Buzz Lightyears Space Ranger Spin",
+    "Theme_Park": "Magic Kingdom",
+    "age": 75,
+    "gender": "M",
+    "description": "guest fell and fractured leg while entering attraction vehicle"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "10/25/2018",
+    "Ride_name": "Buzz Lightyears Space Ranger Spin",
+    "Theme_Park": "Magic Kingdom",
+    "age": 72,
+    "gender": "F",
+    "description": "guest fell while exiting the ride vehicle; injured hip"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "10/6/2017",
+    "Ride_name": "Buzz Lightyears Space Ranger Spin",
+    "Theme_Park": "Magic Kingdom",
+    "age": 50,
+    "gender": "F",
+    "description": "felt ill after riding"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "2/9/2015",
+    "Ride_name": "Buzz Lightyears Space Ranger Spin",
+    "Theme_Park": "Magic Kingdom",
+    "age": 67,
+    "gender": "M",
+    "description": "guest with pre-existing health condition felt dizziness and chest pains"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "11/10/2014",
+    "Ride_name": "Buzz Lightyears Space Ranger Spin",
+    "Theme_Park": "Magic Kingdom",
+    "age": 34,
+    "gender": "F",
+    "description": "guest with history of diabetic seizures experienced seizure"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "1/3/2014",
+    "Ride_name": "Buzz Lightyears Space Ranger Spin",
+    "Theme_Park": "Magic Kingdom",
+    "age": 71,
+    "gender": "F",
+    "description": "fell while exiting; fractured hip"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "7/11/2013",
+    "Ride_name": "Buzz Lightyears Space Ranger Spin",
+    "Theme_Park": "Magic Kingdom",
+    "age": 48,
+    "gender": "M",
+    "description": "guest felt ill after riding"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "9/14/2010",
+    "Ride_name": "Buzz Lightyears Space Ranger Spin",
+    "Theme_Park": "Magic Kingdom",
+    "age": 73,
+    "gender": "F",
+    "description": "fell on moving walkway in load area: fractured spine."
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "3/30/2015",
+    "Ride_name": "Camp Jurassic",
+    "Theme_Park": "Islands of Adventure",
+    "age": 5,
+    "gender": "F",
+    "description": "arm injury"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "8/25/2010",
+    "Ride_name": "Camp Jurassic",
+    "Theme_Park": "Islands of Adventure",
+    "age": 34,
+    "gender": "F",
+    "description": "fractured ankle"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "7/17/2007",
+    "Ride_name": "Camp Jurassic",
+    "Theme_Park": "Islands of Adventure",
+    "age": 14,
+    "gender": "F",
+    "description": "Fractured arm."
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "1/3/2017",
+    "Ride_name": "Caro-Seuss-el",
+    "Theme_Park": "Islands of Adventure",
+    "age": 68,
+    "gender": "F",
+    "description": "pelvis pain"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "6/14/2022",
+    "Ride_name": "Caro-Seuss-el",
+    "Theme_Park": "Islands of Adventure",
+    "age": 33,
+    "gender": "F",
+    "description": "head pain"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "11/22/2017",
+    "Ride_name": "Caro-Seuss-el",
+    "Theme_Park": "Islands of Adventure",
+    "age": 59,
+    "gender": "M",
+    "description": "fainting/head injury"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "7/25/2011",
+    "Ride_name": "Caro-Seuss-el",
+    "Theme_Park": "Islands of Adventure",
+    "age": 80,
+    "gender": "M",
+    "description": "general illness"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "12/29/2001",
+    "Ride_name": "Caro-Seuss-el",
+    "Theme_Park": "Islands of Adventure",
+    "age": 52,
+    "gender": "F",
+    "description": "broken arm"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "12/2/2012",
+    "Ride_name": "Caro-Seuss-el",
+    "Theme_Park": "Islands of Adventure",
+    "age": 62,
+    "gender": "F",
+    "description": "head laceration"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "5/7/2012",
+    "Ride_name": "Carousel of Progress",
+    "Theme_Park": "Magic Kingdom",
+    "age": 62,
+    "gender": "F",
+    "description": "tripped while approaching seat, fractured femur"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "7/24/2013",
+    "Ride_name": "Carousel of Progress",
+    "Theme_Park": "Magic Kingdom",
+    "age": 1,
+    "gender": "F",
+    "description": "guest with pre-existing condition had difficulty breathing"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "9/22/2019",
+    "Ride_name": "Castaway Creek",
+    "Theme_Park": "Blizzard Beach",
+    "age": 44,
+    "gender": "F",
+    "description": "guest experienced sudden memory loss"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "8/4/2017",
+    "Ride_name": "Castaway Creek",
+    "Theme_Park": "Blizzard Beach",
+    "age": 57,
+    "gender": "F",
+    "description": "guest with pre-existing condition experienced stroke-like symptoms"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "10/10/2013",
+    "Ride_name": "Castaway Creek",
+    "Theme_Park": "Blizzard Beach",
+    "age": 68,
+    "gender": "M",
+    "description": "fractured toe on outer wall"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "7/16/2011",
+    "Ride_name": "Castaway Creek",
+    "Theme_Park": "Blizzard Beach",
+    "age": 18,
+    "gender": "F",
+    "description": "loss of consciousness and seizure like symptoms."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "6/26/2010",
+    "Ride_name": "Castaway Creek",
+    "Theme_Park": "Blizzard Beach",
+    "age": 54,
+    "gender": "F",
+    "description": "Lost balance and fell; fractured tibia"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "2/16/2004",
+    "Ride_name": "Chair Lift",
+    "Theme_Park": "Blizzard Beach",
+    "age": 41,
+    "gender": "F",
+    "description": "injured ankle getting into raft, went to hospital"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "5/19/2015",
+    "Ride_name": "Chair Lift",
+    "Theme_Park": "Blizzard Beach",
+    "age": 65,
+    "gender": "F",
+    "description": "fell while exiting attraction, fractured hip"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "12/7/2004",
+    "Ride_name": "Cross County Creek",
+    "Theme_Park": "Blizzard Beach",
+    "age": 33,
+    "gender": "F",
+    "description": "seizure"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "1/1/2008",
+    "Ride_name": "Cross County Creek",
+    "Theme_Park": "Blizzard Beach",
+    "age": 48,
+    "gender": "M",
+    "description": "Guest jumped into creek and fractured ankle"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "2/5/2007",
+    "Ride_name": "Crush n' Gusher",
+    "Theme_Park": "Blizzard Beach",
+    "age": 17,
+    "gender": "M",
+    "description": "Hit head on bottom of catch pool"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "5/25/2012",
+    "Ride_name": "Crush n' Gusher",
+    "Theme_Park": "Blizzard Beach",
+    "age": 45,
+    "gender": "F",
+    "description": "Chest pain"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "4/23/2015",
+    "Ride_name": "Despicable Me Minion Mayhem",
+    "Theme_Park": "Universal Studios",
+    "age": 54,
+    "gender": "F",
+    "description": "head and neck pain"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "12/13/2019",
+    "Ride_name": "Despicable Me Minion Mayhem",
+    "Theme_Park": "Universal Studios",
+    "age": 44,
+    "gender": "F",
+    "description": "motion sickness"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "3/17/2018",
+    "Ride_name": "Despicable Me Minion Mayhem",
+    "Theme_Park": "Universal Studios",
+    "age": 7,
+    "gender": "F",
+    "description": "motion sickness"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "10/13/2015",
+    "Ride_name": "Despicable Me Minion Mayhem",
+    "Theme_Park": "Universal Studios",
+    "age": 66,
+    "gender": "F",
+    "description": "dizziness"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "6/24/2003",
+    "Ride_name": "Dinosaur",
+    "Theme_Park": "Animal Kingdom",
+    "age": 14,
+    "gender": "F",
+    "description": "chest pain"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "4/30/2005",
+    "Ride_name": "Dinosaur",
+    "Theme_Park": "Animal Kingdom",
+    "age": 30,
+    "gender": "M",
+    "description": "guest lost consciousness, parents indicated he had a pre-existing heart condition. Later passed away at hospital"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "7/17/2003",
+    "Ride_name": "Dinosaur",
+    "Theme_Park": "Animal Kingdom",
+    "age": 64,
+    "gender": "F",
+    "description": "passed out"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "1/17/2022",
+    "Ride_name": "Dinosaur",
+    "Theme_Park": "Animal Kingdom",
+    "age": 65,
+    "gender": "M",
+    "description": "guest with pre-existing condition felt dizzy after experiencing attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "2/17/2019",
+    "Ride_name": "Dinosaur",
+    "Theme_Park": "Animal Kingdom",
+    "age": 53,
+    "gender": "M",
+    "description": "guest with pre-existing condition had chest pains and shortness of breath"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "4/17/2018",
+    "Ride_name": "Dinosaur",
+    "Theme_Park": "Animal Kingdom",
+    "age": 46,
+    "gender": "F",
+    "description": "guest felt dizzy after riding attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "6/17/2018",
+    "Ride_name": "Dinosaur",
+    "Theme_Park": "Animal Kingdom",
+    "age": 58,
+    "gender": "M",
+    "description": "guest with pre-existing condition vomited after experiencing the attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "12/23/2015",
+    "Ride_name": "Dinosaur",
+    "Theme_Park": "Animal Kingdom",
+    "age": 24,
+    "gender": "M",
+    "description": "seizure after departing from attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "3/15/2014",
+    "Ride_name": "Dinosaur",
+    "Theme_Park": "Animal Kingdom",
+    "age": 73,
+    "gender": "F",
+    "description": "chest pain"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "2/18/2012",
+    "Ride_name": "Dinosaur",
+    "Theme_Park": "Animal Kingdom",
+    "age": 36,
+    "gender": "F",
+    "description": "seizure after riding"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "2/8/2010",
+    "Ride_name": "Dinosaur",
+    "Theme_Park": "Animal Kingdom",
+    "age": 45,
+    "gender": "M",
+    "description": "seizure"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "10/12/2009",
+    "Ride_name": "Dinosaur",
+    "Theme_Park": "Animal Kingdom",
+    "age": 61,
+    "gender": "F",
+    "description": "seizure"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "7/25/2008",
+    "Ride_name": "Dinosaur",
+    "Theme_Park": "Animal Kingdom",
+    "age": 73,
+    "gender": "M",
+    "description": "guest with pre-existing heart condition reported chest pain"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "2/1/2010",
+    "Ride_name": "Dinosaur",
+    "Theme_Park": "Animal Kingdom",
+    "age": 40,
+    "gender": "F",
+    "description": "chest pain: anxiety"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "10/29/2013",
+    "Ride_name": "Disaster",
+    "Theme_Park": "Universal Studios",
+    "age": 61,
+    "gender": "F",
+    "description": "presented with confusion"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "4/6/2007",
+    "Ride_name": "Downhill Double Dipper",
+    "Theme_Park": "Blizzard Beach",
+    "age": 8,
+    "gender": "F",
+    "description": "Back Pain."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "3/16/2007",
+    "Ride_name": "Downhill Double Dipper",
+    "Theme_Park": "Blizzard Beach",
+    "age": 52,
+    "gender": "M",
+    "description": "It is unclear whether the guest rode this attraction. Guest collapsed adjacent to catch pool; later passed away"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "7/27/2017",
+    "Ride_name": "Downhill Double Dipper",
+    "Theme_Park": "Blizzard Beach",
+    "age": 45,
+    "gender": "F",
+    "description": "fractured arm"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "7/24/2012",
+    "Ride_name": "Downhill Double Dipper",
+    "Theme_Park": "Blizzard Beach",
+    "age": 18,
+    "gender": "F",
+    "description": "guest with pre-existing condition had a seizure"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "4/15/2003",
+    "Ride_name": "Dr Doom's Fearfall",
+    "Theme_Park": "Islands of Adventure",
+    "age": 9,
+    "gender": "F",
+    "description": "laceration/tear genitalia"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "12/7/2019",
+    "Ride_name": "Dr Doom's Fearfall",
+    "Theme_Park": "Islands of Adventure",
+    "age": 62,
+    "gender": "F",
+    "description": "motion sickness"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "4/15/2006",
+    "Ride_name": "Dragon Challenge",
+    "Theme_Park": "Islands of Adventure",
+    "age": 47,
+    "gender": "F",
+    "description": "Nausea, heartburn, chest pain, numb L arm"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "7/31/2016",
+    "Ride_name": "Dragon Challenge",
+    "Theme_Park": "Islands of Adventure",
+    "age": 52,
+    "gender": "F",
+    "description": "dizziness"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "4/25/2016",
+    "Ride_name": "Dragon Challenge",
+    "Theme_Park": "Islands of Adventure",
+    "age": 46,
+    "gender": "F",
+    "description": "neck pain"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "3/28/2015",
+    "Ride_name": "Dragon Challenge",
+    "Theme_Park": "Islands of Adventure",
+    "age": 41,
+    "gender": "M",
+    "description": "back pain"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "9/30/2015",
+    "Ride_name": "Dragon Challenge",
+    "Theme_Park": "Islands of Adventure",
+    "age": 59,
+    "gender": "M",
+    "description": "unconscious"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "10/18/2013",
+    "Ride_name": "Dragon Challenge",
+    "Theme_Park": "Islands of Adventure",
+    "age": 67,
+    "gender": "F",
+    "description": "presented with confusion"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "11/7/2012",
+    "Ride_name": "Dragon Challenge",
+    "Theme_Park": "Islands of Adventure",
+    "age": 17,
+    "gender": "F",
+    "description": "lowered level of consciousness"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "7/31/2011",
+    "Ride_name": "Dragon Challenge",
+    "Theme_Park": "Islands of Adventure",
+    "age": 48,
+    "gender": "M",
+    "description": "eye discomfort"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "9/12/2009",
+    "Ride_name": "Dragon Challenge",
+    "Theme_Park": "Islands of Adventure",
+    "age": 29,
+    "gender": "F",
+    "description": "vomiting"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "9/8/2008",
+    "Ride_name": "Dragon Challenge",
+    "Theme_Park": "Islands of Adventure",
+    "age": 46,
+    "gender": "M",
+    "description": "chest pain, shortness of breath and nausea"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "11/8/2007",
+    "Ride_name": "Dragon Challenge",
+    "Theme_Park": "Islands of Adventure",
+    "age": 16,
+    "gender": "M",
+    "description": "Upper back pain."
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "10/17/2014",
+    "Ride_name": "Dudley Do Rights Ripsaw Falls",
+    "Theme_Park": "Islands of Adventure",
+    "age": 49,
+    "gender": "F",
+    "description": "seizure (pre-existing condition)"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "2/10/2002",
+    "Ride_name": "Dudley Do Rights Ripsaw Falls",
+    "Theme_Park": "Islands of Adventure",
+    "age": 55,
+    "gender": "F",
+    "description": "complained of lower back pain."
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "10/11/2002",
+    "Ride_name": "Dudley Do Rights Ripsaw Falls",
+    "Theme_Park": "Islands of Adventure",
+    "age": 62,
+    "gender": "M",
+    "description": "complained of neck pain."
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "11/7/2002",
+    "Ride_name": "Dudley Do Rights Ripsaw Falls",
+    "Theme_Park": "Islands of Adventure",
+    "age": 36,
+    "gender": "F",
+    "description": "fractured back."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "2/22/2006",
+    "Ride_name": "Dumbo",
+    "Theme_Park": "Magic Kingdom",
+    "age": 40,
+    "gender": "M",
+    "description": "Came off ride not feeling well."
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "1/31/2019",
+    "Ride_name": "E.T Adventure",
+    "Theme_Park": "Universal Studios",
+    "age": 11,
+    "gender": "M",
+    "description": "foot pain"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "9/12/2015",
+    "Ride_name": "E.T Adventure",
+    "Theme_Park": "Universal Studios",
+    "age": 21,
+    "gender": "F",
+    "description": "motion sickness"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "4/20/2014",
+    "Ride_name": "E.T Adventure",
+    "Theme_Park": "Universal Studios",
+    "age": 61,
+    "gender": "M",
+    "description": "weakness"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "3/13/2009",
+    "Ride_name": "E.T Adventure",
+    "Theme_Park": "Universal Studios",
+    "age": 68,
+    "gender": "M",
+    "description": "Left arm numbness"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "3/13/2021",
+    "Ride_name": "E.T Adventure",
+    "Theme_Park": "Universal Studios",
+    "age": 71,
+    "gender": "F",
+    "description": "motion sickness"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "1/18/2015",
+    "Ride_name": "E.T Adventure",
+    "Theme_Park": "Universal Studios",
+    "age": 44,
+    "gender": "F",
+    "description": "back pain (pre-existing condition)"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "3/22/2002",
+    "Ride_name": "E.T Adventure",
+    "Theme_Park": "Universal Studios",
+    "age": 13,
+    "gender": "M",
+    "description": "injured right foot."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "3/8/2005",
+    "Ride_name": "Ellen's Energy Adventure",
+    "Theme_Park": "Epcot",
+    "age": 73,
+    "gender": "M",
+    "description": "felt ill."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "3/13/2005",
+    "Ride_name": "Ellen's Energy Adventure",
+    "Theme_Park": "Epcot",
+    "age": 52,
+    "gender": "M",
+    "description": "not feeling well on ride."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "7/3/2016",
+    "Ride_name": "Ellen's Energy Adventure",
+    "Theme_Park": "Epcot",
+    "age": 67,
+    "gender": "M",
+    "description": "guest felt ill, dizzy and disoriented"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "7/10/2012",
+    "Ride_name": "Ellen's Energy Adventure",
+    "Theme_Park": "Epcot",
+    "age": 88,
+    "gender": "F",
+    "description": "chest pain"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "12/30/2012",
+    "Ride_name": "Ellen's Energy Adventure",
+    "Theme_Park": "Epcot",
+    "age": 76,
+    "gender": "M",
+    "description": "loss of consciousness while on ride, pre-existing condition"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "3/17/2011",
+    "Ride_name": "Ellen's Energy Adventure",
+    "Theme_Park": "Epcot",
+    "age": 77,
+    "gender": "M",
+    "description": "Report of possible heart attack for guest with history of heart condition"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "3/28/2003",
+    "Ride_name": "Ellen's Energy Adventure",
+    "Theme_Park": "Epcot",
+    "age": 81,
+    "gender": "F",
+    "description": "heart attack later died."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "6/23/2009",
+    "Ride_name": "Ellen's Energy Adventure",
+    "Theme_Park": "Epcot",
+    "age": 57,
+    "gender": "M",
+    "description": "Felt dizzy."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "3/3/2007",
+    "Ride_name": "Expedition Everest",
+    "Theme_Park": "Animal Kingdom",
+    "age": 27,
+    "gender": "M",
+    "description": "Seizure."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "9/20/2006",
+    "Ride_name": "Expedition Everest",
+    "Theme_Park": "Animal Kingdom",
+    "age": 59,
+    "gender": "F",
+    "description": "Felt disoriented and sick."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "6/21/2006",
+    "Ride_name": "Expedition Everest",
+    "Theme_Park": "Animal Kingdom",
+    "age": 60,
+    "gender": "M",
+    "description": "Shortness of breath and chest pains."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "4/6/2010",
+    "Ride_name": "Expedition Everest",
+    "Theme_Park": "Animal Kingdom",
+    "age": 74,
+    "gender": "M",
+    "description": "felt dizzy and ill"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "5/7/2019",
+    "Ride_name": "Expedition Everest",
+    "Theme_Park": "Animal Kingdom",
+    "age": 41,
+    "gender": "F",
+    "description": "seizure after experiencing the attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "9/22/2019",
+    "Ride_name": "Expedition Everest",
+    "Theme_Park": "Animal Kingdom",
+    "age": 45,
+    "gender": "F",
+    "description": "guest felt ill; migraine and vomiting"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "11/5/2019",
+    "Ride_name": "Expedition Everest",
+    "Theme_Park": "Animal Kingdom",
+    "age": 56,
+    "gender": "M",
+    "description": "guest with pre-existing condition became ill after riding attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "3/6/2019",
+    "Ride_name": "Expedition Everest",
+    "Theme_Park": "Animal Kingdom",
+    "age": 70,
+    "gender": "M",
+    "description": "guest became dizzy and nauseous after riding the attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "5/19/2018",
+    "Ride_name": "Expedition Everest",
+    "Theme_Park": "Animal Kingdom",
+    "age": 26,
+    "gender": "M",
+    "description": "guest experienced a seizure after riding attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "5/27/2018",
+    "Ride_name": "Expedition Everest",
+    "Theme_Park": "Animal Kingdom",
+    "age": 22,
+    "gender": "F",
+    "description": "guest with history of dislocating kneecap had reoccurrence"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "7/8/2017",
+    "Ride_name": "Expedition Everest",
+    "Theme_Park": "Animal Kingdom",
+    "age": 58,
+    "gender": "M",
+    "description": "guest with pre-existing condition had nausea and vomited after the ride"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "4/20/2017",
+    "Ride_name": "Expedition Everest",
+    "Theme_Park": "Animal Kingdom",
+    "age": 34,
+    "gender": "M",
+    "description": "felt something in eye irritation"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "12/2/2017",
+    "Ride_name": "Expedition Everest",
+    "Theme_Park": "Animal Kingdom",
+    "age": 30,
+    "gender": "M",
+    "description": "reported being struck on head; headache; dizziness"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "4/18/2015",
+    "Ride_name": "Expedition Everest",
+    "Theme_Park": "Animal Kingdom",
+    "age": 46,
+    "gender": "M",
+    "description": "seizure after exiting."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "9/2/2015",
+    "Ride_name": "Expedition Everest",
+    "Theme_Park": "Animal Kingdom",
+    "age": 36,
+    "gender": "F",
+    "description": "guest who felt ill at times earlier in the day, felt dizzy, shaky and numbness after attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "3/19/2015",
+    "Ride_name": "Expedition Everest",
+    "Theme_Park": "Animal Kingdom",
+    "age": 72,
+    "gender": "F",
+    "description": "temporary memory loss after exiting ride"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "4/8/2014",
+    "Ride_name": "Expedition Everest",
+    "Theme_Park": "Animal Kingdom",
+    "age": 58,
+    "gender": "F",
+    "description": "Guest felt lightheaded & fell injuring right knee & arm; brief loss of consciousness."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "6/1/2014",
+    "Ride_name": "Expedition Everest",
+    "Theme_Park": "Animal Kingdom",
+    "age": 54,
+    "gender": "M",
+    "description": "nausea and dizziness, briefly lost consciousness after ride"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "1/16/2014",
+    "Ride_name": "Expedition Everest",
+    "Theme_Park": "Animal Kingdom",
+    "age": 65,
+    "gender": "M",
+    "description": "guest with pre-existing condition felt light headed after exiting ride"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "12/28/2013",
+    "Ride_name": "Expedition Everest",
+    "Theme_Park": "Animal Kingdom",
+    "age": 29,
+    "gender": "F",
+    "description": "guest felt ill & disoriented with slurred speech"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "12/29/2011",
+    "Ride_name": "Expedition Everest",
+    "Theme_Park": "Animal Kingdom",
+    "age": 71,
+    "gender": "M",
+    "description": "guest not feeling well riding attraction, blocked arteries"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "10/7/2011",
+    "Ride_name": "Expedition Everest",
+    "Theme_Park": "Animal Kingdom",
+    "age": 61,
+    "gender": "M",
+    "description": "history of heart condition, felt ill"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "5/18/2011",
+    "Ride_name": "Expedition Everest",
+    "Theme_Park": "Animal Kingdom",
+    "age": 33,
+    "gender": "F",
+    "description": "felt dizzy and ill"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "8/8/2010",
+    "Ride_name": "Expedition Everest",
+    "Theme_Park": "Animal Kingdom",
+    "age": 51,
+    "gender": "M",
+    "description": "chest pain"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "9/23/2010",
+    "Ride_name": "Expedition Everest",
+    "Theme_Park": "Animal Kingdom",
+    "age": 72,
+    "gender": "F",
+    "description": "felt dizzy and ill"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "5/18/2010",
+    "Ride_name": "Expedition Everest",
+    "Theme_Park": "Animal Kingdom",
+    "age": 54,
+    "gender": "M",
+    "description": "felt ill, difficulty breathing; later had heart attack"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "10/20/2009",
+    "Ride_name": "Expedition Everest",
+    "Theme_Park": "Animal Kingdom",
+    "age": 27,
+    "gender": "M",
+    "description": "seizure"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "2/8/2009",
+    "Ride_name": "Expedition Everest",
+    "Theme_Park": "Animal Kingdom",
+    "age": 66,
+    "gender": "M",
+    "description": "felt ill"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "11/5/2009",
+    "Ride_name": "Expedition Everest",
+    "Theme_Park": "Animal Kingdom",
+    "age": 77,
+    "gender": "M",
+    "description": "felt lightheaded and weak"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "3/29/2008",
+    "Ride_name": "Expedition Everest",
+    "Theme_Park": "Animal Kingdom",
+    "age": 72,
+    "gender": "M",
+    "description": "stomach pain"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "5/17/2008",
+    "Ride_name": "Expedition Everest",
+    "Theme_Park": "Animal Kingdom",
+    "age": 57,
+    "gender": "M",
+    "description": "felt hot & dizzy"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "6/16/2008",
+    "Ride_name": "Expedition Everest",
+    "Theme_Park": "Animal Kingdom",
+    "age": 78,
+    "gender": "M",
+    "description": "felt ill before & after riding ride; trouble breathing & blurred vision"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "5/3/2008",
+    "Ride_name": "Expedition Everest",
+    "Theme_Park": "Animal Kingdom",
+    "age": 72,
+    "gender": "F",
+    "description": "Complained of dizziness and loss of memory after riding"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "12/18/2007",
+    "Ride_name": "Expedition Everest",
+    "Theme_Park": "Animal Kingdom",
+    "age": 44,
+    "gender": "M",
+    "description": "Guest with history of heart condition was unconscious at unload and passed away"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "12/10/2021",
+    "Ride_name": "Expedition Everest",
+    "Theme_Park": "Animal Kingdom",
+    "age": 57,
+    "gender": "F",
+    "description": "guest experienced cardiac symptoms after exiting the attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "7/14/2021",
+    "Ride_name": "Expedition Everest",
+    "Theme_Park": "Animal Kingdom",
+    "age": 72,
+    "gender": "M",
+    "description": "guest felt nauseous after experiencing the attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "10/25/2015",
+    "Ride_name": "Expedition Everest",
+    "Theme_Park": "Animal Kingdom",
+    "age": 69,
+    "gender": "M",
+    "description": "guest with pre-existing condition felt chest pain and dizziness after riding."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "6/21/2014",
+    "Ride_name": "Expedition Everest",
+    "Theme_Park": "Animal Kingdom",
+    "age": 51,
+    "gender": "F",
+    "description": "nausea, dizziness and shortness of breath"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "2/12/2021",
+    "Ride_name": "Fast & Furious - Supercharged",
+    "Theme_Park": "Universal Studios",
+    "age": 27,
+    "gender": "F",
+    "description": "seizure"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "4/24/2019",
+    "Ride_name": "Fast & Furious - Supercharged",
+    "Theme_Park": "Universal Studios",
+    "age": 76,
+    "gender": "F",
+    "description": "fainting/chest pain (pre-existing condition)"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "6/6/2019",
+    "Ride_name": "Fast & Furious - Supercharged",
+    "Theme_Park": "Universal Studios",
+    "age": 67,
+    "gender": "F",
+    "description": "fainting"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "12/26/2018",
+    "Ride_name": "Fievel's Playground",
+    "Theme_Park": "Universal Studios",
+    "age": 38,
+    "gender": "F",
+    "description": "ankle pain"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "6/16/2016",
+    "Ride_name": "Fievel's Playground",
+    "Theme_Park": "Universal Studios",
+    "age": 3,
+    "gender": "M",
+    "description": "arm pain"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "1/1/2016",
+    "Ride_name": "Flight of the Hippogriff",
+    "Theme_Park": "Islands of Adventure",
+    "age": 43,
+    "gender": "F",
+    "description": "weakness (pre-existing condition)"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "2/17/2017",
+    "Ride_name": "Frozen Ever After",
+    "Theme_Park": "Epcot",
+    "age": 74,
+    "gender": "F",
+    "description": "fell entering boat; fractured leg"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "7/21/2015",
+    "Ride_name": "Gran Fiesta Tour Attraction",
+    "Theme_Park": "Epcot",
+    "age": 46,
+    "gender": "F",
+    "description": "injured back"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "12/11/2012",
+    "Ride_name": "Gran Fiesta Tour Attraction",
+    "Theme_Park": "Epcot",
+    "age": 70,
+    "gender": "F",
+    "description": "lost balance & fell from seat"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "3/9/2007",
+    "Ride_name": "Gran Fiesta Tour Attraction",
+    "Theme_Park": "Epcot",
+    "age": 56,
+    "gender": "M",
+    "description": "Lost consciousness while on ride."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "2/15/2021",
+    "Ride_name": "Gran Fiesta Tour Attraction",
+    "Theme_Park": "Epcot",
+    "age": 69,
+    "gender": "F",
+    "description": "guest injured her ankle"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "7/22/2004",
+    "Ride_name": "Great Movie Ride",
+    "Theme_Park": "Hollywood Studios",
+    "age": 64,
+    "gender": "F",
+    "description": "chest pains"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "1/1/2016",
+    "Ride_name": "Great Movie Ride",
+    "Theme_Park": "Hollywood Studios",
+    "age": 80,
+    "gender": "M",
+    "description": "guest with history of motion sickness became temporarily unconscious while on the attraction."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "3/13/2016",
+    "Ride_name": "Great Movie Ride",
+    "Theme_Park": "Hollywood Studios",
+    "age": 41,
+    "gender": "M",
+    "description": "guest with preexisting condition had numbness and felt dizzy."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "1/20/2015",
+    "Ride_name": "Great Movie Ride",
+    "Theme_Park": "Hollywood Studios",
+    "age": 57,
+    "gender": "M",
+    "description": "guest with pre-existing condition had brief loss of consciousness"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "5/19/2008",
+    "Ride_name": "Great Movie Ride",
+    "Theme_Park": "Hollywood Studios",
+    "age": 54,
+    "gender": "M",
+    "description": "felt ill, possible heart attack"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "8/18/2014",
+    "Ride_name": "Great Movie Ride",
+    "Theme_Park": "Hollywood Studios",
+    "age": 71,
+    "gender": "M",
+    "description": "chest pain and loss of consciousness."
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "4/12/2020",
+    "Ride_name": "Hagrid's Magical Creatures Motorbike Adventure",
+    "Theme_Park": "Islands of Adventure",
+    "age": 25,
+    "gender": "F",
+    "description": "seizure"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "7/7/2021",
+    "Ride_name": "Hagrid's Magical Creatures Motorbike Adventure",
+    "Theme_Park": "Islands of Adventure",
+    "age": 7,
+    "gender": "F",
+    "description": "back pain"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "9/6/2021",
+    "Ride_name": "Hagrid's Magical Creatures Motorbike Adventure",
+    "Theme_Park": "Islands of Adventure",
+    "age": 59,
+    "gender": "F",
+    "description": "headache"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "10/15/2017",
+    "Ride_name": "Halloween Horror Nights",
+    "Theme_Park": "Universal Studios",
+    "age": 42,
+    "gender": "M",
+    "description": "chest pain"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "3/10/2015",
+    "Ride_name": "Harry Potter and the Escape from Gringotts",
+    "Theme_Park": "Universal Studios",
+    "age": 17,
+    "gender": "M",
+    "description": "anxious, difficulty breathing"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "7/26/2022",
+    "Ride_name": "Harry Potter and the Escape from Gringotts",
+    "Theme_Park": "Universal Studios",
+    "age": 36,
+    "gender": "M",
+    "description": "abdominal pain"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "4/28/2017",
+    "Ride_name": "Harry Potter and the Escape from Gringotts",
+    "Theme_Park": "Universal Studios",
+    "age": 18,
+    "gender": "F",
+    "description": "motion sickness"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "10/20/2016",
+    "Ride_name": "Harry Potter and the Escape from Gringotts",
+    "Theme_Park": "Universal Studios",
+    "age": 44,
+    "gender": "F",
+    "description": "seizure (pre-existing condition)"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "7/19/2011",
+    "Ride_name": "Harry Potter and the Forbidden Journey",
+    "Theme_Park": "Islands of Adventure",
+    "age": 52,
+    "gender": "M",
+    "description": "vertigo"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "4/16/2015",
+    "Ride_name": "Harry Potter and the Forbidden Journey",
+    "Theme_Park": "Islands of Adventure",
+    "age": 70,
+    "gender": "F",
+    "description": "motion sickness"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "1/17/2015",
+    "Ride_name": "Harry Potter and the Forbidden Journey",
+    "Theme_Park": "Islands of Adventure",
+    "age": 69,
+    "gender": "M",
+    "description": "chest discomfort"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "3/15/2015",
+    "Ride_name": "Harry Potter and the Forbidden Journey",
+    "Theme_Park": "Islands of Adventure",
+    "age": 51,
+    "gender": "M",
+    "description": "difficult moving extremities (pre-existing condition)"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "3/24/2015",
+    "Ride_name": "Harry Potter and the Forbidden Journey",
+    "Theme_Park": "Islands of Adventure",
+    "age": 76,
+    "gender": "F",
+    "description": "altered mental status"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "1/10/2014",
+    "Ride_name": "Harry Potter and the Forbidden Journey",
+    "Theme_Park": "Islands of Adventure",
+    "age": 22,
+    "gender": "M",
+    "description": "nausea (pre-existing condition)"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "11/13/2013",
+    "Ride_name": "Harry Potter and the Forbidden Journey",
+    "Theme_Park": "Islands of Adventure",
+    "age": 51,
+    "gender": "M",
+    "description": "motion sickness"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "7/12/2013",
+    "Ride_name": "Harry Potter and the Forbidden Journey",
+    "Theme_Park": "Islands of Adventure",
+    "age": 40,
+    "gender": "M",
+    "description": "fainting"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "12/16/2013",
+    "Ride_name": "Harry Potter and the Forbidden Journey",
+    "Theme_Park": "Islands of Adventure",
+    "age": 70,
+    "gender": "M",
+    "description": "chest pain"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "7/7/2013",
+    "Ride_name": "Harry Potter and the Forbidden Journey",
+    "Theme_Park": "Islands of Adventure",
+    "age": 66,
+    "gender": "F",
+    "description": "hip & pelvis pain"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "9/13/2013",
+    "Ride_name": "Harry Potter and the Forbidden Journey",
+    "Theme_Park": "Islands of Adventure",
+    "age": 19,
+    "gender": "M",
+    "description": "seizure (pre-existing condition)"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "7/5/2013",
+    "Ride_name": "Harry Potter and the Forbidden Journey",
+    "Theme_Park": "Islands of Adventure",
+    "age": 57,
+    "gender": "M",
+    "description": "chest pain"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "5/15/2013",
+    "Ride_name": "Harry Potter and the Forbidden Journey",
+    "Theme_Park": "Islands of Adventure",
+    "age": 61,
+    "gender": "F",
+    "description": "headache"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "2/1/2013",
+    "Ride_name": "Harry Potter and the Forbidden Journey",
+    "Theme_Park": "Islands of Adventure",
+    "age": 69,
+    "gender": "F",
+    "description": "dizziness"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "1/22/2013",
+    "Ride_name": "Harry Potter and the Forbidden Journey",
+    "Theme_Park": "Islands of Adventure",
+    "age": 45,
+    "gender": "F",
+    "description": "syncope"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "2/4/2012",
+    "Ride_name": "Harry Potter and the Forbidden Journey",
+    "Theme_Park": "Islands of Adventure",
+    "age": 67,
+    "gender": "F",
+    "description": "motion sickness"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "11/1/2012",
+    "Ride_name": "Harry Potter and the Forbidden Journey",
+    "Theme_Park": "Islands of Adventure",
+    "age": 54,
+    "gender": "M",
+    "description": "motion sickness"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "3/3/2012",
+    "Ride_name": "Harry Potter and the Forbidden Journey",
+    "Theme_Park": "Islands of Adventure",
+    "age": 71,
+    "gender": "F",
+    "description": "motion sickness"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "3/31/2012",
+    "Ride_name": "Harry Potter and the Forbidden Journey",
+    "Theme_Park": "Islands of Adventure",
+    "age": 71,
+    "gender": "M",
+    "description": "motion sickness"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "9/9/2022",
+    "Ride_name": "Harry Potter and the Forbidden Journey",
+    "Theme_Park": "Islands of Adventure",
+    "age": 28,
+    "gender": "M",
+    "description": "syncope"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "1/13/2022",
+    "Ride_name": "Harry Potter and the Forbidden Journey",
+    "Theme_Park": "Islands of Adventure",
+    "age": 66,
+    "gender": "M",
+    "description": "motion sickness"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "3/15/2022",
+    "Ride_name": "Harry Potter and the Forbidden Journey",
+    "Theme_Park": "Islands of Adventure",
+    "age": 77,
+    "gender": "F",
+    "description": "hip pain"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "3/11/2019",
+    "Ride_name": "Harry Potter and the Forbidden Journey",
+    "Theme_Park": "Islands of Adventure",
+    "age": 57,
+    "gender": "F",
+    "description": "motion sickness"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "12/26/2019",
+    "Ride_name": "Harry Potter and the Forbidden Journey",
+    "Theme_Park": "Universal Studios",
+    "age": 78,
+    "gender": "M",
+    "description": "knee injury"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "10/10/2018",
+    "Ride_name": "Harry Potter and the Forbidden Journey",
+    "Theme_Park": "Islands of Adventure",
+    "age": 58,
+    "gender": "F",
+    "description": "dizziness"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "3/9/2018",
+    "Ride_name": "Harry Potter and the Forbidden Journey",
+    "Theme_Park": "Islands of Adventure",
+    "age": 39,
+    "gender": "F",
+    "description": "motion sickness"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "6/1/2018",
+    "Ride_name": "Harry Potter and the Forbidden Journey",
+    "Theme_Park": "Islands of Adventure",
+    "age": 52,
+    "gender": "F",
+    "description": "dizziness and weakness"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "12/27/2017",
+    "Ride_name": "Harry Potter and the Forbidden Journey",
+    "Theme_Park": "Islands of Adventure",
+    "age": 61,
+    "gender": "M",
+    "description": "altered mental status"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "4/8/2017",
+    "Ride_name": "Harry Potter and the Forbidden Journey",
+    "Theme_Park": "Islands of Adventure",
+    "age": 68,
+    "gender": "M",
+    "description": "fainting"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "4/16/2017",
+    "Ride_name": "Harry Potter and the Forbidden Journey",
+    "Theme_Park": "Islands of Adventure",
+    "age": 81,
+    "gender": "F",
+    "description": "motion sickness"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "5/1/2017",
+    "Ride_name": "Harry Potter and the Forbidden Journey",
+    "Theme_Park": "Islands of Adventure",
+    "age": 57,
+    "gender": "M",
+    "description": "motion sickness"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "7/3/2017",
+    "Ride_name": "Harry Potter and the Forbidden Journey",
+    "Theme_Park": "Islands of Adventure",
+    "age": 70,
+    "gender": "F",
+    "description": "motion sickness"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "1/10/2016",
+    "Ride_name": "Harry Potter and the Forbidden Journey",
+    "Theme_Park": "Islands of Adventure",
+    "age": 28,
+    "gender": "F",
+    "description": "seizure (pre-existing condition)"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "10/16/2016",
+    "Ride_name": "Harry Potter and the Forbidden Journey",
+    "Theme_Park": "Islands of Adventure",
+    "age": 43,
+    "gender": "M",
+    "description": "motion sickness"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "2/4/2016",
+    "Ride_name": "Harry Potter and the Forbidden Journey",
+    "Theme_Park": "Islands of Adventure",
+    "age": 50,
+    "gender": "F",
+    "description": "fainting"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "5/23/2016",
+    "Ride_name": "Harry Potter and the Forbidden Journey",
+    "Theme_Park": "Islands of Adventure",
+    "age": 59,
+    "gender": "M",
+    "description": "motion sickness"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "12/24/2015",
+    "Ride_name": "Harry Potter and the Forbidden Journey",
+    "Theme_Park": "Islands of Adventure",
+    "age": 50,
+    "gender": "M",
+    "description": "motion sickness"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "12/24/2015",
+    "Ride_name": "Harry Potter and the Forbidden Journey",
+    "Theme_Park": "Islands of Adventure",
+    "age": 55,
+    "gender": "M",
+    "description": "motion sickness"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "8/26/2015",
+    "Ride_name": "Harry Potter and the Forbidden Journey",
+    "Theme_Park": "Islands of Adventure",
+    "age": 43,
+    "gender": "F",
+    "description": "motion sickness"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "5/4/2014",
+    "Ride_name": "Harry Potter and the Forbidden Journey",
+    "Theme_Park": "Islands of Adventure",
+    "age": 43,
+    "gender": "F",
+    "description": "head and neck pain"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "1/1/2014",
+    "Ride_name": "Harry Potter and the Forbidden Journey",
+    "Theme_Park": "Islands of Adventure",
+    "age": 79,
+    "gender": "F",
+    "description": "upper leg pain"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "1/20/2014",
+    "Ride_name": "Harry Potter and the Forbidden Journey",
+    "Theme_Park": "Islands of Adventure",
+    "age": 47,
+    "gender": "M",
+    "description": "lowered level of consciousness"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "1/29/2011",
+    "Ride_name": "Harry Potter and the Forbidden Journey",
+    "Theme_Park": "Islands of Adventure",
+    "age": 60,
+    "gender": "M",
+    "description": "syncope"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "2/28/2011",
+    "Ride_name": "Harry Potter and the Forbidden Journey",
+    "Theme_Park": "Islands of Adventure",
+    "age": 57,
+    "gender": "M",
+    "description": "Chest pain"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "10/2/2007",
+    "Ride_name": "Haunted Mansion",
+    "Theme_Park": "Magic Kingdom",
+    "age": 89,
+    "gender": "F",
+    "description": "fell exiting attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "12/4/2021",
+    "Ride_name": "Haunted Mansion",
+    "Theme_Park": "Magic Kingdom",
+    "age": 66,
+    "gender": "F",
+    "description": "guest fell and fractured wrist exiting the attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "5/16/2016",
+    "Ride_name": "Haunted Mansion",
+    "Theme_Park": "Magic Kingdom",
+    "age": 70,
+    "gender": "F",
+    "description": "guest with preexisting condition became dizzy."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "8/20/2015",
+    "Ride_name": "Haunted Mansion",
+    "Theme_Park": "Magic Kingdom",
+    "age": 68,
+    "gender": "F",
+    "description": "became disoriented after exiting ride"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "10/6/2013",
+    "Ride_name": "Haunted Mansion",
+    "Theme_Park": "Magic Kingdom",
+    "age": 62,
+    "gender": "M",
+    "description": "guest with pre-existing condition suffered from chest pain"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "9/8/2011",
+    "Ride_name": "Haunted Mansion",
+    "Theme_Park": "Magic Kingdom",
+    "age": 66,
+    "gender": "F",
+    "description": "fell on moving walkway while loading, fractured leg"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "1/31/2009",
+    "Ride_name": "Haunted Mansion",
+    "Theme_Park": "Magic Kingdom",
+    "age": 56,
+    "gender": "M",
+    "description": "chest pain"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "7/29/2008",
+    "Ride_name": "Haunted Mansion",
+    "Theme_Park": "Magic Kingdom",
+    "age": 68,
+    "gender": "F",
+    "description": "fell after exiting vehicle and fractured shoulder"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "6/19/2008",
+    "Ride_name": "Haunted Mansion",
+    "Theme_Park": "Magic Kingdom",
+    "age": 57,
+    "gender": "F",
+    "description": "hit right knee getting into vehicle"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "12/30/2017",
+    "Ride_name": "Haunted Mansion",
+    "Theme_Park": "Magic Kingdom",
+    "age": 66,
+    "gender": "M",
+    "description": "guest with pre-existing condition experienced chest pain"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "12/31/2013",
+    "Ride_name": "Haunted Mansion",
+    "Theme_Park": "Magic Kingdom",
+    "age": 35,
+    "gender": "M",
+    "description": "guest with preexisting condition felt chest pain prior to and after riding"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "3/3/2013",
+    "Ride_name": "Haunted Mansion",
+    "Theme_Park": "Magic Kingdom",
+    "age": 79,
+    "gender": "F",
+    "description": "fell stepping onto moving walkway, fractured leg and dislocated ankle"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "9/13/2012",
+    "Ride_name": "Hollywood Rip Ride Rocket",
+    "Theme_Park": "Universal Studios",
+    "age": 40,
+    "gender": "M",
+    "description": "chest pain"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "8/31/2022",
+    "Ride_name": "Hollywood Rip Ride Rocket",
+    "Theme_Park": "Universal Studios",
+    "age": 67,
+    "gender": "F",
+    "description": "headache"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "11/21/2018",
+    "Ride_name": "Hollywood Rip Ride Rocket",
+    "Theme_Park": "Universal Studios",
+    "age": 34,
+    "gender": "F",
+    "description": "head pain"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "12/13/2018",
+    "Ride_name": "Hollywood Rip Ride Rocket",
+    "Theme_Park": "Universal Studios",
+    "age": 35,
+    "gender": "F",
+    "description": "nausea"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "10/11/2015",
+    "Ride_name": "Hollywood Rip Ride Rocket",
+    "Theme_Park": "Universal Studios",
+    "age": 35,
+    "gender": "F",
+    "description": "neck pain"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "10/16/2014",
+    "Ride_name": "Hollywood Rip Ride Rocket",
+    "Theme_Park": "Universal Studios",
+    "age": 36,
+    "gender": "F",
+    "description": "neck pain"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "6/8/2014",
+    "Ride_name": "Hollywood Rip Ride Rocket",
+    "Theme_Park": "Universal Studios",
+    "age": 33,
+    "gender": "M",
+    "description": "motion sickness"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "3/10/2011",
+    "Ride_name": "Hollywood Rip Ride Rocket",
+    "Theme_Park": "Universal Studios",
+    "age": 43,
+    "gender": "F",
+    "description": "motion sickness"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "4/3/2016",
+    "Ride_name": "Hollywood Rip Ride Rocket",
+    "Theme_Park": "Universal Studios",
+    "age": 57,
+    "gender": "F",
+    "description": "motion sickness"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "5/22/2010",
+    "Ride_name": "Hollywood Rip Ride Rocket",
+    "Theme_Park": "Universal Studios",
+    "age": 45,
+    "gender": "F",
+    "description": "back pain"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "4/24/2010",
+    "Ride_name": "Hollywood Rip Ride Rocket",
+    "Theme_Park": "Universal Studios",
+    "age": 36,
+    "gender": "M",
+    "description": "back pain"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "10/31/2009",
+    "Ride_name": "Hollywood Rip Ride Rocket",
+    "Theme_Park": "Universal Studios",
+    "age": 40,
+    "gender": "M",
+    "description": "chest pain"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "1/9/2016",
+    "Ride_name": "Hollywood Rip Ride Rocket",
+    "Theme_Park": "Universal Studios",
+    "age": 49,
+    "gender": "M",
+    "description": "back pain"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "6/23/2013",
+    "Ride_name": "Hollywood Rip Ride Rocket",
+    "Theme_Park": "Universal Studios",
+    "age": 41,
+    "gender": "M",
+    "description": "chest pain"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "5/26/2008",
+    "Ride_name": "Honey I Shrunk The Kids",
+    "Theme_Park": "Hollywood Studios",
+    "age": 47,
+    "gender": "F",
+    "description": "went down slide & fractured ankle"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "11/25/2005",
+    "Ride_name": "Honey I Shrunk The Kids",
+    "Theme_Park": "Hollywood Studios",
+    "age": 12,
+    "gender": "M",
+    "description": "fell and hurt wrist."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "3/24/2011",
+    "Ride_name": "Honey I Shrunk The Kids",
+    "Theme_Park": "Hollywood Studios",
+    "age": 8,
+    "gender": "M",
+    "description": "fell; hit head; back pain"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "3/10/2015",
+    "Ride_name": "Humunga Kowabunga",
+    "Theme_Park": "Typhoon Lagoon",
+    "age": 27,
+    "gender": "F",
+    "description": "laceration while riding"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "12/9/2015",
+    "Ride_name": "Humunga Kowabunga",
+    "Theme_Park": "Typhoon Lagoon",
+    "age": 10,
+    "gender": "M",
+    "description": "fractured hip"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "7/24/2013",
+    "Ride_name": "Humunga Kowabunga",
+    "Theme_Park": "Typhoon Lagoon",
+    "age": 43,
+    "gender": "F",
+    "description": "laceration"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "4/20/2019",
+    "Ride_name": "If I Ran the Zoo",
+    "Theme_Park": "Islands of Adventure",
+    "age": 44,
+    "gender": "F",
+    "description": "head pain"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "12/25/2014",
+    "Ride_name": "It's A Small World",
+    "Theme_Park": "Magic Kingdom",
+    "age": 22,
+    "gender": "F",
+    "description": "guest with preexisting health condition lost consciousness after riding; later passed away"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "11/21/2008",
+    "Ride_name": "It's A Small World",
+    "Theme_Park": "Magic Kingdom",
+    "age": 55,
+    "gender": "M",
+    "description": "Seizure"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "6/7/2008",
+    "Ride_name": "It's A Small World",
+    "Theme_Park": "Magic Kingdom",
+    "age": 55,
+    "gender": "M",
+    "description": "difficulty breathing"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "9/22/2021",
+    "Ride_name": "Journey info Imagination with Figment",
+    "Theme_Park": "Epcot",
+    "age": 70,
+    "gender": "F",
+    "description": "guest fell exiting the attraction striking her nose"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "12/16/2017",
+    "Ride_name": "Journey info Imagination with Figment",
+    "Theme_Park": "Epcot",
+    "age": 65,
+    "gender": "F",
+    "description": "guest tripped and fractured elbow"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "4/21/2022",
+    "Ride_name": "Jungle Cruise",
+    "Theme_Park": "Magic Kingdom",
+    "age": 35,
+    "gender": "M",
+    "description": "guest with pre-existing condition had chest pain after experiencing the attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "3/14/2020",
+    "Ride_name": "Jungle Cruise",
+    "Theme_Park": "Magic Kingdom",
+    "age": 74,
+    "gender": "F",
+    "description": "guest fractured leg stepping into boat"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "8/18/2017",
+    "Ride_name": "Jungle Cruise",
+    "Theme_Park": "Magic Kingdom",
+    "age": 5,
+    "gender": "M",
+    "description": "guest with pre-existing condition had a seizure"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "1/9/2015",
+    "Ride_name": "Jungle Cruise",
+    "Theme_Park": "Magic Kingdom",
+    "age": 4,
+    "gender": "F",
+    "description": "fractured finger"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "11/13/2012",
+    "Ride_name": "Jungle Cruise",
+    "Theme_Park": "Magic Kingdom",
+    "age": 69,
+    "gender": "F",
+    "description": "guest fell while stepping into boat, fractured hip"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "3/23/2012",
+    "Ride_name": "Jungle Cruise",
+    "Theme_Park": "Magic Kingdom",
+    "age": 40,
+    "gender": "F",
+    "description": "fell while stepping into boat & fractured fibula. Passed away of pulmonary embolism on 4/7/12."
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "2/15/2019",
+    "Ride_name": "Jurassic Park River Adventure",
+    "Theme_Park": "Islands of Adventure",
+    "age": 27,
+    "gender": "F",
+    "description": "foot pain"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "8/5/2018",
+    "Ride_name": "Jurassic Park River Adventure",
+    "Theme_Park": "Islands of Adventure",
+    "age": 76,
+    "gender": "F",
+    "description": "shoulder & wrist pain"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "7/24/2022",
+    "Ride_name": "Jurassic World VelociCoaster",
+    "Theme_Park": "Islands of Adventure",
+    "age": 38,
+    "gender": "F",
+    "description": "neck pain"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "5/27/2017",
+    "Ride_name": "Kala Serpentine Body Slide",
+    "Theme_Park": "Volcano Bay",
+    "age": 45,
+    "gender": "M",
+    "description": "back pain"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "6/13/2006",
+    "Ride_name": "Kali River Rapids",
+    "Theme_Park": "Animal Kingdom",
+    "age": 12,
+    "gender": "M",
+    "description": "Guest who was recently released from hospital and recovering from pneumonia fainted and fell on dock"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "2/6/2005",
+    "Ride_name": "Kali River Rapids",
+    "Theme_Park": "Animal Kingdom",
+    "age": 45,
+    "gender": "F",
+    "description": "guest fell from raft into flume at load area and hit head"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "5/12/2014",
+    "Ride_name": "Kali River Rapids",
+    "Theme_Park": "Animal Kingdom",
+    "age": 26,
+    "gender": "M",
+    "description": "guest with preexisting condition had seizure"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "9/29/2013",
+    "Ride_name": "Kali River Rapids",
+    "Theme_Park": "Animal Kingdom",
+    "age": 39,
+    "gender": "M",
+    "description": "seizure"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "5/17/2013",
+    "Ride_name": "Kali River Rapids",
+    "Theme_Park": "Animal Kingdom",
+    "age": 36,
+    "gender": "F",
+    "description": "guest with pre-existing condition suffered a seizure"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "1/3/2010",
+    "Ride_name": "Kali River Rapids",
+    "Theme_Park": "Animal Kingdom",
+    "age": 47,
+    "gender": "M",
+    "description": "preexisting heart condition felt numbness on right side of body"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "1/2/2022",
+    "Ride_name": "Kang & Kodos Twirl n' Hurl",
+    "Theme_Park": "Universal Studios",
+    "age": 21,
+    "gender": "F",
+    "description": "abdominal pain (pre-existing condition)"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "7/16/2007",
+    "Ride_name": "Kilimanjaro Safaris Expedition",
+    "Theme_Park": "Animal Kingdom",
+    "age": 42,
+    "gender": "M",
+    "description": "Jumped out of vehicle, broke left ankle"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "6/4/2010",
+    "Ride_name": "Kilimanjaro Safaris Expedition",
+    "Theme_Park": "Animal Kingdom",
+    "age": 72,
+    "gender": "F",
+    "description": "seizure"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "5/23/2010",
+    "Ride_name": "Kilimanjaro Safaris Expedition",
+    "Theme_Park": "Animal Kingdom",
+    "age": 65,
+    "gender": "M",
+    "description": "chest pain"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "12/24/2016",
+    "Ride_name": "Kilimanjaro Safaris Expedition",
+    "Theme_Park": "Animal Kingdom",
+    "age": 67,
+    "gender": "M",
+    "description": "guest with pre-existing condition felt numbness after riding"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "12/29/2017",
+    "Ride_name": "Kilimanjaro Safaris Expedition",
+    "Theme_Park": "Animal Kingdom",
+    "age": 70,
+    "gender": "F",
+    "description": "guest with pre-existing condition experienced chest pain"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "5/21/2014",
+    "Ride_name": "Kilimanjaro Safaris Expedition",
+    "Theme_Park": "Animal Kingdom",
+    "age": 68,
+    "gender": "F",
+    "description": "guest with pre-existing condition felt tightness in chest"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "10/3/2012",
+    "Ride_name": "Kilimanjaro Safaris Expedition",
+    "Theme_Park": "Animal Kingdom",
+    "age": 75,
+    "gender": "F",
+    "description": "guest w/ pre-existing health condition felt nauseated & had chest pain"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "12/22/2008",
+    "Ride_name": "Kilimanjaro Safaris Expedition",
+    "Theme_Park": "Animal Kingdom",
+    "age": 51,
+    "gender": "F",
+    "description": "seizure"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "4/25/2018",
+    "Ride_name": "Kilimanjaro Safaris Expedition",
+    "Theme_Park": "Animal Kingdom",
+    "age": 27,
+    "gender": "F",
+    "description": "guest went into labor after riding attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "7/6/2018",
+    "Ride_name": "Kilimanjaro Safaris Expedition",
+    "Theme_Park": "Animal Kingdom",
+    "age": 62,
+    "gender": "F",
+    "description": "guest with pre-existing conditions suffered nausea and vomiting on ride"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "1/17/2018",
+    "Ride_name": "Kilimanjaro Safaris Expedition",
+    "Theme_Park": "Animal Kingdom",
+    "age": 71,
+    "gender": "M",
+    "description": "guest experienced chest pain after riding attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "10/6/2017",
+    "Ride_name": "Kilimanjaro Safaris Expedition",
+    "Theme_Park": "Animal Kingdom",
+    "age": 19,
+    "gender": "F",
+    "description": "guest with pre-existing condition had a seizure"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "6/15/2016",
+    "Ride_name": "Kilimanjaro Safaris Expedition",
+    "Theme_Park": "Animal Kingdom",
+    "age": 70,
+    "gender": "M",
+    "description": "guest with preexisting condition felt ill; neck discomfort"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "3/9/2015",
+    "Ride_name": "Kilimanjaro Safaris Expedition",
+    "Theme_Park": "Animal Kingdom",
+    "age": 1,
+    "gender": "M",
+    "description": "developed rash before boarding; rash later worsened; temporarily passed out while on ride"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "6/24/2015",
+    "Ride_name": "Kilimanjaro Safaris Expedition",
+    "Theme_Park": "Animal Kingdom",
+    "age": 51,
+    "gender": "F",
+    "description": "felt dizzy , mini stroke"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "4/4/2022",
+    "Ride_name": "Kilimanjaro Safaris Expedition",
+    "Theme_Park": "Animal Kingdom",
+    "age": 57,
+    "gender": "F",
+    "description": "guest had trouble breathing and numbness to her face after riding the attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "6/24/2022",
+    "Ride_name": "Kilimanjaro Safaris Expedition",
+    "Theme_Park": "Animal Kingdom",
+    "age": 70,
+    "gender": "F",
+    "description": "guest felt dizzy and weak after riding the attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "6/27/2022",
+    "Ride_name": "Kilimanjaro Safaris Expedition",
+    "Theme_Park": "Animal Kingdom",
+    "age": 44,
+    "gender": "M",
+    "description": "guest lost consciousness while on the attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "10/13/2021",
+    "Ride_name": "Kilimanjaro Safaris Expedition",
+    "Theme_Park": "Animal Kingdom",
+    "age": 82,
+    "gender": "M",
+    "description": "guest passed out while experiencing the attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "3/13/2021",
+    "Ride_name": "Kilimanjaro Safaris Expedition",
+    "Theme_Park": "Animal Kingdom",
+    "age": 72,
+    "gender": "F",
+    "description": "guest became ill while riding the attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "12/2/2016",
+    "Ride_name": "Kilimanjaro Safaris Expedition",
+    "Theme_Park": "Animal Kingdom",
+    "age": 73,
+    "gender": "F",
+    "description": "guest became disoriented during experience."
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "12/11/2018",
+    "Ride_name": "Ko'okiri Body Plunge",
+    "Theme_Park": "Volcano Bay",
+    "age": 11,
+    "gender": "F",
+    "description": "foot pain"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "6/14/2019",
+    "Ride_name": "Kopiko Wai Winding River",
+    "Theme_Park": "Volcano Bay",
+    "age": 64,
+    "gender": "F",
+    "description": "knee pain"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "3/24/2019",
+    "Ride_name": "Kopiko Wai Winding River",
+    "Theme_Park": "Volcano Bay",
+    "age": 10,
+    "gender": "M",
+    "description": "fainting"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "7/17/2022",
+    "Ride_name": "Kopiko Wai Winding River",
+    "Theme_Park": "Volcano Bay",
+    "age": 51,
+    "gender": "M",
+    "description": "chest pain"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "7/21/2015",
+    "Ride_name": "Liberty Riverboat",
+    "Theme_Park": "Magic Kingdom",
+    "age": 80,
+    "gender": "F",
+    "description": "passed out and struck head"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "5/29/2022",
+    "Ride_name": "Living with the Land",
+    "Theme_Park": "Epcot",
+    "age": 66,
+    "gender": "F",
+    "description": "guest with pre-existing condition had a cardiac event while exiting the attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "5/6/2006",
+    "Ride_name": "Mad Tea Party",
+    "Theme_Park": "Magic Kingdom",
+    "age": 62,
+    "gender": "F",
+    "description": "Missed step and fell"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "4/18/2018",
+    "Ride_name": "Mad Tea Party",
+    "Theme_Park": "Magic Kingdom",
+    "age": 74,
+    "gender": "F",
+    "description": "guest with pre-existing illness felt ill after riding attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "5/23/2018",
+    "Ride_name": "Mad Tea Party",
+    "Theme_Park": "Magic Kingdom",
+    "age": 68,
+    "gender": "F",
+    "description": "guest with pre-existing condition was dizzy after riding attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "8/12/2016",
+    "Ride_name": "Mad Tea Party",
+    "Theme_Park": "Magic Kingdom",
+    "age": 64,
+    "gender": "F",
+    "description": "fell and fractured ankle"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "12/18/2014",
+    "Ride_name": "Mad Tea Party",
+    "Theme_Park": "Magic Kingdom",
+    "age": 49,
+    "gender": "M",
+    "description": "tripped while exiting ride vehicle; fractured shoulder"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "10/13/2013",
+    "Ride_name": "Mad Tea Party",
+    "Theme_Park": "Magic Kingdom",
+    "age": 75,
+    "gender": "F",
+    "description": "fell while exiting, fractured wrist"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "4/13/2010",
+    "Ride_name": "Mad Tea Party",
+    "Theme_Park": "Magic Kingdom",
+    "age": 68,
+    "gender": "F",
+    "description": "fell exiting vehicle; fractured hip"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "5/24/2010",
+    "Ride_name": "Mad Tea Party",
+    "Theme_Park": "Magic Kingdom",
+    "age": 61,
+    "gender": "F",
+    "description": "fell exiting vehicle, left arm fracture"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "7/15/2008",
+    "Ride_name": "Mad Tea Party",
+    "Theme_Park": "Magic Kingdom",
+    "age": 56,
+    "gender": "M",
+    "description": "felt dizzy and sick"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "2/2/2008",
+    "Ride_name": "Mad Tea Party",
+    "Theme_Park": "Magic Kingdom",
+    "age": 72,
+    "gender": "F",
+    "description": "Fell exiting ride, fractured hip"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "3/28/2012",
+    "Ride_name": "Maelstrom",
+    "Theme_Park": "Epcot",
+    "age": 41,
+    "gender": "M",
+    "description": "seizure"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "11/15/2006",
+    "Ride_name": "Mayday Falls",
+    "Theme_Park": "Typhoon Lagoon",
+    "age": 74,
+    "gender": "M",
+    "description": "Broken foot."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "3/5/2018",
+    "Ride_name": "Mayday Falls",
+    "Theme_Park": "Typhoon Lagoon",
+    "age": 25,
+    "gender": "M",
+    "description": "guest fractured ankle going down slide"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "5/15/2015",
+    "Ride_name": "Mayday Falls",
+    "Theme_Park": "Typhoon Lagoon",
+    "age": 41,
+    "gender": "F",
+    "description": "fractured ankle"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "7/18/2014",
+    "Ride_name": "Mayday Falls",
+    "Theme_Park": "Typhoon Lagoon",
+    "age": 42,
+    "gender": "F",
+    "description": "fractured ankle"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "6/23/2014",
+    "Ride_name": "Mayday Falls",
+    "Theme_Park": "Typhoon Lagoon",
+    "age": 44,
+    "gender": "M",
+    "description": "fractured leg"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "6/29/2012",
+    "Ride_name": "Mayday Falls",
+    "Theme_Park": "Typhoon Lagoon",
+    "age": 48,
+    "gender": "M",
+    "description": "Guest with preexisting condition felt chest pain after riding"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "7/16/2011",
+    "Ride_name": "Mayday Falls",
+    "Theme_Park": "Typhoon Lagoon",
+    "age": 42,
+    "gender": "F",
+    "description": "injured ankle"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "7/19/2004",
+    "Ride_name": "Meltaway Bay",
+    "Theme_Park": "Blizzard Beach",
+    "age": 11,
+    "gender": "M",
+    "description": "seizure"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "10/6/2018",
+    "Ride_name": "Meltaway Bay",
+    "Theme_Park": "Blizzard Beach",
+    "age": 70,
+    "gender": "M",
+    "description": "guest with pre-existing heart condition had a heart attack and passed away"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "8/1/2004",
+    "Ride_name": "Men In Black",
+    "Theme_Park": "Universal Studios",
+    "age": 12,
+    "gender": "M",
+    "description": "Fractured Toe"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "6/25/2016",
+    "Ride_name": "Men In Black",
+    "Theme_Park": "Universal Studios",
+    "age": 46,
+    "gender": "M",
+    "description": "seizure (pre-existing condition)"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "3/18/2013",
+    "Ride_name": "Men In Black",
+    "Theme_Park": "Universal Studios",
+    "age": 41,
+    "gender": "F",
+    "description": "hermatemesis"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "10/10/2011",
+    "Ride_name": "Men In Black",
+    "Theme_Park": "Universal Studios",
+    "age": 79,
+    "gender": "M",
+    "description": "dizziness & syncope"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "5/21/2015",
+    "Ride_name": "Men In Black",
+    "Theme_Park": "Universal Studios",
+    "age": 57,
+    "gender": "F",
+    "description": "headache"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "7/31/2013",
+    "Ride_name": "Men In Black",
+    "Theme_Park": "Universal Studios",
+    "age": 22,
+    "gender": "F",
+    "description": "abdominal pain"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "4/13/2022",
+    "Ride_name": "Mickey & Minnie's Runaway Railway",
+    "Theme_Park": "Hollywood Studios",
+    "age": 47,
+    "gender": "F",
+    "description": "guest had seizure after experiencing the attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "10/28/2020",
+    "Ride_name": "Mickey & Minnie's Runaway Railway",
+    "Theme_Park": "Hollywood Studios",
+    "age": 86,
+    "gender": "F",
+    "description": "guest tripped and fell exiting the ride vehicle injuring her head arm and leg"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "5/4/2022",
+    "Ride_name": "Millennium Falcon: Smugglers Run",
+    "Theme_Park": "Hollywood Studios",
+    "age": 23,
+    "gender": "M",
+    "description": "guest had seizure while experiencing the attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "3/3/2020",
+    "Ride_name": "Millennium Falcon: Smugglers Run",
+    "Theme_Park": "Hollywood Studios",
+    "age": 9,
+    "gender": "F",
+    "description": "guest with pre-existing medical condition had a seizure after the ride"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "11/20/2018",
+    "Ride_name": "Miss Adventure Falls",
+    "Theme_Park": "Typhoon Lagoon",
+    "age": 18,
+    "gender": "M",
+    "description": "guest fell out of raft into catch pool at the end of slide and struck his head"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "8/12/2018",
+    "Ride_name": "Miss Adventure Falls",
+    "Theme_Park": "Typhoon Lagoon",
+    "age": 44,
+    "gender": "M",
+    "description": "guest sustained fractures to arm and injuries to neck and back when arm became caught in conveyor belt during initial incline of ride"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "7/24/2012",
+    "Ride_name": "Mission: Space",
+    "Theme_Park": "Epcot",
+    "age": 62,
+    "gender": "M",
+    "description": "guest with pacemaker stated he felt a shock through his shoulders when fastening his restraint"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "7/19/2007",
+    "Ride_name": "Mission: Space",
+    "Theme_Park": "Epcot",
+    "age": 63,
+    "gender": "M",
+    "description": "Guest with history of high blood pressure. Became ill after riding"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "11/20/2006",
+    "Ride_name": "Mission: Space",
+    "Theme_Park": "Epcot",
+    "age": 59,
+    "gender": "M",
+    "description": "Guest with hypertension felt ill day after riding"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "11/4/2006",
+    "Ride_name": "Mission: Space",
+    "Theme_Park": "Epcot",
+    "age": 49,
+    "gender": "F",
+    "description": "Felt ill; passed away next day at hospital."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "4/10/2005",
+    "Ride_name": "Mission: Space",
+    "Theme_Park": "Epcot",
+    "age": 51,
+    "gender": "M",
+    "description": "reported on 10/07/05 that had not been feeling well sinece riding attraction three days prior"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "6/8/2005",
+    "Ride_name": "Mission: Space",
+    "Theme_Park": "Epcot",
+    "age": 42,
+    "gender": "M",
+    "description": "chest pain."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "6/13/2005",
+    "Ride_name": "Mission: Space",
+    "Theme_Park": "Epcot",
+    "age": 4,
+    "gender": "M",
+    "description": "child lost consciousness. Later died at hospital"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "8/11/2004",
+    "Ride_name": "Mission: Space",
+    "Theme_Park": "Epcot",
+    "age": 50,
+    "gender": "M",
+    "description": "Became dizzy and had upset stomach."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "7/16/2004",
+    "Ride_name": "Mission: Space",
+    "Theme_Park": "Epcot",
+    "age": 40,
+    "gender": "F",
+    "description": "fainted while on ride"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "10/8/2003",
+    "Ride_name": "Mission: Space",
+    "Theme_Park": "Epcot",
+    "age": 55,
+    "gender": "M",
+    "description": "sustained nausea on ride"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "10/21/2003",
+    "Ride_name": "Mission: Space",
+    "Theme_Park": "Epcot",
+    "age": 61,
+    "gender": "M",
+    "description": "chest pain."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "11/17/2003",
+    "Ride_name": "Mission: Space",
+    "Theme_Park": "Epcot",
+    "age": 67,
+    "gender": "M",
+    "description": "chest pain."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "5/2/2004",
+    "Ride_name": "Mission: Space",
+    "Theme_Park": "Epcot",
+    "age": 68,
+    "gender": "F",
+    "description": "didnÃ¢ÂÂt feel well"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "3/24/2004",
+    "Ride_name": "Mission: Space",
+    "Theme_Park": "Epcot",
+    "age": 59,
+    "gender": "F",
+    "description": "Chest Pains"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "3/30/2004",
+    "Ride_name": "Mission: Space",
+    "Theme_Park": "Epcot",
+    "age": 59,
+    "gender": "M",
+    "description": "Nausea"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "9/15/2017",
+    "Ride_name": "Mission: Space",
+    "Theme_Park": "Epcot",
+    "age": 56,
+    "gender": "F",
+    "description": "guest with pre-existing condition felt ill after experiencing attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "1/25/2013",
+    "Ride_name": "Mission: Space",
+    "Theme_Park": "Epcot",
+    "age": 16,
+    "gender": "F",
+    "description": "seizure/loss of consciousness"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "2/23/2013",
+    "Ride_name": "Mission: Space",
+    "Theme_Park": "Epcot",
+    "age": 34,
+    "gender": "F",
+    "description": "guest fainted after ride"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "7/19/2011",
+    "Ride_name": "Mission: Space",
+    "Theme_Park": "Epcot",
+    "age": 57,
+    "gender": "F",
+    "description": "guest with pre-existing health condition felt ill after exiting attraction & temporarily lost consciousness."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "8/13/2010",
+    "Ride_name": "Mission: Space",
+    "Theme_Park": "Epcot",
+    "age": 54,
+    "gender": "F",
+    "description": "felt ill: chest pain"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "6/6/2010",
+    "Ride_name": "Mission: Space",
+    "Theme_Park": "Epcot",
+    "age": 27,
+    "gender": "M",
+    "description": "Felt ill"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "9/19/2009",
+    "Ride_name": "Mission: Space",
+    "Theme_Park": "Epcot",
+    "age": 52,
+    "gender": "F",
+    "description": "felt dizzy, loss of memory"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "6/19/2009",
+    "Ride_name": "Mission: Space",
+    "Theme_Park": "Epcot",
+    "age": 57,
+    "gender": "F",
+    "description": "loss of consciousness"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "2/19/2016",
+    "Ride_name": "Mission: Space",
+    "Theme_Park": "Epcot",
+    "age": 57,
+    "gender": "M",
+    "description": "guest with preexisting heart condition felt ill after riding attractions."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "12/7/2022",
+    "Ride_name": "Mission: Space",
+    "Theme_Park": "Epcot",
+    "age": 47,
+    "gender": "M",
+    "description": "guest with pre-existing condition lost consciousness after experiencing the green side of the attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "7/26/2020",
+    "Ride_name": "Mission: Space",
+    "Theme_Park": "Epcot",
+    "age": 68,
+    "gender": "F",
+    "description": "guest with pre-existing condition had a stroke after experiencing the green side of the attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "9/7/2019",
+    "Ride_name": "Mission: Space",
+    "Theme_Park": "Epcot",
+    "age": 34,
+    "gender": "M",
+    "description": "guest with history of motion sickness became ill after riding"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "10/6/2018",
+    "Ride_name": "Mission: Space",
+    "Theme_Park": "Epcot",
+    "age": 43,
+    "gender": "M",
+    "description": "guest with pre-existing medical issues experienced brief loss of consciousness"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "2/13/2012",
+    "Ride_name": "Mission: Space",
+    "Theme_Park": "Epcot",
+    "age": 56,
+    "gender": "M",
+    "description": "guest w/ pre-existing health condition felt ill after ride; heart attack"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "5/23/2011",
+    "Ride_name": "Mission: Space",
+    "Theme_Park": "Epcot",
+    "age": 53,
+    "gender": "F",
+    "description": "guest with history of vertigo felt dizzy and ill"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "8/2/2010",
+    "Ride_name": "Mission: Space",
+    "Theme_Park": "Epcot",
+    "age": 45,
+    "gender": "M",
+    "description": "vomiting, vertigo and felt rapid heart rate"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "8/21/2008",
+    "Ride_name": "Mission: Space",
+    "Theme_Park": "Epcot",
+    "age": 42,
+    "gender": "F",
+    "description": "felt dizzy and sick"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "1/19/2017",
+    "Ride_name": "Mission: Space",
+    "Theme_Park": "Epcot",
+    "age": 69,
+    "gender": "F",
+    "description": "guest with pre-existing condition felt ill and passed out momentarily"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "8/5/2014",
+    "Ride_name": "Mission: Space",
+    "Theme_Park": "Epcot",
+    "age": 70,
+    "gender": "F",
+    "description": "chest pain"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "12/5/2014",
+    "Ride_name": "Mission: Space",
+    "Theme_Park": "Epcot",
+    "age": 58,
+    "gender": "M",
+    "description": "guest with pre-existing condition felt tightness in chest and nausea"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "6/24/2014",
+    "Ride_name": "Mission: Space",
+    "Theme_Park": "Epcot",
+    "age": 54,
+    "gender": "F",
+    "description": "motion sickness"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "3/7/2019",
+    "Ride_name": "Na'vi River Journey",
+    "Theme_Park": "Animal Kingdom",
+    "age": 83,
+    "gender": "M",
+    "description": "injured hip entering the attraction"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "5/9/2020",
+    "Ride_name": "Oh! No! Drop Slide",
+    "Theme_Park": "Volcano Bay",
+    "age": 59,
+    "gender": "F",
+    "description": "hip/pelvis pain"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "6/21/2006",
+    "Ride_name": "Peter Pan's Flight",
+    "Theme_Park": "Magic Kingdom",
+    "age": 43,
+    "gender": "F",
+    "description": "Fell getting onto ride; fractured hip."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "2/14/2006",
+    "Ride_name": "Peter Pan's Flight",
+    "Theme_Park": "Magic Kingdom",
+    "age": 70,
+    "gender": "M",
+    "description": "Guest tripped and fell into the ride path as he attempted to board the attraction."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "7/29/2007",
+    "Ride_name": "Peter Pan's Flight",
+    "Theme_Park": "Magic Kingdom",
+    "age": 68,
+    "gender": "F",
+    "description": "Fell Ã¢ÂÂ fractured legs and arms."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "9/25/2019",
+    "Ride_name": "Peter Pan's Flight",
+    "Theme_Park": "Magic Kingdom",
+    "age": 4,
+    "gender": "M",
+    "description": "guest with pre-existing medical condition had a seizure after experiencing the attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "6/1/2014",
+    "Ride_name": "Peter Pan's Flight",
+    "Theme_Park": "Magic Kingdom",
+    "age": 63,
+    "gender": "F",
+    "description": "guest with pre-existing condition felt chest pain after riding"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "6/3/2011",
+    "Ride_name": "Peter Pan's Flight",
+    "Theme_Park": "Magic Kingdom",
+    "age": 75,
+    "gender": "F",
+    "description": "fell on moving walkway in load area; fractured knee"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "7/17/2009",
+    "Ride_name": "Peter Pan's Flight",
+    "Theme_Park": "Magic Kingdom",
+    "age": 74,
+    "gender": "F",
+    "description": "lost balance on unload belt, fell and hit head and fractured wrist"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "4/10/2008",
+    "Ride_name": "Peter Pan's Flight",
+    "Theme_Park": "Magic Kingdom",
+    "age": 43,
+    "gender": "M",
+    "description": "Seizure"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "2/13/2005",
+    "Ride_name": "Pirates of the Caribbean",
+    "Theme_Park": "Magic Kingdom",
+    "age": 77,
+    "gender": "F",
+    "description": "lost consciousness after ride. Later passed away at hospital"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "5/17/2022",
+    "Ride_name": "Pirates of the Caribbean",
+    "Theme_Park": "Magic Kingdom",
+    "age": 70,
+    "gender": "M",
+    "description": "guest experienced abdominal and back pain while on the attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "11/10/2021",
+    "Ride_name": "Pirates of the Caribbean",
+    "Theme_Park": "Magic Kingdom",
+    "age": 81,
+    "gender": "M",
+    "description": "guest with pre-existing condition experienced stroke like symptoms after having been on the attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "10/25/2017",
+    "Ride_name": "Pirates of the Caribbean",
+    "Theme_Park": "Magic Kingdom",
+    "age": 76,
+    "gender": "M",
+    "description": "guest with pre-existing condition experienced headache and brief loss of consciousness"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "3/23/2017",
+    "Ride_name": "Pirates of the Caribbean",
+    "Theme_Park": "Magic Kingdom",
+    "age": 50,
+    "gender": "M",
+    "description": "guest recovering from throat surgery became ill"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "11/26/2015",
+    "Ride_name": "Pirates of the Caribbean",
+    "Theme_Park": "Magic Kingdom",
+    "age": 30,
+    "gender": "F",
+    "description": "guest fell while entering the ride"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "12/20/2015",
+    "Ride_name": "Pirates of the Caribbean",
+    "Theme_Park": "Magic Kingdom",
+    "age": 43,
+    "gender": "F",
+    "description": "guest with pre-existing condition had a seizure after exiting."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "5/20/2015",
+    "Ride_name": "Pirates of the Caribbean",
+    "Theme_Park": "Magic Kingdom",
+    "age": 47,
+    "gender": "M",
+    "description": "guest with pre-existing condition felt back pain when exiting the ride."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "10/7/2014",
+    "Ride_name": "Pirates of the Caribbean",
+    "Theme_Park": "Magic Kingdom",
+    "age": 57,
+    "gender": "M",
+    "description": "lacerated tips of 2 fingers"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "4/13/2014",
+    "Ride_name": "Pirates of the Caribbean",
+    "Theme_Park": "Magic Kingdom",
+    "age": 12,
+    "gender": "M",
+    "description": "lacerated 4 fingers"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "1/11/2012",
+    "Ride_name": "Pirates of the Caribbean",
+    "Theme_Park": "Magic Kingdom",
+    "age": 71,
+    "gender": "F",
+    "description": "dizziness, chest pain, mouth numbness"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "7/18/2022",
+    "Ride_name": "Poseidon's Fury",
+    "Theme_Park": "Islands of Adventure",
+    "age": 50,
+    "gender": "M",
+    "description": "nausea"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "12/24/2014",
+    "Ride_name": "Poseidon's Fury",
+    "Theme_Park": "Islands of Adventure",
+    "age": 82,
+    "gender": "F",
+    "description": "shoulder pain"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "7/24/2014",
+    "Ride_name": "Primeval Whirl",
+    "Theme_Park": "Animal Kingdom",
+    "age": 46,
+    "gender": "F",
+    "description": "temporarily lost consciousness after exiting attraction."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "2/22/2022",
+    "Ride_name": "Prince Charming Regal Carousel",
+    "Theme_Park": "Magic Kingdom",
+    "age": 74,
+    "gender": "F",
+    "description": "guest fell stepping down from attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "3/24/2022",
+    "Ride_name": "Prince Charming Regal Carousel",
+    "Theme_Park": "Magic Kingdom",
+    "age": 63,
+    "gender": "F",
+    "description": "while dismounting a horse guest lost balance and fell"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "1/30/2019",
+    "Ride_name": "Prince Charming Regal Carousel",
+    "Theme_Park": "Magic Kingdom",
+    "age": 69,
+    "gender": "M",
+    "description": "guest fell while exiting the attraction and fractured hip"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "11/13/2014",
+    "Ride_name": "Prince Charming Regal Carousel",
+    "Theme_Park": "Magic Kingdom",
+    "age": 64,
+    "gender": "F",
+    "description": "fell while stepping off carousel horse, fractured leg"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "2/25/2012",
+    "Ride_name": "Prince Charming Regal Carousel",
+    "Theme_Park": "Magic Kingdom",
+    "age": 68,
+    "gender": "F",
+    "description": "felt ill while boarding attraction; fractured hip & leg"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "2/29/2012",
+    "Ride_name": "Prince Charming Regal Carousel",
+    "Theme_Park": "Magic Kingdom",
+    "age": 65,
+    "gender": "F",
+    "description": "felt ill while exiting attraction; fractured arm"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "9/21/2011",
+    "Ride_name": "Prince Charming Regal Carousel",
+    "Theme_Park": "Magic Kingdom",
+    "age": 66,
+    "gender": "F",
+    "description": "fell while stepping off the carousel platform, fractured leg"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "1/24/2017",
+    "Ride_name": "Prince Charming Regal Carousel",
+    "Theme_Park": "Magic Kingdom",
+    "age": 72,
+    "gender": "F",
+    "description": "fell and hit head"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "11/10/2010",
+    "Ride_name": "Prince Charming Regal Carousel",
+    "Theme_Park": "Magic Kingdom",
+    "age": 71,
+    "gender": "F",
+    "description": "guest fell and fractured hip and shoulder while ride was stopped."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "12/12/2010",
+    "Ride_name": "Prince Charming Regal Carousel",
+    "Theme_Park": "Magic Kingdom",
+    "age": 77,
+    "gender": "F",
+    "description": "guest with pre-existing conditions (i.e. heart condition prior stroke) felt ill while riding attraction collapsed after exiting and subsequently passed away."
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "5/26/2019",
+    "Ride_name": "Puihi Raft Ride",
+    "Theme_Park": "Volcano Bay",
+    "age": 24,
+    "gender": "F",
+    "description": "head pain"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "11/7/2019",
+    "Ride_name": "Punga Racers",
+    "Theme_Park": "Volcano Bay",
+    "age": 47,
+    "gender": "M",
+    "description": "numbness"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "3/24/2022",
+    "Ride_name": "Remy' s Ratatouille Adventure",
+    "Theme_Park": "Epcot",
+    "age": 55,
+    "gender": "M",
+    "description": "guest with pre-existing condition experienced stroke like symptoms after exiting the attraction"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "11/14/2005",
+    "Ride_name": "Revenge of the Mummy",
+    "Theme_Park": "Universal Studios",
+    "age": 68,
+    "gender": "F",
+    "description": "Loss of Consciousness."
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "8/16/2005",
+    "Ride_name": "Revenge of the Mummy",
+    "Theme_Park": "Universal Studios",
+    "age": 63,
+    "gender": "F",
+    "description": "lower back pain."
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "9/23/2005",
+    "Ride_name": "Revenge of the Mummy",
+    "Theme_Park": "Universal Studios",
+    "age": 57,
+    "gender": "F",
+    "description": "Dizziness/Mild Chest Discomfort."
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "6/8/2019",
+    "Ride_name": "Revenge of the Mummy",
+    "Theme_Park": "Universal Studios",
+    "age": 65,
+    "gender": "M",
+    "description": "back pain"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "10/16/2018",
+    "Ride_name": "Revenge of the Mummy",
+    "Theme_Park": "Universal Studios",
+    "age": 41,
+    "gender": "F",
+    "description": "dizziness"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "3/28/2017",
+    "Ride_name": "Revenge of the Mummy",
+    "Theme_Park": "Universal Studios",
+    "age": 60,
+    "gender": "F",
+    "description": "seizure"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "6/24/2015",
+    "Ride_name": "Revenge of the Mummy",
+    "Theme_Park": "Universal Studios",
+    "age": 59,
+    "gender": "M",
+    "description": "chest, tightness/pressure/pain"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "11/3/2015",
+    "Ride_name": "Revenge of the Mummy",
+    "Theme_Park": "Universal Studios",
+    "age": 20,
+    "gender": "M",
+    "description": "motion sickness (pre-existing condition)"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "5/16/2014",
+    "Ride_name": "Revenge of the Mummy",
+    "Theme_Park": "Universal Studios",
+    "age": 15,
+    "gender": "M",
+    "description": "lowered level consciousness"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "5/29/2014",
+    "Ride_name": "Revenge of the Mummy",
+    "Theme_Park": "Universal Studios",
+    "age": 18,
+    "gender": "M",
+    "description": "chest pain"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "7/23/2012",
+    "Ride_name": "Revenge of the Mummy",
+    "Theme_Park": "Universal Studios",
+    "age": 50,
+    "gender": "F",
+    "description": "knee pain"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "8/4/2011",
+    "Ride_name": "Revenge of the Mummy",
+    "Theme_Park": "Universal Studios",
+    "age": 73,
+    "gender": "F",
+    "description": "nausea lightheadedness"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "5/24/2008",
+    "Ride_name": "Revenge of the Mummy",
+    "Theme_Park": "Universal Studios",
+    "age": 45,
+    "gender": "M",
+    "description": "chest pain/nausea"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "11/18/2007",
+    "Ride_name": "Revenge of the Mummy",
+    "Theme_Park": "Universal Studios",
+    "age": 34,
+    "gender": "F",
+    "description": "Lower back vertebrae fracture"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "8/19/2007",
+    "Ride_name": "Revenge of the Mummy",
+    "Theme_Park": "Universal Studios",
+    "age": 57,
+    "gender": "M",
+    "description": "Chest pain."
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "7/7/2007",
+    "Ride_name": "Revenge of the Mummy",
+    "Theme_Park": "Universal Studios",
+    "age": 70,
+    "gender": "F",
+    "description": "general weakness after exiting ride."
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "9/21/2004",
+    "Ride_name": "Revenge of the Mummy",
+    "Theme_Park": "Universal Studios",
+    "age": 39,
+    "gender": "M",
+    "description": "passed away"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "5/19/2007",
+    "Ride_name": "Rock 'n' Roller Coaster Starring Aerosmith",
+    "Theme_Park": "Hollywood Studios",
+    "age": 47,
+    "gender": "M",
+    "description": "Chest pain; diagnosed with heart attack"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "4/10/2006",
+    "Ride_name": "Rock 'n' Roller Coaster Starring Aerosmith",
+    "Theme_Park": "Hollywood Studios",
+    "age": 59,
+    "gender": "M",
+    "description": "Headache and dizziness; transported from other park location approximately three hours after riding."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "6/28/2006",
+    "Ride_name": "Rock 'n' Roller Coaster Starring Aerosmith",
+    "Theme_Park": "Hollywood Studios",
+    "age": 50,
+    "gender": "F",
+    "description": "Fell while getting into vehicle; back injury"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "6/29/2006",
+    "Ride_name": "Rock 'n' Roller Coaster Starring Aerosmith",
+    "Theme_Park": "Hollywood Studios",
+    "age": 12,
+    "gender": "M",
+    "description": "Guest unresponsive; later passed away at hospital"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "2/28/2019",
+    "Ride_name": "Rock 'n' Roller Coaster Starring Aerosmith",
+    "Theme_Park": "Hollywood Studios",
+    "age": 64,
+    "gender": "M",
+    "description": "guest had chest pains"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "4/26/2017",
+    "Ride_name": "Rock 'n' Roller Coaster Starring Aerosmith",
+    "Theme_Park": "Hollywood Studios",
+    "age": 70,
+    "gender": "M",
+    "description": "shoulder and arm pain; dizziness"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "6/15/2017",
+    "Ride_name": "Rock 'n' Roller Coaster Starring Aerosmith",
+    "Theme_Park": "Hollywood Studios",
+    "age": 81,
+    "gender": "M",
+    "description": "guest with pre-existing condition felt dizzy and faint"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "10/27/2021",
+    "Ride_name": "Rock 'n' Roller Coaster Starring Aerosmith",
+    "Theme_Park": "Hollywood Studios",
+    "age": 18,
+    "gender": "M",
+    "description": "guest passed out and fell after exiting the attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "2/27/2022",
+    "Ride_name": "Rock 'n' Roller Coaster Starring Aerosmith",
+    "Theme_Park": "Hollywood Studios",
+    "age": 48,
+    "gender": "F",
+    "description": "guest with pre-existing condition had a seizure on the attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "3/26/2022",
+    "Ride_name": "Rock 'n' Roller Coaster Starring Aerosmith",
+    "Theme_Park": "Hollywood Studios",
+    "age": 43,
+    "gender": "F",
+    "description": "guest passed out after experiencing the attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "10/31/2019",
+    "Ride_name": "Rock 'n' Roller Coaster Starring Aerosmith",
+    "Theme_Park": "Hollywood Studios",
+    "age": 46,
+    "gender": "F",
+    "description": "severe head pain illness and vomiting after riding"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "12/26/2014",
+    "Ride_name": "Rock 'n' Roller Coaster Starring Aerosmith",
+    "Theme_Park": "Hollywood Studios",
+    "age": 51,
+    "gender": "F",
+    "description": "dizziness & loss of memory after riding; later lost consciousness"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "9/6/2012",
+    "Ride_name": "Rock 'n' Roller Coaster Starring Aerosmith",
+    "Theme_Park": "Hollywood Studios",
+    "age": 51,
+    "gender": "M",
+    "description": "Loss of consciousness on ride; regained consciousness before exiting"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "1/12/2014",
+    "Ride_name": "Rock 'n' Roller Coaster Starring Aerosmith",
+    "Theme_Park": "Hollywood Studios",
+    "age": 55,
+    "gender": "F",
+    "description": "experienced nausea and motion sickness"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "8/10/2017",
+    "Ride_name": "Rock 'n' Roller Coaster Starring Aerosmith",
+    "Theme_Park": "Hollywood Studios",
+    "age": 71,
+    "gender": "F",
+    "description": "guest with pre-existing condition felt ill after riding attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "9/18/2015",
+    "Ride_name": "Rock 'n' Roller Coaster Starring Aerosmith",
+    "Theme_Park": "Hollywood Studios",
+    "age": 55,
+    "gender": "M",
+    "description": "guest with pre-existing condition felt ill and temporarily lost consciousness"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "9/17/2009",
+    "Ride_name": "Rock 'n' Roller Coaster Starring Aerosmith",
+    "Theme_Park": "Hollywood Studios",
+    "age": 31,
+    "gender": "F",
+    "description": "seizure after exiting ride"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "9/21/2009",
+    "Ride_name": "Rock 'n' Roller Coaster Starring Aerosmith",
+    "Theme_Park": "Hollywood Studios",
+    "age": 50,
+    "gender": "F",
+    "description": "chest pains and shortness of breath"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "4/13/2009",
+    "Ride_name": "Rock 'n' Roller Coaster Starring Aerosmith",
+    "Theme_Park": "Hollywood Studios",
+    "age": 48,
+    "gender": "M",
+    "description": "feeling weak on left side and had trouble standing after riding."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "5/21/2009",
+    "Ride_name": "Rock 'n' Roller Coaster Starring Aerosmith",
+    "Theme_Park": "Hollywood Studios",
+    "age": 55,
+    "gender": "M",
+    "description": "Chest pains"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "5/6/2008",
+    "Ride_name": "Rock 'n' Roller Coaster Starring Aerosmith",
+    "Theme_Park": "Hollywood Studios",
+    "age": 25,
+    "gender": "F",
+    "description": "seizure"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "6/21/2016",
+    "Ride_name": "Rock 'n' Roller Coaster Starring Aerosmith",
+    "Theme_Park": "Hollywood Studios",
+    "age": 26,
+    "gender": "M",
+    "description": "guest reported back and leg pain and that he was lightheaded; later underwent heart surgery."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "6/25/2016",
+    "Ride_name": "Rock 'n' Roller Coaster Starring Aerosmith",
+    "Theme_Park": "Hollywood Studios",
+    "age": 50,
+    "gender": "M",
+    "description": "felt ill; nausea"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "10/5/2022",
+    "Ride_name": "Runamukka Reef",
+    "Theme_Park": "Volcano Bay",
+    "age": 78,
+    "gender": "F",
+    "description": "elbow pain"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "11/21/2015",
+    "Ride_name": "Seven Dwarfs Mine Train",
+    "Theme_Park": "Magic Kingdom",
+    "age": 71,
+    "gender": "M",
+    "description": "guest felt ill after riding attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "11/27/2018",
+    "Ride_name": "Seven Dwarfs Mine Train",
+    "Theme_Park": "Magic Kingdom",
+    "age": 58,
+    "gender": "F",
+    "description": "guest felt dizzy after having experienced the attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "5/14/2017",
+    "Ride_name": "Seven Dwarfs Mine Train",
+    "Theme_Park": "Magic Kingdom",
+    "age": 48,
+    "gender": "F",
+    "description": "guest with pre-existing condition had a seizure"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "12/18/2014",
+    "Ride_name": "Seven Dwarfs Mine Train",
+    "Theme_Park": "Magic Kingdom",
+    "age": 54,
+    "gender": "M",
+    "description": "guest wilt preexisting condition felt ill after exiting"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "9/25/2022",
+    "Ride_name": "Slinky Dog Dash",
+    "Theme_Park": "Hollywood Studios",
+    "age": 46,
+    "gender": "M",
+    "description": "guest had a seizure after riding the attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "2/2/2019",
+    "Ride_name": "Slinky Dog Dash",
+    "Theme_Park": "Hollywood Studios",
+    "age": 30,
+    "gender": "M",
+    "description": "guest with pre-existing condition had seizure"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "8/16/2004",
+    "Ride_name": "Slush Gusher",
+    "Theme_Park": "Blizzard Beach",
+    "age": 49,
+    "gender": "M",
+    "description": "felt dizzy & sick"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "1/31/2009",
+    "Ride_name": "Snow White's Scary Adventures",
+    "Theme_Park": "Magic Kingdom",
+    "age": 46,
+    "gender": "F",
+    "description": "guest exited vehicle and claims to have lost consciousness"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "8/5/2008",
+    "Ride_name": "Snow White's Scary Adventures",
+    "Theme_Park": "Magic Kingdom",
+    "age": 6,
+    "gender": "F",
+    "description": "seizure"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "1/15/2007",
+    "Ride_name": "Soarin' Around the World",
+    "Theme_Park": "Epcot",
+    "age": 60,
+    "gender": "M",
+    "description": "Guest had difficulty standing in exit area; passed away two days later due to stroke."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "10/12/2014",
+    "Ride_name": "Soarin' Around the World",
+    "Theme_Park": "Epcot",
+    "age": 74,
+    "gender": "F",
+    "description": "tripped over guests bag, fractured leg"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "7/3/2012",
+    "Ride_name": "Soarin' Around the World",
+    "Theme_Park": "Epcot",
+    "age": 56,
+    "gender": "F",
+    "description": "chest pain"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "1/16/2017",
+    "Ride_name": "Soarin' Around the World",
+    "Theme_Park": "Epcot",
+    "age": 89,
+    "gender": "F",
+    "description": "guest with pre-existing condition felt chest pain, numbness"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "8/6/2009",
+    "Ride_name": "Soarin' Around the World",
+    "Theme_Park": "Epcot",
+    "age": 69,
+    "gender": "F",
+    "description": "felt pain in side earlier in day; reported it was worse after riding."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "1/17/2017",
+    "Ride_name": "Soarin' Around the World",
+    "Theme_Park": "Epcot",
+    "age": 46,
+    "gender": "M",
+    "description": "felt dizzy and ill, slurred speech"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "1/23/2022",
+    "Ride_name": "Soarin' Around the World",
+    "Theme_Park": "Epcot",
+    "age": 56,
+    "gender": "F",
+    "description": "guest with pre-existing condition had chest pain after exiting the attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "8/3/2022",
+    "Ride_name": "Soarin' Around the World",
+    "Theme_Park": "Epcot",
+    "age": 73,
+    "gender": "F",
+    "description": "guest experienced stroke like symptoms while on the attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "3/14/2022",
+    "Ride_name": "Soarin' Around the World",
+    "Theme_Park": "Epcot",
+    "age": 82,
+    "gender": "F",
+    "description": "guest had chest pain after experiencing the attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "2/9/2012",
+    "Ride_name": "Space Mountain",
+    "Theme_Park": "Magic Kingdom",
+    "age": 80,
+    "gender": "M",
+    "description": "guest lost consciousness after exiting attraction subsequently diagnosed with a heart attack"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "6/23/2007",
+    "Ride_name": "Space Mountain",
+    "Theme_Park": "Magic Kingdom",
+    "age": 57,
+    "gender": "F",
+    "description": "Dizzy and weakness in the left side."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "7/12/2006",
+    "Ride_name": "Space Mountain",
+    "Theme_Park": "Magic Kingdom",
+    "age": 73,
+    "gender": "M",
+    "description": "Guest unresponsive after riding; passed away three days later due to heart condition."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "1/8/2006",
+    "Ride_name": "Space Mountain",
+    "Theme_Park": "Magic Kingdom",
+    "age": 6,
+    "gender": "M",
+    "description": "Terminally ill guest rode ride, later passed away at hospital"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "6/14/2006",
+    "Ride_name": "Space Mountain",
+    "Theme_Park": "Magic Kingdom",
+    "age": 48,
+    "gender": "M",
+    "description": "Chest pain."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "2/22/2006",
+    "Ride_name": "Space Mountain",
+    "Theme_Park": "Magic Kingdom",
+    "age": 56,
+    "gender": "F",
+    "description": "Hip Pain."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "3/14/2006",
+    "Ride_name": "Space Mountain",
+    "Theme_Park": "Magic Kingdom",
+    "age": 61,
+    "gender": "M",
+    "description": "Motion Sickness."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "12/24/2004",
+    "Ride_name": "Space Mountain",
+    "Theme_Park": "Magic Kingdom",
+    "age": 11,
+    "gender": "F",
+    "description": "collapsed in queue line leading to ride. Child subsequently passed away at hospital."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "3/2/2003",
+    "Ride_name": "Space Mountain",
+    "Theme_Park": "Magic Kingdom",
+    "age": 75,
+    "gender": "F",
+    "description": "memory loss"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "9/15/2015",
+    "Ride_name": "Space Mountain",
+    "Theme_Park": "Magic Kingdom",
+    "age": 7,
+    "gender": "F",
+    "description": "thigh pain"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "11/21/2020",
+    "Ride_name": "Space Mountain",
+    "Theme_Park": "Magic Kingdom",
+    "age": 60,
+    "gender": "F",
+    "description": "guest felt ill after experiencing the attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "10/12/2019",
+    "Ride_name": "Space Mountain",
+    "Theme_Park": "Magic Kingdom",
+    "age": 89,
+    "gender": "F",
+    "description": "guest with pre-existing medical condition experienced temporary loss of consciousness"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "8/6/2019",
+    "Ride_name": "Space Mountain",
+    "Theme_Park": "Magic Kingdom",
+    "age": 61,
+    "gender": "F",
+    "description": "guest became ill after riding attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "6/8/2018",
+    "Ride_name": "Space Mountain",
+    "Theme_Park": "Magic Kingdom",
+    "age": 69,
+    "gender": "F",
+    "description": "guest was disoriented and unable to exit vehicle without assistance"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "6/20/2018",
+    "Ride_name": "Space Mountain",
+    "Theme_Park": "Magic Kingdom",
+    "age": 68,
+    "gender": "F",
+    "description": "guest with pre-existing condition felt disoriented and had slurred speech"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "12/9/2017",
+    "Ride_name": "Space Mountain",
+    "Theme_Park": "Magic Kingdom",
+    "age": 17,
+    "gender": "F",
+    "description": "guest felt dizzy and disoriented"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "9/27/2017",
+    "Ride_name": "Space Mountain",
+    "Theme_Park": "Magic Kingdom",
+    "age": 48,
+    "gender": "F",
+    "description": "fell entering ride vehicle, temporary loss of consciousness, fractured leg"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "8/20/2016",
+    "Ride_name": "Space Mountain",
+    "Theme_Park": "Magic Kingdom",
+    "age": 59,
+    "gender": "M",
+    "description": "stomach and chest pain"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "4/26/2016",
+    "Ride_name": "Space Mountain",
+    "Theme_Park": "Magic Kingdom",
+    "age": 46,
+    "gender": "F",
+    "description": "guest felt ill, dizzy and disoriented"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "1/26/2016",
+    "Ride_name": "Space Mountain",
+    "Theme_Park": "Magic Kingdom",
+    "age": 17,
+    "gender": "F",
+    "description": "guest temporarily lost consciousness and fell after riding attraction."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "7/7/2015",
+    "Ride_name": "Space Mountain",
+    "Theme_Park": "Magic Kingdom",
+    "age": 55,
+    "gender": "F",
+    "description": "guest with pre-existing conditions exited ride, then lost consciousness; later passed away."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "12/28/2014",
+    "Ride_name": "Space Mountain",
+    "Theme_Park": "Magic Kingdom",
+    "age": 72,
+    "gender": "M",
+    "description": "felt nauseated & lethargic after exiting"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "7/29/2014",
+    "Ride_name": "Space Mountain",
+    "Theme_Park": "Magic Kingdom",
+    "age": 62,
+    "gender": "F",
+    "description": "chest pain, nausea and vomiting"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "5/8/2014",
+    "Ride_name": "Space Mountain",
+    "Theme_Park": "Magic Kingdom",
+    "age": 53,
+    "gender": "M",
+    "description": "guest who had not been feeling well felt sick after exiting."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "3/3/2014",
+    "Ride_name": "Space Mountain",
+    "Theme_Park": "Magic Kingdom",
+    "age": 16,
+    "gender": "F",
+    "description": "guest with pre-existing condition experienced periods of unconsciousness"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "8/26/2013",
+    "Ride_name": "Space Mountain",
+    "Theme_Park": "Magic Kingdom",
+    "age": 26,
+    "gender": "F",
+    "description": "nausea vomiting & neck pain; reportedly underwent surgery to the head prior to being released from hospital"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "5/30/2013",
+    "Ride_name": "Space Mountain",
+    "Theme_Park": "Magic Kingdom",
+    "age": 56,
+    "gender": "M",
+    "description": "dizziness, chest pain, lower abdominal pain"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "1/14/2013",
+    "Ride_name": "Space Mountain",
+    "Theme_Park": "Magic Kingdom",
+    "age": 54,
+    "gender": "M",
+    "description": "motion sickness/fainted during and after ride."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "12/29/2012",
+    "Ride_name": "Space Mountain",
+    "Theme_Park": "Magic Kingdom",
+    "age": 40,
+    "gender": "M",
+    "description": "loss of consciousness while on ride, pre-existing condition"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "8/4/2012",
+    "Ride_name": "Space Mountain",
+    "Theme_Park": "Magic Kingdom",
+    "age": 57,
+    "gender": "M",
+    "description": "Guest with preexisting health condition (asthma) temporarily lost consciousness; released"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "9/3/2012",
+    "Ride_name": "Space Mountain",
+    "Theme_Park": "Magic Kingdom",
+    "age": 49,
+    "gender": "F",
+    "description": "while entering ride vehicle guest fractured leg"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "11/19/2011",
+    "Ride_name": "Space Mountain",
+    "Theme_Park": "Magic Kingdom",
+    "age": 43,
+    "gender": "F",
+    "description": "nausea and dizziness"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "4/28/2011",
+    "Ride_name": "Space Mountain",
+    "Theme_Park": "Magic Kingdom",
+    "age": 47,
+    "gender": "F",
+    "description": "felt nauseous, dizzy and short of breath"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "5/15/2011",
+    "Ride_name": "Space Mountain",
+    "Theme_Park": "Magic Kingdom",
+    "age": 12,
+    "gender": "F",
+    "description": "guest with history of asthma came into unload area unresponsive: regained consciousness and was transported to hospital"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "5/21/2011",
+    "Ride_name": "Space Mountain",
+    "Theme_Park": "Magic Kingdom",
+    "age": 48,
+    "gender": "F",
+    "description": "guest came into unload area unconscious: later diagnosed with subarachnoid hemorrhage at hospital"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "6/1/2010",
+    "Ride_name": "Space Mountain",
+    "Theme_Park": "Magic Kingdom",
+    "age": 71,
+    "gender": "F",
+    "description": "stroke"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "3/18/2009",
+    "Ride_name": "Space Mountain",
+    "Theme_Park": "Magic Kingdom",
+    "age": 75,
+    "gender": "F",
+    "description": "Felt light headed; nausea"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "10/24/2008",
+    "Ride_name": "Space Mountain",
+    "Theme_Park": "Magic Kingdom",
+    "age": 65,
+    "gender": "M",
+    "description": "Dizzy and disoriented"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "9/16/2018",
+    "Ride_name": "Space Mountain",
+    "Theme_Park": "Magic Kingdom",
+    "age": 37,
+    "gender": "M",
+    "description": "guest with pre-existing condition lost consciousness after exiting attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "8/8/2006",
+    "Ride_name": "Spaceship Earth",
+    "Theme_Park": "Epcot",
+    "age": 7,
+    "gender": "F",
+    "description": "Guest visiting through wish granting Organization had seizure after riding."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "10/14/2005",
+    "Ride_name": "Spaceship Earth",
+    "Theme_Park": "Epcot",
+    "age": 65,
+    "gender": "F",
+    "description": "fell getting off attraction reported complaints regarding shoulder and both wrists"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "5/30/2021",
+    "Ride_name": "Spaceship Earth",
+    "Theme_Park": "Epcot",
+    "age": 58,
+    "gender": "M",
+    "description": "guest with pre-existing condition passed out after exiting the attraction; later passed away at hospital"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "5/31/2019",
+    "Ride_name": "Spaceship Earth",
+    "Theme_Park": "Epcot",
+    "age": 72,
+    "gender": "F",
+    "description": "guest passed out after exiting the attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "4/16/2016",
+    "Ride_name": "Spaceship Earth",
+    "Theme_Park": "Epcot",
+    "age": 69,
+    "gender": "F",
+    "description": "fell while boarding; fractured leg"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "4/14/2015",
+    "Ride_name": "Spaceship Earth",
+    "Theme_Park": "Epcot",
+    "age": 79,
+    "gender": "M",
+    "description": "guest with pre-existing condition felt nausea, shortness of breath and pain in jaw after riding."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "12/2/2013",
+    "Ride_name": "Spaceship Earth",
+    "Theme_Park": "Epcot",
+    "age": 56,
+    "gender": "M",
+    "description": "felt ill and appeared incoherent"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "5/17/2012",
+    "Ride_name": "Spaceship Earth",
+    "Theme_Park": "Epcot",
+    "age": 55,
+    "gender": "F",
+    "description": "Seizure"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "6/15/2012",
+    "Ride_name": "Spaceship Earth",
+    "Theme_Park": "Epcot",
+    "age": 49,
+    "gender": "M",
+    "description": "Guest with preexisting health condition felt ill after riding"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "5/4/2010",
+    "Ride_name": "Spaceship Earth",
+    "Theme_Park": "Epcot",
+    "age": 68,
+    "gender": "F",
+    "description": "chest pain"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "11/2/2009",
+    "Ride_name": "Spaceship Earth",
+    "Theme_Park": "Epcot",
+    "age": 59,
+    "gender": "M",
+    "description": "chest pain"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "7/7/2002",
+    "Ride_name": "Spaceship Earth",
+    "Theme_Park": "Epcot",
+    "age": 51,
+    "gender": "M",
+    "description": "Asthma Attack"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "7/29/2006",
+    "Ride_name": "Splash Mountain",
+    "Theme_Park": "Magic Kingdom",
+    "age": 37,
+    "gender": "F",
+    "description": "Guest recently released from hospital for lung condition, reported chest pains and difficulty breathing."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "10/7/2005",
+    "Ride_name": "Splash Mountain",
+    "Theme_Park": "Magic Kingdom",
+    "age": 61,
+    "gender": "M",
+    "description": "chest pain."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "9/10/2021",
+    "Ride_name": "Splash Mountain",
+    "Theme_Park": "Magic Kingdom",
+    "age": 39,
+    "gender": "M",
+    "description": "guest had a seizure after experiencing the attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "6/16/2018",
+    "Ride_name": "Splash Mountain",
+    "Theme_Park": "Magic Kingdom",
+    "age": 15,
+    "gender": "M",
+    "description": "guest experienced chest pain and shortness of breath before and after riding attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "6/15/2015",
+    "Ride_name": "Splash Mountain",
+    "Theme_Park": "Magic Kingdom",
+    "age": 21,
+    "gender": "F",
+    "description": "nausea and chest pains"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "6/2/2011",
+    "Ride_name": "Splash Mountain",
+    "Theme_Park": "Magic Kingdom",
+    "age": 29,
+    "gender": "F",
+    "description": "Guest with prior history of anaphylactic reactions began experiencing symptoms while on the attraction."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "4/7/2009",
+    "Ride_name": "Splash Mountain",
+    "Theme_Park": "Magic Kingdom",
+    "age": 57,
+    "gender": "F",
+    "description": "passed out after riding and exiting attraction, hit head on concrete floor and fractured skull."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "4/13/2009",
+    "Ride_name": "Splash Mountain",
+    "Theme_Park": "Magic Kingdom",
+    "age": 39,
+    "gender": "M",
+    "description": "seizure"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "12/16/2008",
+    "Ride_name": "Splash Mountain",
+    "Theme_Park": "Magic Kingdom",
+    "age": 61,
+    "gender": "M",
+    "description": "Fall occurred while getting into vehicles; fractured leg"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "4/27/2008",
+    "Ride_name": "Splash Mountain",
+    "Theme_Park": "Magic Kingdom",
+    "age": 65,
+    "gender": "M",
+    "description": "chest pain"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "8/31/2012",
+    "Ride_name": "Star Tours: The Adventure Continues",
+    "Theme_Park": "Hollywood Studios",
+    "age": 51,
+    "gender": "M",
+    "description": "dizziness neck pain and motion sickness"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "5/10/2019",
+    "Ride_name": "Star Tours: The Adventure Continues",
+    "Theme_Park": "Hollywood Studios",
+    "age": 39,
+    "gender": "F",
+    "description": "guest with pre-existing condition felt dizzy and had trouble with equilibrium"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "8/10/2019",
+    "Ride_name": "Star Tours: The Adventure Continues",
+    "Theme_Park": "Hollywood Studios",
+    "age": 66,
+    "gender": "M",
+    "description": "guest with pre-existing condition was ill after experiencing the attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "8/19/2019",
+    "Ride_name": "Star Tours: The Adventure Continues",
+    "Theme_Park": "Hollywood Studios",
+    "age": 40,
+    "gender": "M",
+    "description": "guest with pre-existing medical condition had a seizure and fell after riding"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "3/4/2019",
+    "Ride_name": "Star Tours: The Adventure Continues",
+    "Theme_Park": "Hollywood Studios",
+    "age": 78,
+    "gender": "F",
+    "description": "guest with pre-existing condition had chest pain after experiencing the attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "6/5/2018",
+    "Ride_name": "Star Tours: The Adventure Continues",
+    "Theme_Park": "Hollywood Studios",
+    "age": 57,
+    "gender": "M",
+    "description": "guest with pre-existing condition had chest pain and shortness of breath after riding attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "11/21/2017",
+    "Ride_name": "Star Tours: The Adventure Continues",
+    "Theme_Park": "Hollywood Studios",
+    "age": 67,
+    "gender": "F",
+    "description": "guest felt ill and dizzy after riding attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "9/18/2016",
+    "Ride_name": "Star Tours: The Adventure Continues",
+    "Theme_Park": "Hollywood Studios",
+    "age": 68,
+    "gender": "M",
+    "description": "guest with preexisting heart condition felt ill after riding; later passed away"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "6/5/2015",
+    "Ride_name": "Star Tours: The Adventure Continues",
+    "Theme_Park": "Hollywood Studios",
+    "age": 67,
+    "gender": "M",
+    "description": "felt ill"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "3/16/2015",
+    "Ride_name": "Star Tours: The Adventure Continues",
+    "Theme_Park": "Hollywood Studios",
+    "age": 46,
+    "gender": "M",
+    "description": "seizure after exiting ride"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "8/8/2014",
+    "Ride_name": "Star Tours: The Adventure Continues",
+    "Theme_Park": "Hollywood Studios",
+    "age": 45,
+    "gender": "M",
+    "description": "chest pain; did not have medication with him."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "1/24/2013",
+    "Ride_name": "Star Tours: The Adventure Continues",
+    "Theme_Park": "Hollywood Studios",
+    "age": 41,
+    "gender": "M",
+    "description": "guest with pre-existing health condition experienced nausea and chest pain after ride"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "9/8/2011",
+    "Ride_name": "Star Tours: The Adventure Continues",
+    "Theme_Park": "Hollywood Studios",
+    "age": 16,
+    "gender": "F",
+    "description": "guest with pre-existing condition had a seizure."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "11/16/2009",
+    "Ride_name": "Star Tours: The Adventure Continues",
+    "Theme_Park": "Hollywood Studios",
+    "age": 74,
+    "gender": "M",
+    "description": "felt dizzy, later fainted and fell and struck his head"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "7/27/2009",
+    "Ride_name": "Star Tours: The Adventure Continues",
+    "Theme_Park": "Hollywood Studios",
+    "age": 54,
+    "gender": "M",
+    "description": "Seizure after exiting ride."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "5/13/2022",
+    "Ride_name": "Star Tours: The Adventure Continues",
+    "Theme_Park": "Hollywood Studios",
+    "age": 70,
+    "gender": "M",
+    "description": "guest with pre-existing condition felt faint after experiencing the attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "3/30/2022",
+    "Ride_name": "Star Wars: Rise of the Resistance",
+    "Theme_Park": "Hollywood Studios",
+    "age": 47,
+    "gender": "F",
+    "description": "guest experienced a cardiac event within the attraction in a holding area prior to boarding a ride vehicle"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "2/4/2022",
+    "Ride_name": "Storm Force Acceleration",
+    "Theme_Park": "Islands of Adventure",
+    "age": 37,
+    "gender": "F",
+    "description": "seizure"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "7/6/2009",
+    "Ride_name": "Storm Slide-Rudder Buster",
+    "Theme_Park": "Typhoon Lagoon",
+    "age": 52,
+    "gender": "F",
+    "description": "felt disoriented and sick after riding."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "6/25/2009",
+    "Ride_name": "Storm Slide-Rudder Buster",
+    "Theme_Park": "Typhoon Lagoon",
+    "age": 66,
+    "gender": "M",
+    "description": "fractured ribs after collision with another guest."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "7/7/2012",
+    "Ride_name": "Storm Slide-Rudder Buster",
+    "Theme_Park": "Typhoon Lagoon",
+    "age": 52,
+    "gender": "M",
+    "description": "fractured leg after entering catch pool"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "10/25/2011",
+    "Ride_name": "Storm Slide-Rudder Buster",
+    "Theme_Park": "Typhoon Lagoon",
+    "age": 48,
+    "gender": "M",
+    "description": "fell and fractured ankle"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "8/23/2010",
+    "Ride_name": "Storm Slide-Rudder Buster",
+    "Theme_Park": "Typhoon Lagoon",
+    "age": 39,
+    "gender": "M",
+    "description": "complained of head pain and collapsed: subsequent stroke at hospital"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "3/8/2014",
+    "Ride_name": "Studio Backlot Tour",
+    "Theme_Park": "Hollywood Studios",
+    "age": 53,
+    "gender": "F",
+    "description": "guest temporarily lost consciousness while transferring from wheelchair into ride vehicle."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "6/2/2006",
+    "Ride_name": "Summit Plummet",
+    "Theme_Park": "Blizzard Beach",
+    "age": 25,
+    "gender": "M",
+    "description": "Breathing problems."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "7/4/2004",
+    "Ride_name": "Surf Pool",
+    "Theme_Park": "Blizzard Beach",
+    "age": 53,
+    "gender": "M",
+    "description": "fractured elbow"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "8/26/2012",
+    "Ride_name": "Surf Pool",
+    "Theme_Park": "Typhoon Lagoon",
+    "age": 54,
+    "gender": "M",
+    "description": "guest collapsed in water subsequently Passed away from heart attack"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "10/19/2002",
+    "Ride_name": "Surf Pool",
+    "Theme_Park": "Typhoon Lagoon",
+    "age": 48,
+    "gender": "M",
+    "description": "saw spots"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "11/4/2006",
+    "Ride_name": "Surf Pool",
+    "Theme_Park": "Typhoon Lagoon",
+    "age": 50,
+    "gender": "M",
+    "description": "Swallowed a lot of water, felt dizzy and shortness of breath"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "3/3/2006",
+    "Ride_name": "Surf Pool",
+    "Theme_Park": "Typhoon Lagoon",
+    "age": 58,
+    "gender": "M",
+    "description": "Loss of consciousness."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "4/8/2005",
+    "Ride_name": "Surf Pool",
+    "Theme_Park": "Typhoon Lagoon",
+    "age": 12,
+    "gender": "F",
+    "description": "felt illÃ¢ÂÂ¦later passed away at hospital."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "8/31/2005",
+    "Ride_name": "Surf Pool",
+    "Theme_Park": "Typhoon Lagoon",
+    "age": 69,
+    "gender": "F",
+    "description": "fell and fractured wrist."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "7/17/2003",
+    "Ride_name": "Surf Pool",
+    "Theme_Park": "Typhoon Lagoon",
+    "age": 46,
+    "gender": "M",
+    "description": "stroke (according to family)"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "6/14/2016",
+    "Ride_name": "Surf Pool",
+    "Theme_Park": "Typhoon Lagoon",
+    "age": 65,
+    "gender": "F",
+    "description": "injured knee"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "1/5/2012",
+    "Ride_name": "Surf Pool",
+    "Theme_Park": "Typhoon Lagoon",
+    "age": 61,
+    "gender": "F",
+    "description": "Temporarily loss of consciousness when another guest fell and knocked her down; pain in right knee/leg"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "8/23/2015",
+    "Ride_name": "Surf Pool",
+    "Theme_Park": "Typhoon Lagoon",
+    "age": 45,
+    "gender": "M",
+    "description": "chest pain (pre-existing condition)"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "9/1/2013",
+    "Ride_name": "Surf Pool",
+    "Theme_Park": "Typhoon Lagoon",
+    "age": 67,
+    "gender": "F",
+    "description": "fell and fractured left leg"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "5/13/2011",
+    "Ride_name": "Surf Pool",
+    "Theme_Park": "Typhoon Lagoon",
+    "age": 47,
+    "gender": "F",
+    "description": "fell and fractured left leg"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "7/2/2003",
+    "Ride_name": "Surf Pool",
+    "Theme_Park": "Typhoon Lagoon",
+    "age": 31,
+    "gender": "F",
+    "description": "fell on steps leading to catch pool fractured ankle and died of pulmonary embolism"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "3/29/2002",
+    "Ride_name": "Surf Pool",
+    "Theme_Park": "Typhoon Lagoon",
+    "age": 16,
+    "gender": "F",
+    "description": "c/o neck pain"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "3/8/2010",
+    "Ride_name": "Surf Pool",
+    "Theme_Park": "Typhoon Lagoon",
+    "age": 77,
+    "gender": "F",
+    "description": "loss of consciousness: history of heart condition"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "6/14/2020",
+    "Ride_name": "Tai Nui Serpentine Body Slide",
+    "Theme_Park": "Volcano Bay",
+    "age": 9,
+    "gender": "M",
+    "description": "unresponsive"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "4/3/2019",
+    "Ride_name": "Tai Nui Serpentine Body Slide",
+    "Theme_Park": "Volcano Bay",
+    "age": 53,
+    "gender": "M",
+    "description": "hip/pelvis pain"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "6/9/2018",
+    "Ride_name": "Tai Nui Serpentine Body Slide",
+    "Theme_Park": "Volcano Bay",
+    "age": 51,
+    "gender": "M",
+    "description": "hip pain"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "5/16/2018",
+    "Ride_name": "Tai Nui Serpentine Body Slide",
+    "Theme_Park": "Volcano Bay",
+    "age": 27,
+    "gender": "M",
+    "description": "hip/pelvis pain"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "6/19/2021",
+    "Ride_name": "Teamboat Springs",
+    "Theme_Park": "Blizzard Beach",
+    "age": 43,
+    "gender": "M",
+    "description": "guest fractured ankle stepping into the tube"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "9/26/2017",
+    "Ride_name": "Teamboat Springs",
+    "Theme_Park": "Blizzard Beach",
+    "age": 58,
+    "gender": "F",
+    "description": "fell while entering raft and fractured back"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "4/16/2009",
+    "Ride_name": "Teamboat Springs",
+    "Theme_Park": "Blizzard Beach",
+    "age": 64,
+    "gender": "F",
+    "description": "Felt disoriented and lightheaded"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "8/14/2008",
+    "Ride_name": "Teamboat Springs",
+    "Theme_Park": "Blizzard Beach",
+    "age": 41,
+    "gender": "F",
+    "description": "slipped while getting into tube; fractured ankle"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "6/16/2022",
+    "Ride_name": "Te'awa The Fearless River",
+    "Theme_Park": "Volcano Bay",
+    "age": 30,
+    "gender": "F",
+    "description": "lost consciousness (pre-existing condition)"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "10/3/2019",
+    "Ride_name": "Te'awa The Fearless River",
+    "Theme_Park": "Volcano Bay",
+    "age": 29,
+    "gender": "M",
+    "description": "chest palpitations"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "8/15/2017",
+    "Ride_name": "Te'awa The Fearless River",
+    "Theme_Park": "Volcano Bay",
+    "age": 53,
+    "gender": "F",
+    "description": "cardiac arrest"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "10/17/2013",
+    "Ride_name": "Terminator 2: 3D",
+    "Theme_Park": "Universal Studios",
+    "age": 68,
+    "gender": "F",
+    "description": "abdominal pain"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "6/6/2015",
+    "Ride_name": "Test Track",
+    "Theme_Park": "Epcot",
+    "age": 69,
+    "gender": "M",
+    "description": "guest with pre-existing condition experienced chest pain."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "12/18/2006",
+    "Ride_name": "Test Track",
+    "Theme_Park": "Epcot",
+    "age": 67,
+    "gender": "F",
+    "description": "Fell getting out of vehicle and fractured pelvis."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "3/14/2020",
+    "Ride_name": "Test Track",
+    "Theme_Park": "Epcot",
+    "age": 34,
+    "gender": "F",
+    "description": "guest with pre-existing condition experienced abdominal pain after riding the attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "5/17/2019",
+    "Ride_name": "Test Track",
+    "Theme_Park": "Epcot",
+    "age": 64,
+    "gender": "M",
+    "description": "guest with pre-existing condition became ill after riding attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "3/13/2010",
+    "Ride_name": "Test Track",
+    "Theme_Park": "Epcot",
+    "age": 63,
+    "gender": "M",
+    "description": "felt dizzy and ill, nose bleed"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "8/15/2009",
+    "Ride_name": "Test Track",
+    "Theme_Park": "Epcot",
+    "age": 40,
+    "gender": "M",
+    "description": "fell while exiting vehicle and broke right wrist."
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "11/23/2014",
+    "Ride_name": "The Amazing Adventures of Spiderman",
+    "Theme_Park": "Islands of Adventure",
+    "age": 45,
+    "gender": "M",
+    "description": "change in mental status"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "8/15/2008",
+    "Ride_name": "The Amazing Adventures of Spiderman",
+    "Theme_Park": "Islands of Adventure",
+    "age": 16,
+    "gender": "M",
+    "description": "shortness of breath with associated chest pain"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "9/26/2006",
+    "Ride_name": "The Amazing Adventures of Spiderman",
+    "Theme_Park": "Islands of Adventure",
+    "age": 67,
+    "gender": "M",
+    "description": "Fainting"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "3/11/2017",
+    "Ride_name": "The Barnstormer",
+    "Theme_Park": "Magic Kingdom",
+    "age": 55,
+    "gender": "M",
+    "description": "guest complained of chest pain after riding attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "2/19/2013",
+    "Ride_name": "The Barnstormer",
+    "Theme_Park": "Magic Kingdom",
+    "age": 56,
+    "gender": "F",
+    "description": "seizure like symptoms"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "1/31/2008",
+    "Ride_name": "The Cat In The Hat",
+    "Theme_Park": "Islands of Adventure",
+    "age": 32,
+    "gender": "F",
+    "description": "Nausea"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "2/22/2005",
+    "Ride_name": "The Incredible Hulk Coaster",
+    "Theme_Park": "Islands of Adventure",
+    "age": 56,
+    "gender": "F",
+    "description": "loss of consciousness."
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "2/29/2008",
+    "Ride_name": "The Incredible Hulk Coaster",
+    "Theme_Park": "Islands of Adventure",
+    "age": 28,
+    "gender": "F",
+    "description": "Seizure"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "7/29/2012",
+    "Ride_name": "The Incredible Hulk Coaster",
+    "Theme_Park": "Islands of Adventure",
+    "age": 18,
+    "gender": "F",
+    "description": "chest pain"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "2/15/2021",
+    "Ride_name": "The Incredible Hulk Coaster",
+    "Theme_Park": "Islands of Adventure",
+    "age": 42,
+    "gender": "F",
+    "description": "syncope"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "11/27/2020",
+    "Ride_name": "The Incredible Hulk Coaster",
+    "Theme_Park": "Islands of Adventure",
+    "age": 14,
+    "gender": "F",
+    "description": "seizure"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "2/16/2020",
+    "Ride_name": "The Incredible Hulk Coaster",
+    "Theme_Park": "Islands of Adventure",
+    "age": 48,
+    "gender": "M",
+    "description": "motion sickness"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "7/24/2017",
+    "Ride_name": "The Incredible Hulk Coaster",
+    "Theme_Park": "Islands of Adventure",
+    "age": 36,
+    "gender": "F",
+    "description": "chest pain"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "6/20/2017",
+    "Ride_name": "The Incredible Hulk Coaster",
+    "Theme_Park": "Islands of Adventure",
+    "age": 47,
+    "gender": "F",
+    "description": "syncope"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "6/14/2015",
+    "Ride_name": "The Incredible Hulk Coaster",
+    "Theme_Park": "Islands of Adventure",
+    "age": 59,
+    "gender": "M",
+    "description": "chest discomfort"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "3/14/2014",
+    "Ride_name": "The Incredible Hulk Coaster",
+    "Theme_Park": "Islands of Adventure",
+    "age": 40,
+    "gender": "M",
+    "description": "dizziness"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "4/18/2011",
+    "Ride_name": "The Incredible Hulk Coaster",
+    "Theme_Park": "Islands of Adventure",
+    "age": 29,
+    "gender": "M",
+    "description": "syncope"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "6/16/2005",
+    "Ride_name": "The Liberty Belle",
+    "Theme_Park": "Magic Kingdom",
+    "age": 45,
+    "gender": "F",
+    "description": "fainted and fell while on Riverboat. Hurt ankle and knee"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "7/16/2003",
+    "Ride_name": "The Liberty Belle",
+    "Theme_Park": "Magic Kingdom",
+    "age": 83,
+    "gender": "F",
+    "description": "fx pelvis"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "8/11/2003",
+    "Ride_name": "The Liberty Belle",
+    "Theme_Park": "Magic Kingdom",
+    "age": 71,
+    "gender": "F",
+    "description": "fell & hit head."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "2/28/2014",
+    "Ride_name": "The Liberty Belle",
+    "Theme_Park": "Magic Kingdom",
+    "age": 80,
+    "gender": "M",
+    "description": "guest with personal illness felt weakness while on the riverboat"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "6/28/2014",
+    "Ride_name": "The Magic Carpets of Aladdin",
+    "Theme_Park": "Magic Kingdom",
+    "age": 8,
+    "gender": "F",
+    "description": "loss of consciousness on ride; regained consciousness and was trasnported"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "10/22/2021",
+    "Ride_name": "The Many Adventures of Winnie the Pooh",
+    "Theme_Park": "Magic Kingdom",
+    "age": 20,
+    "gender": "F",
+    "description": "guest had a seizure after experiencing the attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "1/31/2012",
+    "Ride_name": "The Seas with Nemo & Friends",
+    "Theme_Park": "Epcot",
+    "age": 78,
+    "gender": "M",
+    "description": "felt ill; subsequently diagnosed with heart attack"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "6/20/2019",
+    "Ride_name": "The Seas with Nemo & Friends",
+    "Theme_Park": "Epcot",
+    "age": 69,
+    "gender": "F",
+    "description": "guest fell and fractured hip while loading onto the attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "8/17/2014",
+    "Ride_name": "The Seas with Nemo & Friends",
+    "Theme_Park": "Epcot",
+    "age": 63,
+    "gender": "M",
+    "description": "fell and struck face while assisting family member from vehicle; facial fractures."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "4/14/2014",
+    "Ride_name": "The Seas with Nemo & Friends",
+    "Theme_Park": "Epcot",
+    "age": 62,
+    "gender": "F",
+    "description": "guest fell on mobbing walkway and injured knee"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "12/31/2010",
+    "Ride_name": "The Seas with Nemo & Friends",
+    "Theme_Park": "Epcot",
+    "age": 76,
+    "gender": "F",
+    "description": "guest fell while on moving walkway and injured her left leg."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "3/13/2008",
+    "Ride_name": "The Seas with Nemo & Friends",
+    "Theme_Park": "Epcot",
+    "age": 71,
+    "gender": "F",
+    "description": "Fell exiting vehicle; hit head and fractured left shoulder"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "11/10/2007",
+    "Ride_name": "The Seas with Nemo & Friends",
+    "Theme_Park": "Epcot",
+    "age": 81,
+    "gender": "F",
+    "description": "Fell while boarding the vehicle/back pain"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "9/16/2018",
+    "Ride_name": "The Seas with Nemo & Friends",
+    "Theme_Park": "Epcot",
+    "age": 79,
+    "gender": "F",
+    "description": "guest felt ill prior to and after experiencing the attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "1/14/2018",
+    "Ride_name": "The Seas with Nemo & Friends",
+    "Theme_Park": "Epcot",
+    "age": 69,
+    "gender": "M",
+    "description": "guest with pre-existing heart condition had chest pain"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "7/4/2015",
+    "Ride_name": "The Seas with Nemo & Friends",
+    "Theme_Park": "Epcot",
+    "age": 81,
+    "gender": "M",
+    "description": "guest with pre-existing condition felt ill after exiting ride."
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "4/5/2022",
+    "Ride_name": "The Simpsons Ride",
+    "Theme_Park": "Universal Studios",
+    "age": 25,
+    "gender": "F",
+    "description": "knee pain"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "9/9/2014",
+    "Ride_name": "The Simpsons Ride",
+    "Theme_Park": "Universal Studios",
+    "age": 59,
+    "gender": "M",
+    "description": "headache"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "1/11/2008",
+    "Ride_name": "The Simpsons Ride",
+    "Theme_Park": "Universal Studios",
+    "age": 68,
+    "gender": "M",
+    "description": "chest pain"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "7/2/2006",
+    "Ride_name": "The Twilight Zone Tower of Terror",
+    "Theme_Park": "Hollywood Studios",
+    "age": 56,
+    "gender": "F",
+    "description": "Felt Dizzy."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "12/7/2005",
+    "Ride_name": "The Twilight Zone Tower of Terror",
+    "Theme_Park": "Hollywood Studios",
+    "age": 16,
+    "gender": "F",
+    "description": "felt ill."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "5/16/2004",
+    "Ride_name": "The Twilight Zone Tower of Terror",
+    "Theme_Park": "Hollywood Studios",
+    "age": 62,
+    "gender": "M",
+    "description": "chest pains after ride"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "6/29/2003",
+    "Ride_name": "The Twilight Zone Tower of Terror",
+    "Theme_Park": "Hollywood Studios",
+    "age": 45,
+    "gender": "F",
+    "description": "chest pain"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "1/4/2002",
+    "Ride_name": "The Twilight Zone Tower of Terror",
+    "Theme_Park": "Hollywood Studios",
+    "age": 47,
+    "gender": "F",
+    "description": "anxiety & claustrophobia, atrial fibrilation"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "12/2/2020",
+    "Ride_name": "The Twilight Zone Tower of Terror",
+    "Theme_Park": "Hollywood Studios",
+    "age": 38,
+    "gender": "F",
+    "description": "guest had abdominal pain after experiencing attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "3/26/2017",
+    "Ride_name": "The Twilight Zone Tower of Terror",
+    "Theme_Park": "Hollywood Studios",
+    "age": 61,
+    "gender": "M",
+    "description": "felt ill"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "5/23/2016",
+    "Ride_name": "The Twilight Zone Tower of Terror",
+    "Theme_Park": "Hollywood Studios",
+    "age": 18,
+    "gender": "M",
+    "description": "guest with preexisting history felt chest pain; numbness in arm"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "2/7/2014",
+    "Ride_name": "The Twilight Zone Tower of Terror",
+    "Theme_Park": "Hollywood Studios",
+    "age": 18,
+    "gender": "F",
+    "description": "guest with pre-existing condition experienced anxiety & numbness"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "8/19/2014",
+    "Ride_name": "The Twilight Zone Tower of Terror",
+    "Theme_Park": "Hollywood Studios",
+    "age": 40,
+    "gender": "F",
+    "description": "guest with pre-existing condition experienced chest pain."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "10/27/2016",
+    "Ride_name": "The Twilight Zone Tower of Terror",
+    "Theme_Park": "Hollywood Studios",
+    "age": 40,
+    "gender": "M",
+    "description": "guest felt disoriented"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "9/7/2012",
+    "Ride_name": "The Twilight Zone Tower of Terror",
+    "Theme_Park": "Hollywood Studios",
+    "age": 25,
+    "gender": "F",
+    "description": "felt dizzy, numbness/pain in arms"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "12/12/2008",
+    "Ride_name": "The Twilight Zone Tower of Terror",
+    "Theme_Park": "Hollywood Studios",
+    "age": 41,
+    "gender": "F",
+    "description": "Numbness in right leg"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "7/30/2008",
+    "Ride_name": "The Twilight Zone Tower of Terror",
+    "Theme_Park": "Hollywood Studios",
+    "age": 62,
+    "gender": "M",
+    "description": "felt disoriented and dizzy"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "5/4/2008",
+    "Ride_name": "The Twilight Zone Tower of Terror",
+    "Theme_Park": "Hollywood Studios",
+    "age": 32,
+    "gender": "M",
+    "description": "neck & head pain, diagnosed with existing brain tumor"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "10/19/2007",
+    "Ride_name": "The Twilight Zone Tower of Terror",
+    "Theme_Park": "Hollywood Studios",
+    "age": 77,
+    "gender": "M",
+    "description": "Fell ill after riding attraction claimed memory loss and irregular heartbeat became ill after riding."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "11/3/2009",
+    "Ride_name": "Toboggan Racers",
+    "Theme_Park": "Blizzard Beach",
+    "age": 67,
+    "gender": "M",
+    "description": "Cervical injury after collision near end of slide"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "6/18/2009",
+    "Ride_name": "Toboggan Racers",
+    "Theme_Park": "Blizzard Beach",
+    "age": 43,
+    "gender": "F",
+    "description": "Felt pain in abdomen and chest"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "3/4/2014",
+    "Ride_name": "Tomorrowland Speedway",
+    "Theme_Park": "Magic Kingdom",
+    "age": 64,
+    "gender": "F",
+    "description": "guest fell while exiting vehicle, fractured fibula"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "7/23/2019",
+    "Ride_name": "Tomorrowland Speedway",
+    "Theme_Park": "Magic Kingdom",
+    "age": 75,
+    "gender": "M",
+    "description": "guest fell loading onto the attraction; multiple abrasions and contusions"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "10/1/2015",
+    "Ride_name": "Tomorrowland Speedway",
+    "Theme_Park": "Magic Kingdom",
+    "age": 64,
+    "gender": "M",
+    "description": "guest injured ankle attempting to step out of the vehicle."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "9/6/2009",
+    "Ride_name": "Tomorrowland Speedway",
+    "Theme_Park": "Magic Kingdom",
+    "age": 7,
+    "gender": "M",
+    "description": "fell after exiting vehicle and fractured arm."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "9/23/2022",
+    "Ride_name": "Tomorrowland Speedway",
+    "Theme_Park": "Magic Kingdom",
+    "age": 27,
+    "gender": "F",
+    "description": "guest went into labor after exiting the attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "12/6/2016",
+    "Ride_name": "Tomorrowland Speedway",
+    "Theme_Park": "Magic Kingdom",
+    "age": 67,
+    "gender": "M",
+    "description": "guest with preexisting condition felt ill after exiting ride."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "4/7/2015",
+    "Ride_name": "Tomorrowland Speedway",
+    "Theme_Park": "Magic Kingdom",
+    "age": 32,
+    "gender": "F",
+    "description": "guest with pre-existing health condition had seizure"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "12/14/2009",
+    "Ride_name": "Tomorrowland Speedway",
+    "Theme_Park": "Magic Kingdom",
+    "age": 59,
+    "gender": "M",
+    "description": "felt dizzy, tripped while exiting vehicle and injured his knee"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "12/28/2008",
+    "Ride_name": "Tomorrowland Speedway",
+    "Theme_Park": "Magic Kingdom",
+    "age": 79,
+    "gender": "F",
+    "description": "Felt dizzy and hot; loss of consciousness"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "3/8/2015",
+    "Ride_name": "Tomorrowland Transit Authority People Mover",
+    "Theme_Park": "Magic Kingdom",
+    "age": 68,
+    "gender": "M",
+    "description": "fell while exiting, fractured shoulder"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "2/9/2015",
+    "Ride_name": "Tomorrowland Transit Authority People Mover",
+    "Theme_Park": "Magic Kingdom",
+    "age": 80,
+    "gender": "M",
+    "description": "dizziness and chest pain after riding"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "4/1/2015",
+    "Ride_name": "Tomorrowland Transit Authority People Mover",
+    "Theme_Park": "Magic Kingdom",
+    "age": 77,
+    "gender": "M",
+    "description": "guest with pre-existing condition felt weakness & disorientation"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "3/18/2013",
+    "Ride_name": "Tomorrowland Transit Authority People Mover",
+    "Theme_Park": "Magic Kingdom",
+    "age": 73,
+    "gender": "M",
+    "description": "felt ill/lost consciousness after exiting ride."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "9/25/2022",
+    "Ride_name": "Tomorrowland Transit Authority People Mover",
+    "Theme_Park": "Magic Kingdom",
+    "age": 83,
+    "gender": "M",
+    "description": "guest with pre-existing condition experienced cardiac event"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "9/2/2022",
+    "Ride_name": "Tomorrowland Transit Authority People Mover",
+    "Theme_Park": "Magic Kingdom",
+    "age": 72,
+    "gender": "F",
+    "description": "guest loss consciousness while experiencing the attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "9/7/2017",
+    "Ride_name": "Toy Story Midway Mania!",
+    "Theme_Park": "Hollywood Studios",
+    "age": 70,
+    "gender": "M",
+    "description": "guest with pre-existing condition felt ill"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "6/10/2021",
+    "Ride_name": "Toy Story Midway Mania!",
+    "Theme_Park": "Hollywood Studios",
+    "age": 58,
+    "gender": "F",
+    "description": "guest felt dizzy and fell exiting the attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "12/3/2020",
+    "Ride_name": "Toy Story Midway Mania!",
+    "Theme_Park": "Hollywood Studios",
+    "age": 54,
+    "gender": "M",
+    "description": "guest had a heart attack after having experienced the attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "2/23/2016",
+    "Ride_name": "Toy Story Midway Mania!",
+    "Theme_Park": "Hollywood Studios",
+    "age": 19,
+    "gender": "F",
+    "description": "guest with preexisting heart condition fainted while boarding attraction."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "4/10/2014",
+    "Ride_name": "Toy Story Midway Mania!",
+    "Theme_Park": "Hollywood Studios",
+    "age": 54,
+    "gender": "F",
+    "description": "nausea & dizziness, lost consciousness & subsequently passed away"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "10/31/2011",
+    "Ride_name": "Toy Story Midway Mania!",
+    "Theme_Park": "Hollywood Studios",
+    "age": 73,
+    "gender": "M",
+    "description": "guest with pre-existing health condition fell near restrooms after exiting ride & struck his head"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "11/20/2011",
+    "Ride_name": "Toy Story Midway Mania!",
+    "Theme_Park": "Hollywood Studios",
+    "age": 87,
+    "gender": "M",
+    "description": "felt ill"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "10/6/2015",
+    "Ride_name": "Transformers: The Ride 3D",
+    "Theme_Park": "Universal Studios",
+    "age": 52,
+    "gender": "F",
+    "description": "chest discomfort"
+  },
+  {
+    "Company": "Universal",
+    "Incident_date": "4/19/2018",
+    "Ride_name": "Transformers: The Ride 3D",
+    "Theme_Park": "Universal Studios",
+    "age": 49,
+    "gender": "M",
+    "description": "weakness"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "7/5/2022",
+    "Ride_name": "Under the Sea - Journey of the Little Mermaid",
+    "Theme_Park": "Magic Kingdom",
+    "age": 61,
+    "gender": "F",
+    "description": "guest with pre-existing condition experienced stroke like symptoms after riding the attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "8/16/2016",
+    "Ride_name": "Under the Sea - Journey of the Little Mermaid",
+    "Theme_Park": "Magic Kingdom",
+    "age": 53,
+    "gender": "F",
+    "description": "seizure"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "1/26/2014",
+    "Ride_name": "Under the Sea - Journey of the Little Mermaid",
+    "Theme_Park": "Magic Kingdom",
+    "age": 3,
+    "gender": "F",
+    "description": "guest with pre-existing condition had seizure after riding"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "9/2/2019",
+    "Ride_name": "Under the Sea - Journey of the Little Mermaid",
+    "Theme_Park": "Magic Kingdom",
+    "age": 56,
+    "gender": "F",
+    "description": "guest with pre-existing condition complained of being dizzy and light-headed after riding"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "7/21/2019",
+    "Ride_name": "Under the Sea - Journey of the Little Mermaid",
+    "Theme_Park": "Magic Kingdom",
+    "age": 69,
+    "gender": "F",
+    "description": "guest with pre-existing medical condition had a seizure after experiencing the attraction"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "6/2/2017",
+    "Ride_name": "Under the Sea - Journey of the Little Mermaid",
+    "Theme_Park": "Magic Kingdom",
+    "age": 34,
+    "gender": "M",
+    "description": "felt disoriented and fell after riding"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "7/4/2016",
+    "Ride_name": "Walt Disney World Railroad",
+    "Theme_Park": "Magic Kingdom",
+    "age": 41,
+    "gender": "M",
+    "description": "guest felt ill and began shaking after exiting."
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "5/5/2015",
+    "Ride_name": "Walt Disney World Railroad",
+    "Theme_Park": "Magic Kingdom",
+    "age": 71,
+    "gender": "M",
+    "description": "nausea and dizziness"
+  },
+  {
+    "Company": "Disney World",
+    "Incident_date": "6/18/2022",
+    "Ride_name": "Wildlife Express",
+    "Theme_Park": "Animal Kingdom",
+    "age": 42,
+    "gender": "M",
+    "description": "guest felt ill after experiencing the attraction"
+  }
+]
