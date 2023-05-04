@@ -30,20 +30,16 @@ FROM
 -- Create CASE statment to create groups
 SELECT
 	CASE
-		WHEN age >= 1 AND age <= 10 THEN '1 - 10'
-        WHEN age >= 11 AND age <= 20 THEN '11 - 20'
-        WHEN age >= 21 AND age <= 30 THEN '21 - 30'
-        WHEN age >= 31 AND age <= 40 THEN '31 - 40'
-        WHEN age >= 41 AND age <= 50 THEN '41 - 50'
-        WHEN age >= 51 AND age <= 60 THEN '51 - 60'
-        WHEN age >= 61 AND age <= 70 THEN '61 - 70'
-        WHEN age >= 71 AND age <= 80 THEN '71 - 80'
-        ELSE '80+'
+		WHEN age <= 12 THEN 'Child'
+        WHEN age >= 13 AND age <= 19 THEN 'Teenager'
+        WHEN age >= 20 AND age <= 34 THEN 'Young Adult'
+        WHEN age >= 35 AND age <= 59 THEN 'Adult'
+        ELSE 'Senior'
 	END AS age_group,
     COUNT(age) AS count
 FROM data
 GROUP BY age_group
-ORDER BY age_group;
+ORDER BY count;  
 
 -- Male v Female Incidents
 SELECT 
@@ -60,12 +56,29 @@ SET
     incident_date = DATE_FORMAT(STR_TO_DATE(incident_date, '%m/%d/%Y'),
             '%Y-%m-%d');
 
+-- Incidents by YEAR 
 SELECT 
     COUNT(*) AS count, YEAR(incident_date) AS Year
 FROM
     data
 GROUP BY Year
 ORDER BY Year;
+
+-- Incidents by MONTH
+SELECT 
+    COUNT(*) AS count, MONTH(incident_date) AS Month
+FROM
+    data
+GROUP BY Month
+ORDER BY Month;
+
+-- Incidents by Day
+SELECT 
+    COUNT(*) AS count, DAY(incident_date) AS Day
+FROM
+    data
+GROUP BY Day
+ORDER BY Day;
 
 -- Theme park with the most incidents
 SELECT 
