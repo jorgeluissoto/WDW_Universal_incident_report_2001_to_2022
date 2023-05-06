@@ -97,3 +97,14 @@ WHERE
     Theme_Park = 'Animal Kingdom'
 GROUP BY Ride_name
 ORDER BY count DESC;
+
+-- Did the guest pass away
+SELECT
+	Company,
+	COUNT(*) AS count,
+	SUM(CASE WHEN description LIKE '%passed away%' OR description LIKE '%died%'  THEN 1 ELSE 0 END) GuestPassedAway,
+    SUM(CASE WHEN description LIKE '%hospital%' THEN 1 ELSE 0 END) Hospital,
+    SUM(CASE WHEN description LIKE '%pre-existing%' OR description LIKE '%pre existing%' THEN 1 ELSE 0 END) PreExisting
+FROM data
+GROUP BY Company;
+
