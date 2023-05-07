@@ -202,4 +202,68 @@ FROM(
 	FROM data
     GROUP BY age_group
 ) AS subquery;
+
+-- Medical Indicators Count by Theme Park
+SELECT
+	Theme_Park,
+	COUNT(*) AS count,
+	SUM(CASE WHEN description LIKE '%passed away%' OR description LIKE '%died%' 
+		THEN 1 ELSE 0 END) GuestPassedAway,
+    SUM(CASE WHEN description LIKE '%hospital%' THEN 1 ELSE 0 END) Hospital,
+    SUM(CASE WHEN description LIKE '%pre-existing%' OR description LIKE '%pre existing%' 
+		THEN 1 ELSE 0 END) PreExisting,
+	SUM(CASE WHEN description LIKE '%unconscious%' OR description LIKE '%syncope%' OR 
+		description LIKE '%passed out%' OR description LIKE '%fainted%' OR 
+		description LIKE '%collapsed%' OR description LIKE '%loss of consciousness%' OR
+        description LIKE '%unresponsive%' THEN 1 ELSE 0 END) LoseConsciousness,
+	SUM(CASE WHEN description LIKE '%chest pain%' THEN 1 ELSE 0 END) ChestPain,
+    SUM(CASE WHEN description LIKE '%seizure%' THEN 1 ELSE 0 END) Seizure,
+    SUM( CASE WHEN description LIKE '%fell%' OR description LIKE '%fracture%' OR
+		description LIKE '%lacerated%' OR description LIKE '%tear%' OR description LIKE '%tripped%' OR
+        description LIKE '%hit%' OR description LIKE '%laceration%' OR description LIKE '%fx%' OR
+        description LIKE '%broke%' OR  description LIKE '%struck%' OR description LIKE '%injured%' OR
+        description LIKE '%hip%' OR description LIKE '%injury%' THEN 1 ELSE 0 END) PhysicalPain,
+	SUM( CASE WHEN description LIKE '%sickness%' OR description LIKE '%motion sickness%' OR
+		description LIKE '%dizzy%' OR description LIKE '%ill%' OR description LIKE '%not feeling well%' OR
+        description LIKE '%dizziness%' OR description LIKE '%vertigo%' THEN 1 ELSE 0 END) MotionSickness
+FROM data
+GROUP BY Theme_Park;
+
+-- Medical Indicator Percentage by Theme Park 
+SELECT
+	Theme_Park,
+	GuestPassedAway/ count AS GuestPassedAway,
+    Hospital/ count AS Hospital,
+    PreExisting/ count AS PreExisting,
+    LoseConsciousness/ count AS LossConsciousness,
+    ChestPain/ count AS ChestPain,
+    Seizure/ count AS Seizure,
+    PhysicalPain/ count AS PhysicalPain,
+    MotionSickness/ count AS MotionSickness
+FROM(
+	SELECT
+		Theme_Park,
+		COUNT(*) AS count,
+		SUM(CASE WHEN description LIKE '%passed away%' OR description LIKE '%died%' 
+		THEN 1 ELSE 0 END) GuestPassedAway,
+        SUM(CASE WHEN description LIKE '%hospital%' THEN 1 ELSE 0 END) Hospital,
+		SUM(CASE WHEN description LIKE '%pre-existing%' OR description LIKE '%pre existing%' 
+		THEN 1 ELSE 0 END) PreExisting,
+		SUM(CASE WHEN description LIKE '%unconscious%' OR description LIKE '%syncope%' OR 
+		description LIKE '%passed out%' OR description LIKE '%fainted%' OR 
+		description LIKE '%collapsed%' OR description LIKE '%loss of consciousness%' OR
+        description LIKE '%unresponsive%' THEN 1 ELSE 0 END) LoseConsciousness,
+		SUM(CASE WHEN description LIKE '%chest pain%' THEN 1 ELSE 0 END) ChestPain,
+		SUM(CASE WHEN description LIKE '%seizure%' THEN 1 ELSE 0 END) Seizure,
+		SUM( CASE WHEN description LIKE '%fell%' OR description LIKE '%fracture%' OR
+		description LIKE '%lacerated%' OR description LIKE '%tear%' OR description LIKE '%tripped%' OR
+        description LIKE '%hit%' OR description LIKE '%laceration%' OR description LIKE '%fx%' OR
+        description LIKE '%broke%' OR  description LIKE '%struck%' OR description LIKE '%injured%' OR
+        description LIKE '%hip%' OR description LIKE '%injury%' THEN 1 ELSE 0 END) PhysicalPain,
+		SUM( CASE WHEN description LIKE '%sickness%' OR description LIKE '%motion sickness%' OR
+		description LIKE '%dizzy%' OR description LIKE '%ill%' OR description LIKE '%not feeling well%' OR
+        description LIKE '%dizziness%' OR description LIKE '%vertigo%' THEN 1 ELSE 0 END) MotionSickness
+	FROM data
+    GROUP BY Theme_Park
+) AS subquery;
 	
