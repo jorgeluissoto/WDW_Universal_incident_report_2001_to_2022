@@ -1,0 +1,678 @@
+Incident_date,Theme_Park,GuestPassedAway,Hospital,PreExisting,LoseConsciousness,ChestPain,Seizure,PhysicalPain,MotionSickness
+2022-06-09,"Hollywood Studios",0,0,1,0,0,0,1,0
+2014-10-05,"Magic Kingdom",0,0,0,0,0,0,1,0
+2009-12-03,"Magic Kingdom",0,0,0,0,0,0,1,0
+2022-08-07,"Animal Kingdom",0,0,1,1,0,0,0,0
+2022-04-19,"Animal Kingdom",0,0,1,0,0,0,0,1
+2022-07-05,"Animal Kingdom",0,0,1,0,0,0,0,0
+2022-01-27,"Animal Kingdom",0,0,1,0,0,1,0,0
+2021-12-18,"Animal Kingdom",0,0,0,0,0,0,0,0
+2021-12-21,"Animal Kingdom",0,0,0,0,0,0,0,0
+2021-09-16,"Animal Kingdom",0,0,1,0,0,0,0,0
+2021-06-29,"Animal Kingdom",0,0,1,0,0,1,0,0
+2018-03-24,"Animal Kingdom",0,0,1,0,0,0,0,1
+2019-07-05,"Animal Kingdom",0,0,0,0,0,0,0,0
+2018-05-28,"Animal Kingdom",0,0,1,0,0,0,0,0
+2017-10-27,"Animal Kingdom",0,0,0,0,0,0,1,0
+2017-04-11,"Animal Kingdom",0,0,1,1,0,0,0,0
+2017-12-06,"Animal Kingdom",0,0,1,0,0,0,0,1
+2017-06-24,"Animal Kingdom",0,0,0,1,0,0,0,1
+2004-06-27,"Universal Studios",0,0,0,0,0,0,0,0
+2012-05-08,"Magic Kingdom",0,0,1,0,0,0,0,0
+2004-12-19,"Magic Kingdom",0,0,0,0,0,0,0,0
+2003-12-24,"Magic Kingdom",0,0,0,0,0,0,0,0
+2008-03-14,"Magic Kingdom",0,0,0,0,0,1,0,0
+2017-04-22,"Magic Kingdom",0,0,1,0,0,0,0,1
+2017-10-05,"Magic Kingdom",0,0,0,0,0,0,0,0
+2017-09-02,"Magic Kingdom",1,1,1,1,0,0,0,0
+2017-12-02,"Magic Kingdom",0,0,1,0,0,0,0,0
+2015-06-12,"Magic Kingdom",0,0,0,0,0,0,0,0
+2014-02-12,"Magic Kingdom",0,1,1,1,0,0,0,0
+2014-07-21,"Magic Kingdom",0,0,0,0,1,0,0,0
+2014-05-27,"Magic Kingdom",0,0,0,0,1,0,1,1
+2006-01-11,"Magic Kingdom",0,0,0,0,0,1,0,0
+2004-11-30,"Magic Kingdom",0,0,0,0,0,0,0,0
+2003-11-05,"Magic Kingdom",0,0,0,0,0,0,1,0
+2003-05-14,"Magic Kingdom",0,0,0,0,0,0,1,0
+2008-09-08,"Magic Kingdom",0,0,0,0,0,0,1,0
+2019-03-18,"Magic Kingdom",0,0,0,0,0,0,1,0
+2018-10-25,"Magic Kingdom",0,0,0,0,0,0,1,0
+2017-10-06,"Magic Kingdom",0,0,0,0,0,0,0,1
+2015-02-09,"Magic Kingdom",0,0,1,0,2,0,0,2
+2014-11-10,"Magic Kingdom",0,0,0,0,0,1,0,0
+2014-01-03,"Magic Kingdom",0,0,0,0,0,0,1,0
+2013-07-11,"Magic Kingdom",0,0,0,0,0,0,0,1
+2010-09-14,"Magic Kingdom",0,0,0,0,0,0,1,0
+2015-03-30,"Islands of Adventure",0,0,0,0,0,0,1,0
+2010-08-25,"Islands of Adventure",0,0,0,0,0,0,1,0
+2007-07-17,"Islands of Adventure",0,0,0,0,0,0,1,0
+2017-01-03,"Islands of Adventure",0,0,0,0,0,0,0,0
+2022-06-14,"Islands of Adventure",0,0,0,0,0,0,0,0
+2017-11-22,"Islands of Adventure",0,0,0,0,0,0,1,0
+2011-07-25,"Islands of Adventure",0,0,0,0,0,0,0,1
+2001-12-29,"Islands of Adventure",0,0,0,0,0,0,1,0
+2012-12-02,"Islands of Adventure",0,0,0,0,0,0,1,0
+2012-05-07,"Magic Kingdom",0,0,0,0,0,0,1,0
+2013-07-24,"Magic Kingdom",0,0,1,0,0,0,0,0
+2019-09-22,"Blizzard Beach",0,0,0,0,0,0,0,0
+2017-08-04,"Blizzard Beach",0,0,1,0,0,0,0,0
+2013-10-10,"Blizzard Beach",0,0,0,0,0,0,1,0
+2011-07-16,"Blizzard Beach",0,0,0,1,0,1,0,0
+2010-06-26,"Blizzard Beach",0,0,0,0,0,0,1,0
+2004-02-16,"Blizzard Beach",0,1,0,0,0,0,1,0
+2015-05-19,"Blizzard Beach",0,0,0,0,0,0,1,0
+2004-12-07,"Blizzard Beach",0,0,0,0,0,1,0,0
+2008-01-01,"Blizzard Beach",0,0,0,0,0,0,1,0
+2007-02-05,"Blizzard Beach",0,0,0,0,0,0,1,0
+2012-05-25,"Blizzard Beach",0,0,0,0,1,0,0,0
+2015-04-23,"Universal Studios",0,0,0,0,0,0,0,0
+2019-12-13,"Universal Studios",0,0,0,0,0,0,0,1
+2018-03-17,"Universal Studios",0,0,0,0,0,0,0,1
+2015-10-13,"Universal Studios",0,0,0,0,0,0,0,1
+2003-06-24,"Animal Kingdom",0,0,0,0,1,0,0,0
+2005-04-30,"Animal Kingdom",1,1,1,0,0,0,0,0
+2003-07-17,"Animal Kingdom",0,0,0,1,0,0,0,0
+2022-01-17,"Animal Kingdom",0,0,1,0,0,0,0,1
+2019-02-17,"Animal Kingdom",0,0,1,0,1,0,0,0
+2018-04-17,"Animal Kingdom",0,0,0,0,0,0,0,1
+2018-06-17,"Animal Kingdom",0,0,1,0,0,0,0,0
+2015-12-23,"Animal Kingdom",0,0,0,0,0,1,0,0
+2014-03-15,"Animal Kingdom",0,0,0,0,1,0,0,0
+2012-02-18,"Animal Kingdom",0,0,0,0,0,1,0,0
+2010-02-08,"Animal Kingdom",0,0,0,0,0,1,0,0
+2009-10-12,"Animal Kingdom",0,0,0,0,0,1,0,0
+2008-07-25,"Animal Kingdom",0,0,1,0,1,0,0,0
+2010-02-01,"Animal Kingdom",0,0,0,0,1,0,0,0
+2013-10-29,"Universal Studios",0,0,0,0,0,0,0,0
+2007-04-06,"Blizzard Beach",0,0,0,0,0,0,0,0
+2007-03-16,"Blizzard Beach",1,0,0,1,0,0,0,0
+2017-07-27,"Blizzard Beach",0,0,0,0,0,0,1,0
+2012-07-24,"Blizzard Beach",0,0,1,0,0,1,0,0
+2003-04-15,"Islands of Adventure",0,0,0,0,0,0,1,0
+2019-12-07,"Islands of Adventure",0,0,0,0,0,0,0,1
+2006-04-15,"Islands of Adventure",0,0,0,0,1,0,0,0
+2016-07-31,"Islands of Adventure",0,0,0,0,0,0,0,1
+2016-04-25,"Islands of Adventure",0,0,0,0,0,0,0,0
+2015-03-28,"Islands of Adventure",0,0,0,0,0,0,0,0
+2015-09-30,"Islands of Adventure",0,0,0,1,0,0,0,0
+2013-10-18,"Islands of Adventure",0,0,0,0,0,0,0,0
+2012-11-07,"Islands of Adventure",0,0,0,0,0,0,0,0
+2011-07-31,"Islands of Adventure",0,0,0,0,0,0,0,0
+2009-09-12,"Islands of Adventure",0,0,0,0,0,0,0,0
+2008-09-08,"Islands of Adventure",0,0,0,0,1,0,0,0
+2007-11-08,"Islands of Adventure",0,0,0,0,0,0,0,0
+2014-10-17,"Islands of Adventure",0,0,1,0,0,1,0,0
+2002-02-10,"Islands of Adventure",0,0,0,0,0,0,0,0
+2002-10-11,"Islands of Adventure",0,0,0,0,0,0,0,0
+2002-11-07,"Islands of Adventure",0,0,0,0,0,0,1,0
+2006-02-22,"Magic Kingdom",0,0,0,0,0,0,1,1
+2019-01-31,"Universal Studios",0,0,0,0,0,0,0,0
+2015-09-12,"Universal Studios",0,0,0,0,0,0,0,1
+2014-04-20,"Universal Studios",0,0,0,0,0,0,0,0
+2009-03-13,"Universal Studios",0,0,0,0,0,0,0,0
+2021-03-13,"Universal Studios",0,0,0,0,0,0,0,1
+2015-01-18,"Universal Studios",0,0,1,0,0,0,0,0
+2002-03-22,"Universal Studios",0,0,0,0,0,0,1,0
+2005-03-08,Epcot,0,0,0,0,0,0,0,1
+2005-03-13,Epcot,0,0,0,0,0,0,0,1
+2016-07-03,Epcot,0,0,0,0,0,0,0,1
+2012-07-10,Epcot,0,0,0,0,1,0,0,0
+2012-12-30,Epcot,0,0,1,1,0,0,0,0
+2011-03-17,Epcot,0,0,0,0,0,0,0,0
+2003-03-28,Epcot,1,0,0,0,0,0,0,0
+2009-06-23,Epcot,0,0,0,0,0,0,0,1
+2007-03-03,"Animal Kingdom",0,0,0,0,0,1,0,0
+2006-09-20,"Animal Kingdom",0,0,0,0,0,0,0,0
+2006-06-21,"Animal Kingdom",0,0,0,0,1,0,0,0
+2010-04-06,"Animal Kingdom",0,0,0,0,0,0,0,1
+2019-05-07,"Animal Kingdom",0,0,0,0,0,1,0,0
+2019-09-22,"Animal Kingdom",0,0,0,0,0,0,0,1
+2019-11-05,"Animal Kingdom",0,0,1,0,0,0,0,1
+2019-03-06,"Animal Kingdom",0,0,0,0,0,0,0,1
+2018-05-19,"Animal Kingdom",0,0,0,0,0,1,0,0
+2018-05-27,"Animal Kingdom",0,0,0,0,0,0,0,0
+2017-07-08,"Animal Kingdom",0,0,1,0,0,0,0,0
+2017-04-20,"Animal Kingdom",0,0,0,0,0,0,0,0
+2017-12-02,"Animal Kingdom",0,0,0,0,0,0,1,1
+2015-04-18,"Animal Kingdom",0,0,0,0,0,1,0,0
+2015-09-02,"Animal Kingdom",0,0,0,0,0,0,0,1
+2015-03-19,"Animal Kingdom",0,0,0,0,0,0,0,0
+2014-04-08,"Animal Kingdom",0,0,0,1,0,0,1,0
+2014-06-01,"Animal Kingdom",0,0,0,0,0,0,0,1
+2014-01-16,"Animal Kingdom",0,0,1,0,0,0,0,0
+2013-12-28,"Animal Kingdom",0,0,0,0,0,0,0,1
+2011-12-29,"Animal Kingdom",0,0,0,0,0,0,0,1
+2011-10-07,"Animal Kingdom",0,0,0,0,0,0,0,1
+2011-05-18,"Animal Kingdom",0,0,0,0,0,0,0,1
+2010-08-08,"Animal Kingdom",0,0,0,0,1,0,0,0
+2010-09-23,"Animal Kingdom",0,0,0,0,0,0,0,1
+2010-05-18,"Animal Kingdom",0,0,0,0,0,0,0,1
+2009-10-20,"Animal Kingdom",0,0,0,0,0,1,0,0
+2009-02-08,"Animal Kingdom",0,0,0,0,0,0,0,1
+2009-11-05,"Animal Kingdom",0,0,0,0,0,0,0,0
+2008-03-29,"Animal Kingdom",0,0,0,0,0,0,0,0
+2008-05-17,"Animal Kingdom",0,0,0,0,0,0,0,1
+2008-06-16,"Animal Kingdom",0,0,0,0,0,0,0,1
+2008-05-03,"Animal Kingdom",0,0,0,0,0,0,0,1
+2007-12-18,"Animal Kingdom",1,0,0,1,0,0,0,0
+2021-12-10,"Animal Kingdom",0,0,0,0,0,0,0,0
+2021-07-14,"Animal Kingdom",0,0,0,0,0,0,0,0
+2015-10-25,"Animal Kingdom",0,0,1,0,1,0,0,1
+2014-06-21,"Animal Kingdom",0,0,0,0,0,0,0,1
+2021-02-12,"Universal Studios",0,0,0,0,0,1,0,0
+2019-04-24,"Universal Studios",0,0,1,0,1,0,0,0
+2019-06-06,"Universal Studios",0,0,0,0,0,0,0,0
+2018-12-26,"Universal Studios",0,0,0,0,0,0,0,0
+2016-06-16,"Universal Studios",0,0,0,0,0,0,0,0
+2016-01-01,"Islands of Adventure",0,0,1,0,0,0,0,0
+2017-02-17,Epcot,0,0,0,0,0,0,1,0
+2015-07-21,Epcot,0,0,0,0,0,0,1,0
+2012-12-11,Epcot,0,0,0,0,0,0,1,0
+2007-03-09,Epcot,0,0,0,0,0,0,0,0
+2021-02-15,Epcot,0,0,0,0,0,0,1,0
+2004-07-22,"Hollywood Studios",0,0,0,0,1,0,0,0
+2016-01-01,"Hollywood Studios",0,0,0,1,0,0,0,1
+2016-03-13,"Hollywood Studios",0,0,0,0,0,0,0,1
+2015-01-20,"Hollywood Studios",0,0,1,1,0,0,0,0
+2008-05-19,"Hollywood Studios",0,0,0,0,0,0,0,1
+2014-08-18,"Hollywood Studios",0,0,0,1,1,0,0,0
+2020-04-12,"Islands of Adventure",0,0,0,0,0,1,0,0
+2021-07-07,"Islands of Adventure",0,0,0,0,0,0,0,0
+2021-09-06,"Islands of Adventure",0,0,0,0,0,0,0,0
+2017-10-15,"Universal Studios",0,0,0,0,1,0,0,0
+2015-03-10,"Universal Studios",0,0,0,0,0,0,0,0
+2022-07-26,"Universal Studios",0,0,0,0,0,0,0,0
+2017-04-28,"Universal Studios",0,0,0,0,0,0,0,1
+2016-10-20,"Universal Studios",0,0,1,0,0,1,0,0
+2011-07-19,"Islands of Adventure",0,0,0,0,0,0,0,1
+2015-04-16,"Islands of Adventure",0,0,0,0,0,0,0,1
+2015-01-17,"Islands of Adventure",0,0,0,0,0,0,0,0
+2015-03-15,"Islands of Adventure",0,0,1,0,0,0,0,0
+2015-03-24,"Islands of Adventure",0,0,0,0,0,0,0,0
+2014-01-10,"Islands of Adventure",0,0,1,0,0,0,0,0
+2013-11-13,"Islands of Adventure",0,0,0,0,0,0,0,1
+2013-07-12,"Islands of Adventure",0,0,0,0,0,0,0,0
+2013-12-16,"Islands of Adventure",0,0,0,0,1,0,0,0
+2013-07-07,"Islands of Adventure",0,0,0,0,0,0,1,0
+2013-09-13,"Islands of Adventure",0,0,1,0,0,1,0,0
+2013-07-05,"Islands of Adventure",0,0,0,0,1,0,0,0
+2013-05-15,"Islands of Adventure",0,0,0,0,0,0,0,0
+2013-02-01,"Islands of Adventure",0,0,0,0,0,0,0,1
+2013-01-22,"Islands of Adventure",0,0,0,1,0,0,0,0
+2012-02-04,"Islands of Adventure",0,0,0,0,0,0,0,1
+2012-11-01,"Islands of Adventure",0,0,0,0,0,0,0,1
+2012-03-03,"Islands of Adventure",0,0,0,0,0,0,0,1
+2012-03-31,"Islands of Adventure",0,0,0,0,0,0,0,1
+2022-09-09,"Islands of Adventure",0,0,0,1,0,0,0,0
+2022-01-13,"Islands of Adventure",0,0,0,0,0,0,0,1
+2022-03-15,"Islands of Adventure",0,0,0,0,0,0,1,0
+2019-03-11,"Islands of Adventure",0,0,0,0,0,0,0,1
+2019-12-26,"Universal Studios",0,0,0,0,0,0,1,0
+2018-10-10,"Islands of Adventure",0,0,0,0,0,0,0,1
+2018-03-09,"Islands of Adventure",0,0,0,0,0,0,0,1
+2018-06-01,"Islands of Adventure",0,0,0,0,0,0,0,1
+2017-12-27,"Islands of Adventure",0,0,0,0,0,0,0,0
+2017-04-08,"Islands of Adventure",0,0,0,0,0,0,0,0
+2017-04-16,"Islands of Adventure",0,0,0,0,0,0,0,1
+2017-05-01,"Islands of Adventure",0,0,0,0,0,0,0,1
+2017-07-03,"Islands of Adventure",0,0,0,0,0,0,0,1
+2016-01-10,"Islands of Adventure",0,0,1,0,0,1,0,0
+2016-10-16,"Islands of Adventure",0,0,0,0,0,0,0,1
+2016-02-04,"Islands of Adventure",0,0,0,0,0,0,0,0
+2016-05-23,"Islands of Adventure",0,0,0,0,0,0,0,1
+2015-12-24,"Islands of Adventure",0,0,0,0,0,0,0,2
+2015-08-26,"Islands of Adventure",0,0,0,0,0,0,0,1
+2014-05-04,"Islands of Adventure",0,0,0,0,0,0,0,0
+2014-01-01,"Islands of Adventure",0,0,0,0,0,0,0,0
+2014-01-20,"Islands of Adventure",0,0,0,0,0,0,0,0
+2011-01-29,"Islands of Adventure",0,0,0,1,0,0,0,0
+2011-02-28,"Islands of Adventure",0,0,0,0,1,0,0,0
+2007-10-02,"Magic Kingdom",0,0,0,0,0,0,1,0
+2021-12-04,"Magic Kingdom",0,0,0,0,0,0,1,0
+2016-05-16,"Magic Kingdom",0,0,0,0,0,0,0,1
+2015-08-20,"Magic Kingdom",0,0,0,0,0,0,0,0
+2013-10-06,"Magic Kingdom",0,0,1,0,1,0,0,0
+2011-09-08,"Magic Kingdom",0,0,0,0,0,0,1,0
+2009-01-31,"Magic Kingdom",0,0,0,0,1,0,0,0
+2008-07-29,"Magic Kingdom",0,0,0,0,0,0,1,0
+2008-06-19,"Magic Kingdom",0,0,0,0,0,0,1,0
+2017-12-30,"Magic Kingdom",0,0,1,0,1,0,0,0
+2013-12-31,"Magic Kingdom",0,0,0,0,1,0,0,0
+2013-03-03,"Magic Kingdom",0,0,0,0,0,0,1,0
+2012-09-13,"Universal Studios",0,0,0,0,1,0,0,0
+2022-08-31,"Universal Studios",0,0,0,0,0,0,0,0
+2018-11-21,"Universal Studios",0,0,0,0,0,0,0,0
+2018-12-13,"Universal Studios",0,0,0,0,0,0,0,0
+2015-10-11,"Universal Studios",0,0,0,0,0,0,0,0
+2014-10-16,"Universal Studios",0,0,0,0,0,0,0,0
+2014-06-08,"Universal Studios",0,0,0,0,0,0,0,1
+2011-03-10,"Universal Studios",0,0,0,0,0,0,0,1
+2016-04-03,"Universal Studios",0,0,0,0,0,0,0,1
+2010-05-22,"Universal Studios",0,0,0,0,0,0,0,0
+2010-04-24,"Universal Studios",0,0,0,0,0,0,0,0
+2009-10-31,"Universal Studios",0,0,0,0,1,0,0,0
+2016-01-09,"Universal Studios",0,0,0,0,0,0,0,0
+2013-06-23,"Universal Studios",0,0,0,0,1,0,0,0
+2008-05-26,"Hollywood Studios",0,0,0,0,0,0,1,0
+2005-11-25,"Hollywood Studios",0,0,0,0,0,0,1,0
+2011-03-24,"Hollywood Studios",0,0,0,0,0,0,1,0
+2015-03-10,"Typhoon Lagoon",0,0,0,0,0,0,1,0
+2015-12-09,"Typhoon Lagoon",0,0,0,0,0,0,1,0
+2013-07-24,"Typhoon Lagoon",0,0,0,0,0,0,1,0
+2019-04-20,"Islands of Adventure",0,0,0,0,0,0,0,0
+2014-12-25,"Magic Kingdom",1,0,0,0,0,0,0,0
+2008-11-21,"Magic Kingdom",0,0,0,0,0,1,0,0
+2008-06-07,"Magic Kingdom",0,0,0,0,0,0,0,0
+2021-09-22,Epcot,0,0,0,0,0,0,1,0
+2017-12-16,Epcot,0,0,0,0,0,0,1,0
+2022-04-21,"Magic Kingdom",0,0,1,0,1,0,0,0
+2020-03-14,"Magic Kingdom",0,0,0,0,0,0,1,0
+2017-08-18,"Magic Kingdom",0,0,1,0,0,1,0,0
+2015-01-09,"Magic Kingdom",0,0,0,0,0,0,1,0
+2012-11-13,"Magic Kingdom",0,0,0,0,0,0,1,0
+2012-03-23,"Magic Kingdom",1,0,0,0,0,0,1,0
+2019-02-15,"Islands of Adventure",0,0,0,0,0,0,0,0
+2018-08-05,"Islands of Adventure",0,0,0,0,0,0,0,0
+2022-07-24,"Islands of Adventure",0,0,0,0,0,0,0,0
+2017-05-27,"Volcano Bay",0,0,0,0,0,0,0,0
+2006-06-13,"Animal Kingdom",0,1,0,1,0,0,1,0
+2005-02-06,"Animal Kingdom",0,0,0,0,0,0,1,0
+2014-05-12,"Animal Kingdom",0,0,0,0,0,1,0,0
+2013-09-29,"Animal Kingdom",0,0,0,0,0,1,0,0
+2013-05-17,"Animal Kingdom",0,0,1,0,0,1,0,0
+2010-01-03,"Animal Kingdom",0,0,0,0,0,0,0,0
+2022-01-02,"Universal Studios",0,0,1,0,0,0,0,0
+2007-07-16,"Animal Kingdom",0,0,0,0,0,0,1,0
+2010-06-04,"Animal Kingdom",0,0,0,0,0,1,0,0
+2010-05-23,"Animal Kingdom",0,0,0,0,1,0,0,0
+2016-12-24,"Animal Kingdom",0,0,1,0,0,0,0,0
+2017-12-29,"Animal Kingdom",0,0,1,0,1,0,0,0
+2014-05-21,"Animal Kingdom",0,0,1,0,0,0,0,0
+2012-10-03,"Animal Kingdom",0,0,1,0,1,0,0,0
+2008-12-22,"Animal Kingdom",0,0,0,0,0,1,0,0
+2018-04-25,"Animal Kingdom",0,0,0,0,0,0,0,0
+2018-07-06,"Animal Kingdom",0,0,1,0,0,0,0,0
+2018-01-17,"Animal Kingdom",0,0,0,0,1,0,0,0
+2017-10-06,"Animal Kingdom",0,0,1,0,0,1,0,0
+2016-06-15,"Animal Kingdom",0,0,0,0,0,0,0,1
+2015-03-09,"Animal Kingdom",0,0,0,1,0,0,0,0
+2015-06-24,"Animal Kingdom",0,0,0,0,0,0,0,1
+2022-04-04,"Animal Kingdom",0,0,0,0,0,0,0,0
+2022-06-24,"Animal Kingdom",0,0,0,0,0,0,0,1
+2022-06-27,"Animal Kingdom",0,0,0,0,0,0,0,0
+2021-10-13,"Animal Kingdom",0,0,0,1,0,0,0,0
+2021-03-13,"Animal Kingdom",0,0,0,0,0,0,0,1
+2016-12-02,"Animal Kingdom",0,0,0,0,0,0,0,0
+2018-12-11,"Volcano Bay",0,0,0,0,0,0,0,0
+2019-06-14,"Volcano Bay",0,0,0,0,0,0,0,0
+2019-03-24,"Volcano Bay",0,0,0,0,0,0,0,0
+2022-07-17,"Volcano Bay",0,0,0,0,1,0,0,0
+2015-07-21,"Magic Kingdom",0,0,0,1,0,0,1,0
+2022-05-29,Epcot,0,0,1,0,0,0,0,0
+2006-05-06,"Magic Kingdom",0,0,0,0,0,0,1,0
+2018-04-18,"Magic Kingdom",0,0,1,0,0,0,0,1
+2018-05-23,"Magic Kingdom",0,0,1,0,0,0,0,1
+2016-08-12,"Magic Kingdom",0,0,0,0,0,0,1,0
+2014-12-18,"Magic Kingdom",0,0,0,0,0,0,1,1
+2013-10-13,"Magic Kingdom",0,0,0,0,0,0,1,0
+2010-04-13,"Magic Kingdom",0,0,0,0,0,0,1,0
+2010-05-24,"Magic Kingdom",0,0,0,0,0,0,1,0
+2008-07-15,"Magic Kingdom",0,0,0,0,0,0,0,1
+2008-02-02,"Magic Kingdom",0,0,0,0,0,0,1,0
+2012-03-28,Epcot,0,0,0,0,0,1,0,0
+2006-11-15,"Typhoon Lagoon",0,0,0,0,0,0,1,0
+2018-03-05,"Typhoon Lagoon",0,0,0,0,0,0,1,0
+2015-05-15,"Typhoon Lagoon",0,0,0,0,0,0,1,0
+2014-07-18,"Typhoon Lagoon",0,0,0,0,0,0,1,0
+2014-06-23,"Typhoon Lagoon",0,0,0,0,0,0,1,0
+2012-06-29,"Typhoon Lagoon",0,0,0,0,1,0,0,0
+2011-07-16,"Typhoon Lagoon",0,0,0,0,0,0,1,0
+2004-07-19,"Blizzard Beach",0,0,0,0,0,1,0,0
+2018-10-06,"Blizzard Beach",1,0,1,0,0,0,0,0
+2004-08-01,"Universal Studios",0,0,0,0,0,0,1,0
+2016-06-25,"Universal Studios",0,0,1,0,0,1,0,0
+2013-03-18,"Universal Studios",0,0,0,0,0,0,0,0
+2011-10-10,"Universal Studios",0,0,0,1,0,0,0,1
+2015-05-21,"Universal Studios",0,0,0,0,0,0,0,0
+2013-07-31,"Universal Studios",0,0,0,0,0,0,0,0
+2022-04-13,"Hollywood Studios",0,0,0,0,0,1,0,0
+2020-10-28,"Hollywood Studios",0,0,0,0,0,0,1,0
+2022-05-04,"Hollywood Studios",0,0,0,0,0,1,0,0
+2020-03-03,"Hollywood Studios",0,0,1,0,0,1,0,0
+2018-11-20,"Typhoon Lagoon",0,0,0,0,0,0,1,0
+2018-08-12,"Typhoon Lagoon",0,0,0,0,0,0,1,0
+2012-07-24,Epcot,0,0,0,0,0,0,0,0
+2007-07-19,Epcot,0,0,0,0,0,0,0,1
+2006-11-20,Epcot,0,0,0,0,0,0,0,1
+2006-11-04,Epcot,1,1,0,0,0,0,0,1
+2005-04-10,Epcot,0,0,0,0,0,0,0,0
+2005-06-08,Epcot,0,0,0,0,1,0,0,0
+2005-06-13,Epcot,1,1,0,0,0,0,0,0
+2004-08-11,Epcot,0,0,0,0,0,0,0,1
+2004-07-16,Epcot,0,0,0,1,0,0,0,0
+2003-10-08,Epcot,0,0,0,0,0,0,0,0
+2003-10-21,Epcot,0,0,0,0,1,0,0,0
+2003-11-17,Epcot,0,0,0,0,1,0,0,0
+2004-05-02,Epcot,0,0,0,0,0,0,0,0
+2004-03-24,Epcot,0,0,0,0,1,0,0,0
+2004-03-30,Epcot,0,0,0,0,0,0,0,0
+2017-09-15,Epcot,0,0,1,0,0,0,0,1
+2013-01-25,Epcot,0,0,0,1,0,1,0,0
+2013-02-23,Epcot,0,0,0,1,0,0,0,0
+2011-07-19,Epcot,0,0,1,0,0,0,0,1
+2010-08-13,Epcot,0,0,0,0,1,0,0,1
+2010-06-06,Epcot,0,0,0,0,0,0,0,1
+2009-09-19,Epcot,0,0,0,0,0,0,0,1
+2009-06-19,Epcot,0,0,0,1,0,0,0,0
+2016-02-19,Epcot,0,0,0,0,0,0,0,1
+2022-12-07,Epcot,0,0,1,0,0,0,0,0
+2020-07-26,Epcot,0,0,1,0,0,0,0,0
+2019-09-07,Epcot,0,0,0,0,0,0,0,1
+2018-10-06,Epcot,0,0,1,1,0,0,0,0
+2012-02-13,Epcot,0,0,1,0,0,0,0,1
+2011-05-23,Epcot,0,0,0,0,0,0,0,1
+2010-08-02,Epcot,0,0,0,0,0,0,0,1
+2008-08-21,Epcot,0,0,0,0,0,0,0,1
+2017-01-19,Epcot,0,0,1,1,0,0,0,1
+2014-08-05,Epcot,0,0,0,0,1,0,0,0
+2014-12-05,Epcot,0,0,1,0,0,0,0,0
+2014-06-24,Epcot,0,0,0,0,0,0,0,1
+2019-03-07,"Animal Kingdom",0,0,0,0,0,0,1,0
+2020-05-09,"Volcano Bay",0,0,0,0,0,0,1,0
+2006-06-21,"Magic Kingdom",0,0,0,0,0,0,1,0
+2006-02-14,"Magic Kingdom",0,0,0,0,0,0,1,0
+2007-07-29,"Magic Kingdom",0,0,0,0,0,0,1,0
+2019-09-25,"Magic Kingdom",0,0,1,0,0,1,0,0
+2014-06-01,"Magic Kingdom",0,0,1,0,1,0,0,0
+2011-06-03,"Magic Kingdom",0,0,0,0,0,0,1,0
+2009-07-17,"Magic Kingdom",0,0,0,0,0,0,1,0
+2008-04-10,"Magic Kingdom",0,0,0,0,0,1,0,0
+2005-02-13,"Magic Kingdom",1,1,0,0,0,0,0,0
+2022-05-17,"Magic Kingdom",0,0,0,0,0,0,0,0
+2021-11-10,"Magic Kingdom",0,0,1,0,0,0,0,0
+2017-10-25,"Magic Kingdom",0,0,1,1,0,0,0,0
+2017-03-23,"Magic Kingdom",0,0,0,0,0,0,0,1
+2015-11-26,"Magic Kingdom",0,0,0,0,0,0,1,0
+2015-12-20,"Magic Kingdom",0,0,1,0,0,1,0,0
+2015-05-20,"Magic Kingdom",0,0,1,0,0,0,0,0
+2014-10-07,"Magic Kingdom",0,0,0,0,0,0,1,0
+2014-04-13,"Magic Kingdom",0,0,0,0,0,0,1,0
+2012-01-11,"Magic Kingdom",0,0,0,0,1,0,0,1
+2022-07-18,"Islands of Adventure",0,0,0,0,0,0,0,0
+2014-12-24,"Islands of Adventure",0,0,0,0,0,0,0,0
+2014-07-24,"Animal Kingdom",0,0,0,0,0,0,0,0
+2022-02-22,"Magic Kingdom",0,0,0,0,0,0,1,0
+2022-03-24,"Magic Kingdom",0,0,0,0,0,0,1,0
+2019-01-30,"Magic Kingdom",0,0,0,0,0,0,1,0
+2014-11-13,"Magic Kingdom",0,0,0,0,0,0,1,0
+2012-02-25,"Magic Kingdom",0,0,0,0,0,0,1,1
+2012-02-29,"Magic Kingdom",0,0,0,0,0,0,1,1
+2011-09-21,"Magic Kingdom",0,0,0,0,0,0,1,0
+2017-01-24,"Magic Kingdom",0,0,0,0,0,0,1,0
+2010-11-10,"Magic Kingdom",0,0,0,0,0,0,1,0
+2010-12-12,"Magic Kingdom",1,0,1,1,0,0,0,1
+2019-05-26,"Volcano Bay",0,0,0,0,0,0,0,0
+2019-11-07,"Volcano Bay",0,0,0,0,0,0,0,0
+2022-03-24,Epcot,0,0,1,0,0,0,0,0
+2005-11-14,"Universal Studios",0,0,0,1,0,0,0,0
+2005-08-16,"Universal Studios",0,0,0,0,0,0,0,0
+2005-09-23,"Universal Studios",0,0,0,0,0,0,0,1
+2019-06-08,"Universal Studios",0,0,0,0,0,0,0,0
+2018-10-16,"Universal Studios",0,0,0,0,0,0,0,1
+2017-03-28,"Universal Studios",0,0,0,0,0,1,0,0
+2015-06-24,"Universal Studios",0,0,0,0,0,0,0,0
+2015-11-03,"Universal Studios",0,0,1,0,0,0,0,1
+2014-05-16,"Universal Studios",0,0,0,0,0,0,0,0
+2014-05-29,"Universal Studios",0,0,0,0,1,0,0,0
+2012-07-23,"Universal Studios",0,0,0,0,0,0,0,0
+2011-08-04,"Universal Studios",0,0,0,0,0,0,0,0
+2008-05-24,"Universal Studios",0,0,0,0,1,0,0,0
+2007-11-18,"Universal Studios",0,0,0,0,0,0,1,0
+2007-08-19,"Universal Studios",0,0,0,0,1,0,0,0
+2007-07-07,"Universal Studios",0,0,0,0,0,0,0,0
+2004-09-21,"Universal Studios",1,0,0,0,0,0,0,0
+2007-05-19,"Hollywood Studios",0,0,0,0,1,0,0,0
+2006-04-10,"Hollywood Studios",0,0,0,0,0,0,0,1
+2006-06-28,"Hollywood Studios",0,0,0,0,0,0,1,0
+2006-06-29,"Hollywood Studios",1,1,0,1,0,0,0,0
+2019-02-28,"Hollywood Studios",0,0,0,0,1,0,0,0
+2017-04-26,"Hollywood Studios",0,0,0,0,0,0,0,1
+2017-06-15,"Hollywood Studios",0,0,1,0,0,0,0,1
+2021-10-27,"Hollywood Studios",0,0,0,1,0,0,1,0
+2022-02-27,"Hollywood Studios",0,0,1,0,0,1,0,0
+2022-03-26,"Hollywood Studios",0,0,0,1,0,0,0,0
+2019-10-31,"Hollywood Studios",0,0,0,0,0,0,0,1
+2014-12-26,"Hollywood Studios",0,0,0,0,0,0,0,1
+2012-09-06,"Hollywood Studios",0,0,0,1,0,0,0,0
+2014-01-12,"Hollywood Studios",0,0,0,0,0,0,0,1
+2017-08-10,"Hollywood Studios",0,0,1,0,0,0,0,1
+2015-09-18,"Hollywood Studios",0,0,1,0,0,0,0,1
+2009-09-17,"Hollywood Studios",0,0,0,0,0,1,0,0
+2009-09-21,"Hollywood Studios",0,0,0,0,1,0,0,0
+2009-04-13,"Hollywood Studios",0,0,0,0,0,0,0,0
+2009-05-21,"Hollywood Studios",0,0,0,0,1,0,0,0
+2008-05-06,"Hollywood Studios",0,0,0,0,0,1,0,0
+2016-06-21,"Hollywood Studios",0,0,0,0,0,0,0,0
+2016-06-25,"Hollywood Studios",0,0,0,0,0,0,0,1
+2022-10-05,"Volcano Bay",0,0,0,0,0,0,0,0
+2015-11-21,"Magic Kingdom",0,0,0,0,0,0,0,1
+2018-11-27,"Magic Kingdom",0,0,0,0,0,0,0,1
+2017-05-14,"Magic Kingdom",0,0,1,0,0,1,0,0
+2022-09-25,"Hollywood Studios",0,0,0,0,0,1,0,0
+2019-02-02,"Hollywood Studios",0,0,1,0,0,1,0,0
+2004-08-16,"Blizzard Beach",0,0,0,0,0,0,0,1
+2008-08-05,"Magic Kingdom",0,0,0,0,0,1,0,0
+2007-01-15,Epcot,1,0,0,0,0,0,0,0
+2014-10-12,Epcot,0,0,0,0,0,0,1,0
+2012-07-03,Epcot,0,0,0,0,1,0,0,0
+2017-01-16,Epcot,0,0,1,0,1,0,0,0
+2009-08-06,Epcot,0,0,0,0,0,0,0,0
+2017-01-17,Epcot,0,0,0,0,0,0,0,1
+2022-01-23,Epcot,0,0,1,0,1,0,0,0
+2022-08-03,Epcot,0,0,0,0,0,0,0,0
+2022-03-14,Epcot,0,0,0,0,1,0,0,0
+2012-02-09,"Magic Kingdom",0,0,0,0,0,0,0,0
+2007-06-23,"Magic Kingdom",0,0,0,0,0,0,0,1
+2006-07-12,"Magic Kingdom",1,0,0,1,0,0,0,0
+2006-01-08,"Magic Kingdom",1,1,0,0,0,0,0,1
+2006-06-14,"Magic Kingdom",0,0,0,0,1,0,0,0
+2006-03-14,"Magic Kingdom",0,0,0,0,0,0,0,1
+2004-12-24,"Magic Kingdom",1,1,0,1,0,0,0,0
+2003-03-02,"Magic Kingdom",0,0,0,0,0,0,0,0
+2015-09-15,"Magic Kingdom",0,0,0,0,0,0,0,0
+2020-11-21,"Magic Kingdom",0,0,0,0,0,0,0,1
+2019-10-12,"Magic Kingdom",0,0,1,1,0,0,0,0
+2019-08-06,"Magic Kingdom",0,0,0,0,0,0,0,1
+2018-06-08,"Magic Kingdom",0,0,0,0,0,0,0,0
+2018-06-20,"Magic Kingdom",0,0,1,0,0,0,0,0
+2017-12-09,"Magic Kingdom",0,0,0,0,0,0,0,1
+2017-09-27,"Magic Kingdom",0,0,0,1,0,0,1,0
+2016-08-20,"Magic Kingdom",0,0,0,0,1,0,0,0
+2016-04-26,"Magic Kingdom",0,0,0,0,0,0,0,1
+2016-01-26,"Magic Kingdom",0,0,0,0,0,0,1,0
+2015-07-07,"Magic Kingdom",1,0,1,0,0,0,0,0
+2014-12-28,"Magic Kingdom",0,0,0,0,0,0,0,0
+2014-07-29,"Magic Kingdom",0,0,0,0,1,0,0,0
+2014-05-08,"Magic Kingdom",0,0,0,0,0,0,0,0
+2014-03-03,"Magic Kingdom",0,0,1,1,0,0,0,0
+2013-08-26,"Magic Kingdom",0,1,0,0,0,0,0,0
+2013-05-30,"Magic Kingdom",0,0,0,0,1,0,0,1
+2013-01-14,"Magic Kingdom",0,0,0,1,0,0,0,1
+2012-12-29,"Magic Kingdom",0,0,1,1,0,0,0,0
+2012-08-04,"Magic Kingdom",0,0,0,0,0,0,0,0
+2012-09-03,"Magic Kingdom",0,0,0,0,0,0,1,0
+2011-11-19,"Magic Kingdom",0,0,0,0,0,0,0,1
+2011-04-28,"Magic Kingdom",0,0,0,0,0,0,0,1
+2011-05-15,"Magic Kingdom",0,1,0,1,0,0,0,0
+2011-05-21,"Magic Kingdom",0,1,0,1,0,0,0,0
+2010-06-01,"Magic Kingdom",0,0,0,0,0,0,0,0
+2009-03-18,"Magic Kingdom",0,0,0,0,0,0,0,0
+2008-10-24,"Magic Kingdom",0,0,0,0,0,0,0,1
+2018-09-16,"Magic Kingdom",0,0,1,0,0,0,0,0
+2006-08-08,Epcot,0,0,0,0,0,1,0,0
+2005-10-14,Epcot,0,0,0,0,0,0,1,0
+2021-05-30,Epcot,1,1,1,1,0,0,0,0
+2019-05-31,Epcot,0,0,0,1,0,0,0,0
+2016-04-16,Epcot,0,0,0,0,0,0,1,0
+2015-04-14,Epcot,0,0,1,0,0,0,0,0
+2013-12-02,Epcot,0,0,0,0,0,0,0,1
+2012-05-17,Epcot,0,0,0,0,0,1,0,0
+2012-06-15,Epcot,0,0,0,0,0,0,0,1
+2010-05-04,Epcot,0,0,0,0,1,0,0,0
+2009-11-02,Epcot,0,0,0,0,1,0,0,0
+2002-07-07,Epcot,0,0,0,0,0,0,0,0
+2006-07-29,"Magic Kingdom",0,1,0,0,1,0,0,0
+2005-10-07,"Magic Kingdom",0,0,0,0,1,0,0,0
+2021-09-10,"Magic Kingdom",0,0,0,0,0,1,0,0
+2018-06-16,"Magic Kingdom",0,0,0,0,1,0,0,0
+2015-06-15,"Magic Kingdom",0,0,0,0,1,0,0,0
+2011-06-02,"Magic Kingdom",0,0,0,0,0,0,0,0
+2009-04-07,"Magic Kingdom",0,0,0,1,0,0,1,0
+2009-04-13,"Magic Kingdom",0,0,0,0,0,1,0,0
+2008-12-16,"Magic Kingdom",0,0,0,0,0,0,1,0
+2008-04-27,"Magic Kingdom",0,0,0,0,1,0,0,0
+2012-08-31,"Hollywood Studios",0,0,0,0,0,0,0,1
+2019-05-10,"Hollywood Studios",0,0,1,0,0,0,0,1
+2019-08-10,"Hollywood Studios",0,0,1,0,0,0,0,1
+2019-08-19,"Hollywood Studios",0,0,1,0,0,1,1,0
+2019-03-04,"Hollywood Studios",0,0,1,0,1,0,0,0
+2018-06-05,"Hollywood Studios",0,0,1,0,1,0,0,0
+2017-11-21,"Hollywood Studios",0,0,0,0,0,0,0,1
+2016-09-18,"Hollywood Studios",1,0,0,0,0,0,0,1
+2015-06-05,"Hollywood Studios",0,0,0,0,0,0,0,1
+2015-03-16,"Hollywood Studios",0,0,0,0,0,1,0,0
+2014-08-08,"Hollywood Studios",0,0,0,0,1,0,0,0
+2013-01-24,"Hollywood Studios",0,0,1,0,1,0,0,0
+2011-09-08,"Hollywood Studios",0,0,1,0,0,1,0,0
+2009-11-16,"Hollywood Studios",0,0,0,1,0,0,1,1
+2009-07-27,"Hollywood Studios",0,0,0,0,0,1,0,0
+2022-05-13,"Hollywood Studios",0,0,1,0,0,0,0,0
+2022-03-30,"Hollywood Studios",0,0,0,0,0,0,0,0
+2022-02-04,"Islands of Adventure",0,0,0,0,0,1,0,0
+2009-07-06,"Typhoon Lagoon",0,0,0,0,0,0,0,0
+2009-06-25,"Typhoon Lagoon",0,0,0,0,0,0,1,0
+2012-07-07,"Typhoon Lagoon",0,0,0,0,0,0,1,0
+2011-10-25,"Typhoon Lagoon",0,0,0,0,0,0,1,0
+2010-08-23,"Typhoon Lagoon",0,1,0,1,0,0,0,0
+2014-03-08,"Hollywood Studios",0,0,0,0,0,0,0,0
+2006-06-02,"Blizzard Beach",0,0,0,0,0,0,0,0
+2004-07-04,"Blizzard Beach",0,0,0,0,0,0,1,0
+2012-08-26,"Typhoon Lagoon",1,0,0,1,0,0,0,0
+2002-10-19,"Typhoon Lagoon",0,0,0,0,0,0,0,0
+2006-11-04,"Typhoon Lagoon",0,0,0,0,0,0,0,1
+2006-03-03,"Typhoon Lagoon",0,0,0,1,0,0,0,0
+2005-04-08,"Typhoon Lagoon",1,1,0,0,0,0,0,1
+2005-08-31,"Typhoon Lagoon",0,0,0,0,0,0,1,0
+2003-07-17,"Typhoon Lagoon",0,0,0,0,0,0,0,0
+2016-06-14,"Typhoon Lagoon",0,0,0,0,0,0,1,0
+2012-01-05,"Typhoon Lagoon",0,0,0,1,0,0,1,0
+2015-08-23,"Typhoon Lagoon",0,0,1,0,1,0,0,0
+2013-09-01,"Typhoon Lagoon",0,0,0,0,0,0,1,0
+2011-05-13,"Typhoon Lagoon",0,0,0,0,0,0,1,0
+2003-07-02,"Typhoon Lagoon",1,0,0,0,0,0,1,0
+2002-03-29,"Typhoon Lagoon",0,0,0,0,0,0,0,0
+2010-03-08,"Typhoon Lagoon",0,0,0,1,0,0,0,0
+2020-06-14,"Volcano Bay",0,0,0,1,0,0,0,0
+2019-04-03,"Volcano Bay",0,0,0,0,0,0,1,0
+2018-06-09,"Volcano Bay",0,0,0,0,0,0,1,0
+2018-05-16,"Volcano Bay",0,0,0,0,0,0,1,0
+2021-06-19,"Blizzard Beach",0,0,0,0,0,0,1,0
+2017-09-26,"Blizzard Beach",0,0,0,0,0,0,1,0
+2009-04-16,"Blizzard Beach",0,0,0,0,0,0,0,0
+2008-08-14,"Blizzard Beach",0,0,0,0,0,0,1,0
+2022-06-16,"Volcano Bay",0,0,1,0,0,0,0,0
+2019-10-03,"Volcano Bay",0,0,0,0,0,0,0,0
+2017-08-15,"Volcano Bay",0,0,0,0,0,0,0,0
+2013-10-17,"Universal Studios",0,0,0,0,0,0,0,0
+2015-06-06,Epcot,0,0,1,0,1,0,0,0
+2006-12-18,Epcot,0,0,0,0,0,0,1,0
+2020-03-14,Epcot,0,0,1,0,0,0,0,0
+2019-05-17,Epcot,0,0,1,0,0,0,0,1
+2010-03-13,Epcot,0,0,0,0,0,0,0,1
+2009-08-15,Epcot,0,0,0,0,0,0,1,0
+2014-11-23,"Islands of Adventure",0,0,0,0,0,0,0,0
+2008-08-15,"Islands of Adventure",0,0,0,0,1,0,0,0
+2006-09-26,"Islands of Adventure",0,0,0,0,0,0,0,0
+2017-03-11,"Magic Kingdom",0,0,0,0,1,0,0,0
+2013-02-19,"Magic Kingdom",0,0,0,0,0,1,0,0
+2008-01-31,"Islands of Adventure",0,0,0,0,0,0,0,0
+2005-02-22,"Islands of Adventure",0,0,0,1,0,0,0,0
+2008-02-29,"Islands of Adventure",0,0,0,0,0,1,0,0
+2012-07-29,"Islands of Adventure",0,0,0,0,1,0,0,0
+2021-02-15,"Islands of Adventure",0,0,0,1,0,0,0,0
+2020-11-27,"Islands of Adventure",0,0,0,0,0,1,0,0
+2020-02-16,"Islands of Adventure",0,0,0,0,0,0,0,1
+2017-07-24,"Islands of Adventure",0,0,0,0,1,0,0,0
+2017-06-20,"Islands of Adventure",0,0,0,1,0,0,0,0
+2015-06-14,"Islands of Adventure",0,0,0,0,0,0,0,0
+2014-03-14,"Islands of Adventure",0,0,0,0,0,0,0,1
+2011-04-18,"Islands of Adventure",0,0,0,1,0,0,0,0
+2005-06-16,"Magic Kingdom",0,0,0,1,0,0,1,0
+2003-07-16,"Magic Kingdom",0,0,0,0,0,0,1,0
+2003-08-11,"Magic Kingdom",0,0,0,0,0,0,1,0
+2014-02-28,"Magic Kingdom",0,0,0,0,0,0,0,1
+2014-06-28,"Magic Kingdom",0,0,0,1,0,0,0,0
+2021-10-22,"Magic Kingdom",0,0,0,0,0,1,0,0
+2012-01-31,Epcot,0,0,0,0,0,0,0,1
+2019-06-20,Epcot,0,0,0,0,0,0,1,0
+2014-08-17,Epcot,0,0,0,0,0,0,1,0
+2014-04-14,Epcot,0,0,0,0,0,0,1,0
+2010-12-31,Epcot,0,0,0,0,0,0,1,0
+2008-03-13,Epcot,0,0,0,0,0,0,1,0
+2007-11-10,Epcot,0,0,0,0,0,0,1,0
+2018-09-16,Epcot,0,0,0,0,0,0,0,1
+2018-01-14,Epcot,0,0,1,0,1,0,0,0
+2015-07-04,Epcot,0,0,1,0,0,0,0,1
+2022-04-05,"Universal Studios",0,0,0,0,0,0,0,0
+2014-09-09,"Universal Studios",0,0,0,0,0,0,0,0
+2008-01-11,"Universal Studios",0,0,0,0,1,0,0,0
+2006-07-02,"Hollywood Studios",0,0,0,0,0,0,0,1
+2005-12-07,"Hollywood Studios",0,0,0,0,0,0,0,1
+2004-05-16,"Hollywood Studios",0,0,0,0,1,0,0,0
+2003-06-29,"Hollywood Studios",0,0,0,0,1,0,0,0
+2002-01-04,"Hollywood Studios",0,0,0,0,0,0,0,0
+2020-12-02,"Hollywood Studios",0,0,0,0,0,0,0,0
+2017-03-26,"Hollywood Studios",0,0,0,0,0,0,0,1
+2016-05-23,"Hollywood Studios",0,0,0,0,1,0,0,0
+2014-02-07,"Hollywood Studios",0,0,1,0,0,0,0,0
+2014-08-19,"Hollywood Studios",0,0,1,0,1,0,0,0
+2016-10-27,"Hollywood Studios",0,0,0,0,0,0,0,0
+2012-09-07,"Hollywood Studios",0,0,0,0,0,0,0,1
+2008-12-12,"Hollywood Studios",0,0,0,0,0,0,0,0
+2008-07-30,"Hollywood Studios",0,0,0,0,0,0,0,1
+2008-05-04,"Hollywood Studios",0,0,0,0,0,0,0,0
+2007-10-19,"Hollywood Studios",0,0,0,0,0,0,1,1
+2009-11-03,"Blizzard Beach",0,0,0,0,0,0,1,0
+2009-06-18,"Blizzard Beach",0,0,0,0,0,0,0,0
+2014-03-04,"Magic Kingdom",0,0,0,0,0,0,1,0
+2019-07-23,"Magic Kingdom",0,0,0,0,0,0,1,0
+2015-10-01,"Magic Kingdom",0,0,0,0,0,0,1,0
+2009-09-06,"Magic Kingdom",0,0,0,0,0,0,1,0
+2022-09-23,"Magic Kingdom",0,0,0,0,0,0,0,0
+2016-12-06,"Magic Kingdom",0,0,0,0,0,0,0,1
+2015-04-07,"Magic Kingdom",0,0,1,0,0,1,0,0
+2009-12-14,"Magic Kingdom",0,0,0,0,0,0,1,1
+2008-12-28,"Magic Kingdom",0,0,0,1,0,0,0,1
+2015-03-08,"Magic Kingdom",0,0,0,0,0,0,1,0
+2015-04-01,"Magic Kingdom",0,0,1,0,0,0,0,0
+2013-03-18,"Magic Kingdom",0,0,0,0,0,0,0,1
+2022-09-25,"Magic Kingdom",0,0,1,0,0,0,0,0
+2022-09-02,"Magic Kingdom",0,0,0,0,0,0,0,0
+2017-09-07,"Hollywood Studios",0,0,1,0,0,0,0,1
+2021-06-10,"Hollywood Studios",0,0,0,0,0,0,1,1
+2020-12-03,"Hollywood Studios",0,0,0,0,0,0,0,0
+2016-02-23,"Hollywood Studios",0,0,0,1,0,0,0,0
+2014-04-10,"Hollywood Studios",1,0,0,0,0,0,0,1
+2011-10-31,"Hollywood Studios",0,0,1,0,0,0,1,0
+2011-11-20,"Hollywood Studios",0,0,0,0,0,0,0,1
+2015-10-06,"Universal Studios",0,0,0,0,0,0,0,0
+2018-04-19,"Universal Studios",0,0,0,0,0,0,0,0
+2022-07-05,"Magic Kingdom",0,0,1,0,0,0,0,0
+2016-08-16,"Magic Kingdom",0,0,0,0,0,1,0,0
+2014-01-26,"Magic Kingdom",0,0,1,0,0,1,0,0
+2019-09-02,"Magic Kingdom",0,0,1,0,0,0,0,1
+2019-07-21,"Magic Kingdom",0,0,1,0,0,1,0,0
+2017-06-02,"Magic Kingdom",0,0,0,0,0,0,1,0
+2016-07-04,"Magic Kingdom",0,0,0,0,0,0,0,1
+2015-05-05,"Magic Kingdom",0,0,0,0,0,0,0,1
+2022-06-18,"Animal Kingdom",0,0,0,0,0,0,0,1

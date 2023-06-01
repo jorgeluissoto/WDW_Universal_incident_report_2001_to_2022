@@ -93,8 +93,8 @@ SELECT
     COUNT(*) AS count, Ride_name
 FROM
     data
-WHERE
-    Theme_Park = 'Animal Kingdom'
+-- WHERE
+    -- Theme_Park = 'Animal Kingdom'
 GROUP BY Ride_name
 ORDER BY count DESC;
 
@@ -205,8 +205,8 @@ FROM(
 
 -- Medical Indicators Count by Theme Park
 SELECT
+	Incident_date,
 	Theme_Park,
-	COUNT(*) AS count,
 	SUM(CASE WHEN description LIKE '%passed away%' OR description LIKE '%died%' 
 		THEN 1 ELSE 0 END) GuestPassedAway,
     SUM(CASE WHEN description LIKE '%hospital%' THEN 1 ELSE 0 END) Hospital,
@@ -227,7 +227,7 @@ SELECT
 		description LIKE '%dizzy%' OR description LIKE '%ill%' OR description LIKE '%not feeling well%' OR
         description LIKE '%dizziness%' OR description LIKE '%vertigo%' THEN 1 ELSE 0 END) MotionSickness
 FROM data
-GROUP BY Theme_Park;
+GROUP BY Incident_date, Theme_Park;
 
 -- Medical Indicator Percentage by Theme Park 
 SELECT

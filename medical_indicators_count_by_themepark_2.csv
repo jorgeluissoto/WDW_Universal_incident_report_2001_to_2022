@@ -1,0 +1,151 @@
+Year,Theme_Park,GuestPassedAway,Hospital,PreExisting,LoseConsciousness,ChestPain,Seizure,PhysicalPain,MotionSickness
+2022,"Hollywood Studios",0,0,3,1,0,4,1,0
+2014,"Magic Kingdom",1,1,4,3,4,2,8,3
+2009,"Magic Kingdom",0,0,0,1,1,1,5,1
+2022,"Animal Kingdom",0,0,5,1,0,1,0,4
+2021,"Animal Kingdom",0,0,2,1,0,1,0,1
+2018,"Animal Kingdom",0,0,4,0,1,1,0,2
+2019,"Animal Kingdom",0,0,2,0,1,1,1,3
+2017,"Animal Kingdom",0,0,5,2,1,1,2,3
+2004,"Universal Studios",1,0,0,0,0,0,1,0
+2012,"Magic Kingdom",1,0,2,1,1,0,6,3
+2004,"Magic Kingdom",1,1,0,1,0,0,0,0
+2003,"Magic Kingdom",0,0,0,0,0,0,4,0
+2008,"Magic Kingdom",0,0,0,1,1,4,5,3
+2017,"Magic Kingdom",1,1,7,3,2,2,3,4
+2015,"Magic Kingdom",1,0,6,1,3,2,5,4
+2006,"Magic Kingdom",2,2,0,1,2,1,4,3
+2019,"Magic Kingdom",0,0,4,1,0,2,3,2
+2018,"Magic Kingdom",0,0,4,0,1,0,1,3
+2013,"Magic Kingdom",0,1,2,1,3,1,2,4
+2010,"Magic Kingdom",1,0,1,1,0,0,4,1
+2015,"Islands of Adventure",0,0,1,1,0,0,1,4
+2010,"Islands of Adventure",0,0,0,0,0,0,1,0
+2007,"Islands of Adventure",0,0,0,0,0,0,1,0
+2017,"Islands of Adventure",0,0,0,1,1,0,1,3
+2022,"Islands of Adventure",0,0,0,1,0,1,1,1
+2011,"Islands of Adventure",0,0,0,2,1,0,0,2
+2001,"Islands of Adventure",0,0,0,0,0,0,1,0
+2012,"Islands of Adventure",0,0,0,0,1,0,1,4
+2019,"Blizzard Beach",0,0,0,0,0,0,0,0
+2017,"Blizzard Beach",0,0,1,0,0,0,2,0
+2013,"Blizzard Beach",0,0,0,0,0,0,1,0
+2011,"Blizzard Beach",0,0,0,1,0,1,0,0
+2010,"Blizzard Beach",0,0,0,0,0,0,1,0
+2004,"Blizzard Beach",0,1,0,0,0,2,2,1
+2015,"Blizzard Beach",0,0,0,0,0,0,1,0
+2008,"Blizzard Beach",0,0,0,0,0,0,2,0
+2007,"Blizzard Beach",1,0,0,1,0,0,1,0
+2012,"Blizzard Beach",0,0,1,0,1,1,0,0
+2015,"Universal Studios",0,0,2,0,0,0,0,3
+2019,"Universal Studios",0,0,1,0,1,0,1,1
+2018,"Universal Studios",0,0,0,0,0,0,0,2
+2003,"Animal Kingdom",0,0,0,1,1,0,0,0
+2005,"Animal Kingdom",1,1,1,0,0,0,1,0
+2015,"Animal Kingdom",0,0,1,1,1,2,0,3
+2014,"Animal Kingdom",0,0,2,1,1,1,1,2
+2012,"Animal Kingdom",0,0,1,0,1,1,0,0
+2010,"Animal Kingdom",0,0,0,0,3,2,0,3
+2009,"Animal Kingdom",0,0,0,0,0,2,0,1
+2008,"Animal Kingdom",0,0,1,0,1,1,0,3
+2013,"Universal Studios",0,0,0,0,1,0,0,0
+2003,"Islands of Adventure",0,0,0,0,0,0,1,0
+2019,"Islands of Adventure",0,0,0,0,0,0,0,2
+2006,"Islands of Adventure",0,0,0,0,1,0,0,0
+2016,"Islands of Adventure",0,0,2,0,0,1,0,3
+2013,"Islands of Adventure",0,0,1,1,2,1,1,2
+2009,"Islands of Adventure",0,0,0,0,0,0,0,0
+2008,"Islands of Adventure",0,0,0,0,2,1,0,0
+2014,"Islands of Adventure",0,0,2,0,0,1,0,1
+2002,"Islands of Adventure",0,0,0,0,0,0,1,0
+2014,"Universal Studios",0,0,0,0,1,0,0,1
+2009,"Universal Studios",0,0,0,0,1,0,0,0
+2021,"Universal Studios",0,0,0,0,0,1,0,1
+2002,"Universal Studios",0,0,0,0,0,0,1,0
+2005,Epcot,1,1,0,0,1,0,1,2
+2016,Epcot,0,0,0,0,0,0,1,2
+2012,Epcot,0,0,2,1,2,2,1,3
+2011,Epcot,0,0,1,0,0,0,0,2
+2003,Epcot,1,0,0,0,2,0,0,0
+2009,Epcot,0,0,0,1,1,0,1,2
+2007,"Animal Kingdom",1,0,0,1,0,1,1,0
+2006,"Animal Kingdom",0,1,0,1,1,0,1,0
+2013,"Animal Kingdom",0,0,1,0,0,2,0,1
+2011,"Animal Kingdom",0,0,0,0,0,0,0,3
+2016,"Universal Studios",0,0,2,0,0,2,0,1
+2017,Epcot,0,0,3,1,1,0,2,3
+2015,Epcot,0,0,3,0,1,0,1,1
+2007,Epcot,1,0,0,0,0,0,1,1
+2021,Epcot,1,1,1,1,0,0,2,0
+2004,"Hollywood Studios",0,0,0,0,2,0,0,0
+2016,"Hollywood Studios",1,0,0,2,1,0,0,4
+2015,"Hollywood Studios",0,0,2,1,0,1,0,2
+2008,"Hollywood Studios",0,0,0,0,0,1,1,2
+2014,"Hollywood Studios",1,0,2,1,3,0,0,3
+2020,"Islands of Adventure",0,0,0,0,0,2,0,1
+2021,"Islands of Adventure",0,0,0,1,0,0,0,0
+2017,"Universal Studios",0,0,0,0,1,1,0,1
+2022,"Universal Studios",0,0,1,0,0,0,0,0
+2018,"Islands of Adventure",0,0,0,0,0,0,0,3
+2007,"Magic Kingdom",0,0,0,0,0,0,2,1
+2021,"Magic Kingdom",0,0,1,0,0,2,1,0
+2016,"Magic Kingdom",0,0,0,0,1,1,2,4
+2011,"Magic Kingdom",0,2,0,2,0,0,3,2
+2012,"Universal Studios",0,0,0,0,1,0,0,0
+2011,"Universal Studios",0,0,0,1,0,0,0,2
+2010,"Universal Studios",0,0,0,0,0,0,0,0
+2005,"Hollywood Studios",0,0,0,0,0,0,1,1
+2011,"Hollywood Studios",0,0,2,0,0,1,2,1
+2015,"Typhoon Lagoon",0,0,1,0,1,0,3,0
+2013,"Typhoon Lagoon",0,0,0,0,0,0,2,0
+2022,"Magic Kingdom",0,0,3,0,1,0,2,0
+2020,"Magic Kingdom",0,0,0,0,0,0,1,1
+2017,"Volcano Bay",0,0,0,0,0,0,0,0
+2016,"Animal Kingdom",0,0,1,0,0,0,0,1
+2018,"Volcano Bay",0,0,0,0,0,0,2,0
+2019,"Volcano Bay",0,0,0,0,0,0,1,0
+2022,"Volcano Bay",0,0,1,0,1,0,0,0
+2022,Epcot,0,0,4,0,2,0,0,0
+2006,"Typhoon Lagoon",0,0,0,1,0,0,1,1
+2018,"Typhoon Lagoon",0,0,0,0,0,0,3,0
+2014,"Typhoon Lagoon",0,0,0,0,0,0,2,0
+2012,"Typhoon Lagoon",1,0,0,2,1,0,2,0
+2011,"Typhoon Lagoon",0,0,0,0,0,0,3,0
+2018,"Blizzard Beach",1,0,1,0,0,0,0,0
+2020,"Hollywood Studios",0,0,1,0,0,1,1,0
+2006,Epcot,1,1,0,0,0,1,1,2
+2004,Epcot,0,0,0,1,1,0,0,1
+2013,Epcot,0,0,0,2,0,1,0,1
+2010,Epcot,0,0,0,0,2,0,1,4
+2020,Epcot,0,0,2,0,0,0,0,0
+2019,Epcot,0,0,1,1,0,0,1,2
+2018,Epcot,0,0,2,1,1,0,0,1
+2008,Epcot,0,0,0,0,0,0,1,1
+2014,Epcot,0,0,1,0,1,0,3,1
+2020,"Volcano Bay",0,0,0,1,0,0,1,0
+2005,"Magic Kingdom",1,1,0,1,1,0,1,0
+2005,"Universal Studios",0,0,0,1,0,0,0,1
+2008,"Universal Studios",0,0,0,0,2,0,0,0
+2007,"Universal Studios",0,0,0,0,1,0,1,0
+2007,"Hollywood Studios",0,0,0,0,1,0,1,1
+2006,"Hollywood Studios",1,1,0,1,0,0,1,2
+2019,"Hollywood Studios",0,0,5,0,2,2,1,3
+2017,"Hollywood Studios",0,0,3,0,0,0,0,6
+2021,"Hollywood Studios",0,0,0,1,0,0,2,1
+2012,"Hollywood Studios",0,0,0,1,0,0,0,2
+2009,"Hollywood Studios",0,0,0,1,2,2,1,1
+2002,Epcot,0,0,0,0,0,0,0,0
+2018,"Hollywood Studios",0,0,1,0,1,0,0,0
+2013,"Hollywood Studios",0,0,1,0,1,0,0,0
+2009,"Typhoon Lagoon",0,0,0,0,0,0,1,0
+2010,"Typhoon Lagoon",0,1,0,2,0,0,0,0
+2006,"Blizzard Beach",0,0,0,0,0,0,0,0
+2002,"Typhoon Lagoon",0,0,0,0,0,0,0,0
+2005,"Typhoon Lagoon",1,1,0,0,0,0,1,1
+2003,"Typhoon Lagoon",1,0,0,0,0,0,1,0
+2016,"Typhoon Lagoon",0,0,0,0,0,0,1,0
+2021,"Blizzard Beach",0,0,0,0,0,0,1,0
+2009,"Blizzard Beach",0,0,0,0,0,0,1,0
+2005,"Islands of Adventure",0,0,0,1,0,0,0,0
+2003,"Hollywood Studios",0,0,0,0,1,0,0,0
+2002,"Hollywood Studios",0,0,0,0,0,0,0,0
