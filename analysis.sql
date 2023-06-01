@@ -51,6 +51,8 @@ GROUP BY gender;
 -- Which year had the most incidents and the trend of incidents
 SET sql_safe_updates = 0;
 
+/* This code updates the "incident_date" column in the "data" table.
+It converts the existing date format (mm/dd/yyyy) to the desired format (yyyy-mm-dd).*/
 UPDATE data 
 SET 
     incident_date = DATE_FORMAT(STR_TO_DATE(incident_date, '%m/%d/%Y'),
@@ -126,7 +128,7 @@ GROUP BY Company;
 
 -- Percentage of Medical Indicators
 SELECT
-	GuestPassedAway/ count AS GuestPassedAway,
+    GuestPassedAway/ count AS GuestPassedAway,
     Hospital/ count AS HospitalPercentage,
     PreExisting/ count AS PreExistingPercentage,
     LoseConsciousness/ count AS LossConsciousnessPercentage,
